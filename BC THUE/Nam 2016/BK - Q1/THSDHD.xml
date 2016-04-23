@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+	<HSoKhaiThue>
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.7</pbanDVu>
+				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>102</maTKhai>
+					<tenTKhai>Báo cáo tình hình sử dụng hóa đơn (BC26/AC)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 39/2014/TT-BTC  ngày 31/3/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.8</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>1/2016</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2016</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/03/2016</kyKKhaiDenNgay>
+						<kyKKhaiTuThang></kyKKhaiTuThang>
+						<kyKKhaiDenThang></kyKKhaiDenThang>
+					</KyKKhaiThue>
+					<maCQTNoiNop>70139</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Huyện Bình Chánh</tenCQTNoiNop>
+					<ngayLapTKhai>2016-04-23</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan></maLyDoGiaHan>
+						<lyDoGiaHan></lyDoGiaHan>
+					</GiaHan>
+					<nguoiKy>Lê Thị Dung</nguoiKy>
+					<ngayKy>2016-04-23</ngayKy>
+					<nganhNgheKD></nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>0310686815</mst>
+					<tenNNT>CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI KIM DUNG PHÁT</tenNNT>
+					<dchiNNT>1A227/1, Ấp 1, Xã Phạm Văn Hai</dchiNNT>
+					<phuongXa></phuongXa>
+					<maHuyenNNT></maHuyenNNT>
+					<tenHuyenNNT>Bình Chánh</tenHuyenNNT>
+					<maTinhNNT></maTinhNNT>
+					<tenTinhNNT>Hồ Chí Minh</tenTinhNNT>
+					<dthoaiNNT>08.37665512</dthoaiNNT>
+					<faxNNT>08.37660588</faxNNT>
+					<emailNNT>congtykimdungphat@gmail.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<kyBCaoCuoi>0</kyBCaoCuoi>
+			<chuyenDiaDiem>0</chuyenDiaDiem>
+			<ngayDauKyBC>2016-01-01</ngayDauKyBC>
+			<ngayCuoiKyBC>2016-03-31</ngayCuoiKyBC>
+			<HoaDon>
+				<ChiTiet id="ID_1">
+					<maHoaDon>01GTKT</maHoaDon>
+					<tenHDon>Hóa đơn giá trị gia tăng</tenHDon>
+					<kHieuMauHDon>01GTKT3/003</kHieuMauHDon>
+					<kHieuHDon>KD/15P</kHieuHDon>
+					<soTonMuaTrKy_tongSo>282</soTonMuaTrKy_tongSo>
+					<soTonDauKy_tuSo>0000219</soTonDauKy_tuSo>
+					<soTonDauKy_denSo>0000500</soTonDauKy_denSo>
+					<muaTrongKy_tuSo></muaTrongKy_tuSo>
+					<muaTrongKy_denSo></muaTrongKy_denSo>
+					<tongSoSuDung_tuSo>0000219</tongSoSuDung_tuSo>
+					<tongSoSuDung_denSo>0000350</tongSoSuDung_denSo>
+					<tongSoSuDung_cong>132</tongSoSuDung_cong>
+					<soDaSDung>110</soDaSDung>
+					<xoaBo_soLuong>22</xoaBo_soLuong>
+					<xoaBo_so>0000257;0000260;0000263;0000276;0000277;0000282;0000292;0000296;0000299;0000302;0000316;0000322;0000323;0000326;0000331;0000339;0000342;0000343;0000346;0000348;0000349;0000350</xoaBo_so>
+					<mat_soLuong>0</mat_soLuong>
+					<mat_so></mat_so>
+					<huy_soLuong>0</huy_soLuong>
+					<huy_so></huy_so>
+					<tonCuoiKy_tuSo>0000351</tonCuoiKy_tuSo>
+					<tonCuoiKy_denSo>0000500</tonCuoiKy_denSo>
+					<tonCuoiKy_soLuong>150</tonCuoiKy_soLuong>
+				</ChiTiet></HoaDon>
+			<tongCongSoTonDKy>282</tongCongSoTonDKy>
+			<tongCongSDung>132</tongCongSDung>
+			<tongCongSoTonCKy>150</tongCongSoTonCKy>
+			<nguoiLapBieu></nguoiLapBieu>
+			<nguoiDaiDien>Lê Thị Dung</nguoiDaiDien>
+			<ngayBCao>2016-04-23</ngayBCao>
+		</CTieuTKhaiChinh>
+	</HSoKhaiThue>
+</HSoThueDTu>
