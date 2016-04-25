@@ -26,13 +26,13 @@
 					</KyKKhaiThue>
 					<maCQTNoiNop>70139</maCQTNoiNop>
 					<tenCQTNoiNop>Chi cục Thuế Huyện Bình Chánh</tenCQTNoiNop>
-					<ngayLapTKhai>2016-04-23</ngayLapTKhai>
+					<ngayLapTKhai>2016-04-25</ngayLapTKhai>
 					<GiaHan>
 						<maLyDoGiaHan></maLyDoGiaHan>
 						<lyDoGiaHan></lyDoGiaHan>
 					</GiaHan>
 					<nguoiKy>Lê Thị Dung</nguoiKy>
-					<ngayKy>2016-04-23</ngayKy>
+					<ngayKy>2016-04-25</ngayKy>
 					<nganhNgheKD></nganhNgheKD>
 				</TKhaiThue>
 				<NNT>
@@ -67,25 +67,25 @@
 					<muaTrongKy_tuSo></muaTrongKy_tuSo>
 					<muaTrongKy_denSo></muaTrongKy_denSo>
 					<tongSoSuDung_tuSo>0000219</tongSoSuDung_tuSo>
-					<tongSoSuDung_denSo>0000350</tongSoSuDung_denSo>
-					<tongSoSuDung_cong>132</tongSoSuDung_cong>
-					<soDaSDung>110</soDaSDung>
-					<xoaBo_soLuong>22</xoaBo_soLuong>
-					<xoaBo_so>0000257;0000260;0000263;0000276;0000277;0000282;0000292;0000296;0000299;0000302;0000316;0000322;0000323;0000326;0000331;0000339;0000342;0000343;0000346;0000348;0000349;0000350</xoaBo_so>
+					<tongSoSuDung_denSo>0000340</tongSoSuDung_denSo>
+					<tongSoSuDung_cong>122</tongSoSuDung_cong>
+					<soDaSDung>106</soDaSDung>
+					<xoaBo_soLuong>16</xoaBo_soLuong>
+					<xoaBo_so>257;260;263;276;277;282;292;296;299;302;316;322;323;326;331;339</xoaBo_so>
 					<mat_soLuong>0</mat_soLuong>
 					<mat_so></mat_so>
 					<huy_soLuong>0</huy_soLuong>
 					<huy_so></huy_so>
-					<tonCuoiKy_tuSo>0000351</tonCuoiKy_tuSo>
+					<tonCuoiKy_tuSo>0000341</tonCuoiKy_tuSo>
 					<tonCuoiKy_denSo>0000500</tonCuoiKy_denSo>
-					<tonCuoiKy_soLuong>150</tonCuoiKy_soLuong>
+					<tonCuoiKy_soLuong>160</tonCuoiKy_soLuong>
 				</ChiTiet></HoaDon>
 			<tongCongSoTonDKy>282</tongCongSoTonDKy>
-			<tongCongSDung>132</tongCongSDung>
-			<tongCongSoTonCKy>150</tongCongSoTonCKy>
+			<tongCongSDung>122</tongCongSDung>
+			<tongCongSoTonCKy>160</tongCongSoTonCKy>
 			<nguoiLapBieu></nguoiLapBieu>
 			<nguoiDaiDien>Lê Thị Dung</nguoiDaiDien>
-			<ngayBCao>2016-04-23</ngayBCao>
+			<ngayBCao>2016-04-25</ngayBCao>
 		</CTieuTKhaiChinh>
 	</HSoKhaiThue>
 </HSoThueDTu>
