@@ -25,7 +25,7 @@
 					</KyKKhaiThue>
 					<maCQTNoiNop>70139</maCQTNoiNop>
 					<tenCQTNoiNop>Chi cục Thuế Huyện Bình Chánh</tenCQTNoiNop>
-					<ngayLapTKhai>2016-04-25</ngayLapTKhai>
+					<ngayLapTKhai>2016-04-27</ngayLapTKhai>
 					<GiaHan>
 						<maLyDoGiaHan/>
 						<lyDoGiaHan/>
@@ -66,30 +66,30 @@
 					<muaTrongKy_tuSo/>
 					<muaTrongKy_denSo/>
 					<tongSoSuDung_tuSo>0000219</tongSoSuDung_tuSo>
-					<tongSoSuDung_denSo>0000340</tongSoSuDung_denSo>
-					<tongSoSuDung_cong>122</tongSoSuDung_cong>
+					<tongSoSuDung_denSo>0000341</tongSoSuDung_denSo>
+					<tongSoSuDung_cong>123</tongSoSuDung_cong>
 					<soDaSDung>106</soDaSDung>
-					<xoaBo_soLuong>16</xoaBo_soLuong>
-					<xoaBo_so>257;260;263;276;277;282;292;296;299;302;316;322;323;326;331;339</xoaBo_so>
+					<xoaBo_soLuong>17</xoaBo_soLuong>
+					<xoaBo_so>257;260;263;276;277;282;292;296;299;302;316;322;323;326;331;337;339</xoaBo_so>
 					<mat_soLuong>0</mat_soLuong>
 					<mat_so/>
 					<huy_soLuong>0</huy_soLuong>
 					<huy_so/>
-					<tonCuoiKy_tuSo>0000341</tonCuoiKy_tuSo>
+					<tonCuoiKy_tuSo>0000342</tonCuoiKy_tuSo>
 					<tonCuoiKy_denSo>0000500</tonCuoiKy_denSo>
-					<tonCuoiKy_soLuong>160</tonCuoiKy_soLuong>
+					<tonCuoiKy_soLuong>159</tonCuoiKy_soLuong>
 				</ChiTiet></HoaDon>
 			<tongCongSoTonDKy>282</tongCongSoTonDKy>
-			<tongCongSDung>122</tongCongSDung>
-			<tongCongSoTonCKy>160</tongCongSoTonCKy>
+			<tongCongSDung>123</tongCongSDung>
+			<tongCongSoTonCKy>159</tongCongSoTonCKy>
 			<nguoiLapBieu/>
 			<nguoiDaiDien>Lê Thị Dung</nguoiDaiDien>
 			<ngayBCao>2016-04-25</ngayBCao>
 		</CTieuTKhaiChinh>
 	</HSoKhaiThue>
-<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ftuaTVmvFFGEBS0mYABH07g6LsU=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>CA1DydllH2KC5K0r6EJ8DIuXm04JYcPhM7vDFWLal0FAqyuuRJjnwe8wId5Ms1MGW5YAzJvJNhof
-hBqYIiiTUNVuRAWQT79uQa47MfM2kuf+HzysWGgbxZO0bcSqXQav15l65HXycrBBbNHzmL6KadeO
-YCvWMK0SWNS9cJm9TMs=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>p2bN/ZGjoXWHHlAxyzUSey1h7wiCiyvkjKLqslOCg4g/qOeZuy9FFjHhJq6uX9MYXRj4fzNz4stZ
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>KngYQYrw8bWR7veRw1IS+vjWc2o=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>dn6OFe/+2bJP2o/DyYaSYnY6p6+nWQ2aQSLEQx+WXRyQnolSwovDDUqOFYymqVtXO0pOi7PMIJVT
+thz1UqdDMlHlWSHqMMN2GbUTDwwZEZJjRPTVtn9/QU2S3sQHW7EdHlR/JNoVAievPtvbhMIfdbM7
+bQEmNE/eLMgMVi2BPQ8=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>p2bN/ZGjoXWHHlAxyzUSey1h7wiCiyvkjKLqslOCg4g/qOeZuy9FFjHhJq6uX9MYXRj4fzNz4stZ
 xhr8aXXGphQumfMjOYcxe20fL0XebOBXvEb2uqloyMQ1b3YVmFMDDbI+qzG2edyVcCFww7F75eGt
 wNEYed1pT4WCqX7JPrc=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>1.2.840.113549.1.9.1=#161664616f6e677579656e32343040676d61696c2e636f6d,CN=Công Ty TNHH Sản Xuất Thương Mại Kim Dung Phát,OU=Kh�ng BH(GH),O=Công Ty TNHH Sản Xuất Thương Mại Kim Dung Phát,L=1A227/1 ấp 1\, Xã Phạm Văn Hai\, Huyện Bình Chánh \,TP HCM,ST=MST:0310686815,C=VN</ds:X509SubjectName><ds:X509Certificate>MIIG0DCCBbigAwIBAgIQVAK8XKzOZpwgFQAAAAG/TDANBgkqhkiG9w0BAQUFADAzMQswCQYDVQQG
 EwJWTjEWMBQGA1UEChMNTkFDRU5DT01NIFNDVDEMMAoGA1UEAxMDQ0EyMB4XDTE2MDEyNTAyNDYy
