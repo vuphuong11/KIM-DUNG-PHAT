@@ -17,21 +17,21 @@
 					<soLan>0</soLan>
 					<KyKKhaiThue>
 						<kieuKy>D</kieuKy>
-						<kyKKhai>24/06/2016</kyKKhai>
-						<kyKKhaiTuNgay>24/06/2016</kyKKhaiTuNgay>
-						<kyKKhaiDenNgay>24/06/2016</kyKKhaiDenNgay>
+						<kyKKhai>01/07/2016</kyKKhai>
+						<kyKKhaiTuNgay>01/07/2016</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>01/07/2016</kyKKhaiDenNgay>
 						<kyKKhaiTuThang/>
 						<kyKKhaiDenThang/>
 					</KyKKhaiThue>
 					<maCQTNoiNop>80115</maCQTNoiNop>
 					<tenCQTNoiNop>Chi cục Thuế Huyện Đức Hoà</tenCQTNoiNop>
-					<ngayLapTKhai>2016-06-24</ngayLapTKhai>
+					<ngayLapTKhai>2016-07-01</ngayLapTKhai>
 					<GiaHan>
 						<maLyDoGiaHan/>
 						<lyDoGiaHan/>
 					</GiaHan>
 					<nguoiKy>Lê Thị Dung</nguoiKy>
-					<ngayKy>2016-06-24</ngayKy>
+					<ngayKy>2016-07-01</ngayKy>
 					<nganhNgheKD>Sản xuất bao bì giấy</nganhNgheKD>
 				</TKhaiThue>
 				<NNT>
@@ -40,12 +40,12 @@
 					<dchiNNT>Ấp Rừng Sến, Xã Mỹ Hạnh Bắc</dchiNNT>
 					<phuongXa/>
 					<maHuyenNNT/>
-					<tenHuyenNNT>Đức Hòa</tenHuyenNNT>
+					<tenHuyenNNT>Huyện Đức Hòa</tenHuyenNNT>
 					<maTinhNNT/>
-					<tenTinhNNT>Long An</tenTinhNNT>
-					<dthoaiNNT/>
+					<tenTinhNNT>Tỉnh Long An, Việt Nam</tenTinhNNT>
+					<dthoaiNNT>726573639</dthoaiNNT>
 					<faxNNT/>
-					<emailNNT/>
+					<emailNNT>vuphuong11@gmail.com</emailNNT>
 				</NNT>
 			</TTinTKhaiThue>
 		</TTinChung>
@@ -58,14 +58,14 @@
 					<soLuong>1000</soLuong>
 					<tuSo>0000001</tuSo>
 					<denSo>0001000</denSo>
-					<ngayBDauSDung>2016-07-01</ngayBDauSDung>
+					<ngayBDauSDung>2016-07-07</ngayBDauSDung>
 					<DoanhNghiepIn>
 						<ten>CÔNG TY TNHH IN ẤN HUY DUY PHÁT</ten>
 						<mst>0313261539</mst>
 					</DoanhNghiepIn>
 					<HopDongDatIn>
-						<so>10.06.2016/HĐKT/HDP-DP</so>
-						<ngay>2016-06-10</ngay>
+						<so>20.06.2016/HĐKT/HDP-DP</so>
+						<ngay>2016-06-20</ngay>
 					</HopDongDatIn>
 				</ChiTiet></HoaDon>
 			<DonViChuQuan>
@@ -74,12 +74,12 @@
 			</DonViChuQuan>
 			<tenCQTTiepNhan>Chi Cục Thuế Huyện Đức Hòa</tenCQTTiepNhan>
 			<nguoiDaiDien>Lê Thị Dung</nguoiDaiDien>
-			<ngayBCao>2016-06-24</ngayBCao>
+			<ngayBCao>2016-07-01</ngayBCao>
 		</CTieuTKhaiChinh>
 	</HSoKhaiThue>
-<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_1"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>F/mKiEQ4wkxSW9DrSzQ8XI/ys4Q=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>Z33tAa7HEuHB94ZHaDcIykwoiTlcwIYfXUP2ozQmv+S4FG4WfJS9HhvzK5YQAw0Eyhf7HHzkIZF0
-yWkLfiWtW5Wxn/IB7S+FQCYeqhMTSH5ENZaRZKD1NZtSYactfyEJ8fS9SLjrz1EYUYyoAp9ZJTyB
-bmjUAOONpQ9q+MFx8ds=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>qZn5gNk4NcVMY3kHHUdHjV8RRHqQcR/ZM8aqBunqULIJeJVAK3OCi8BY/FsE27CTC92jORJfnc07
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_1"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>zllPYqZwpW1URx7YShQ+2NUz/aQ=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>bKVb04d/VCSVmGh5WNkxAJjN523VG+Xh7N3LitOgq2jGf0nMdzI2sYhMKz3PDaFyZIudCKA4Th3M
+Ta4PszMPf55jTIL8eTj+p8YKGZ8WwvLJqUnN7D99ZcUs4AuoaPmXclqxlBI6dmzpzN1S28dkSA+B
+pV9UH5wXzvTh40SVkNQ=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>qZn5gNk4NcVMY3kHHUdHjV8RRHqQcR/ZM8aqBunqULIJeJVAK3OCi8BY/FsE27CTC92jORJfnc07
 gQNAxC101DiHX2u+GL6tese2ykiiAzxqjgVN0Ys/CGps5vuqsYyNkuQdVIsM24E65o+4gCcPEOS6
 7MpCnrtKH3bhNM5yJrk=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,ST=LONG AN,L=Đức Hòa,O=PMT,CN=CÔNG TY TNHH BAO BÌ GIẤY KIM DUNG PHÁT,UID=MST:1101819710</ds:X509SubjectName><ds:X509Certificate>MIIEojCCA4qgAwIBAgIQVAg3YWCrUpsCA/Qu/RR1uTANBgkqhkiG9w0BAQUFADBLMQswCQYDVQQG
 EwJWTjEoMCYGA1UEChMfQ29uZyB0eSBjbyBwaGFuIGNodSBreSBzbyBWSSBOQTESMBAGA1UEAxMJ
@@ -101,9 +101,9 @@ AwwwDQYJKoZIhvcNAQEFBQADggEBANRBQUL1bEYKmgTQ0Llur+zgU3nMbLLMrmrBQbtGe9tl3YgZ
 i76H/1AOo+ek03KpfAcSdKI6sILCl9VVhI1k0F8qKx2jw9RErO7Iop4wzJBsqBWm3SNoAGb+pQU/
 7hjH2g0TFeawuR5qjxSd5N1i7VPb413LnzqSYOfyPPVf1yLficuRc5DxP4ta4H/iGTBna0fnfStt
 DSscz89SkzvOft6ZFXCIE+eGxsqanDj2QnyMfwygQ2SaosIzJfC3V6bz618N1TD70aebBUagmAsm
-g5y9POm/DUDZ46t+DeKs1PHsXbmLCpVHe/9ORCtcDxn3hd+DKX2wfgoZjRTFiXkDvxA=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_1"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>F/mKiEQ4wkxSW9DrSzQ8XI/ys4Q=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>Z33tAa7HEuHB94ZHaDcIykwoiTlcwIYfXUP2ozQmv+S4FG4WfJS9HhvzK5YQAw0Eyhf7HHzkIZF0
-yWkLfiWtW5Wxn/IB7S+FQCYeqhMTSH5ENZaRZKD1NZtSYactfyEJ8fS9SLjrz1EYUYyoAp9ZJTyB
-bmjUAOONpQ9q+MFx8ds=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>qZn5gNk4NcVMY3kHHUdHjV8RRHqQcR/ZM8aqBunqULIJeJVAK3OCi8BY/FsE27CTC92jORJfnc07
+g5y9POm/DUDZ46t+DeKs1PHsXbmLCpVHe/9ORCtcDxn3hd+DKX2wfgoZjRTFiXkDvxA=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_1"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>zllPYqZwpW1URx7YShQ+2NUz/aQ=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>bKVb04d/VCSVmGh5WNkxAJjN523VG+Xh7N3LitOgq2jGf0nMdzI2sYhMKz3PDaFyZIudCKA4Th3M
+Ta4PszMPf55jTIL8eTj+p8YKGZ8WwvLJqUnN7D99ZcUs4AuoaPmXclqxlBI6dmzpzN1S28dkSA+B
+pV9UH5wXzvTh40SVkNQ=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>qZn5gNk4NcVMY3kHHUdHjV8RRHqQcR/ZM8aqBunqULIJeJVAK3OCi8BY/FsE27CTC92jORJfnc07
 gQNAxC101DiHX2u+GL6tese2ykiiAzxqjgVN0Ys/CGps5vuqsYyNkuQdVIsM24E65o+4gCcPEOS6
 7MpCnrtKH3bhNM5yJrk=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,ST=LONG AN,L=Đức Hòa,O=PMT,CN=CÔNG TY TNHH BAO BÌ GIẤY KIM DUNG PHÁT,UID=MST:1101819710</ds:X509SubjectName><ds:X509Certificate>MIIEojCCA4qgAwIBAgIQVAg3YWCrUpsCA/Qu/RR1uTANBgkqhkiG9w0BAQUFADBLMQswCQYDVQQG
 EwJWTjEoMCYGA1UEChMfQ29uZyB0eSBjbyBwaGFuIGNodSBreSBzbyBWSSBOQTESMBAGA1UEAxMJ
