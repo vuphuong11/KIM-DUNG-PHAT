@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="ID_18">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.7</pbanDVu>
+				<ttinNhaCCapDVu/>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>01</maTKhai>
+					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>1/2016</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2016</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/03/2016</kyKKhaiDenNgay>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
+					</KyKKhaiThue>
+					<maCQTNoiNop>71109</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Thị Xã Dĩ An</tenCQTNoiNop>
+					<ngayLapTKhai>2016-04-30</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
+					</GiaHan>
+					<nguoiKy/>
+					<ngayKy>2016-04-24</ngayKy>
+					<nganhNgheKD/>
+				</TKhaiThue>
+				<NNT>
+					<mst>3702076037</mst>
+					<tenNNT>Công ty TNHH MTV Khởi Nguyên An</tenNNT>
+					<dchiNNT>Thửa đất số 144, Tờ bản đồ số 12, TĐH1, Tổ 1, KP Đông Tác, P Tân Đông Hiệp,</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
+					<tenHuyenNNT>Dĩ an</tenHuyenNNT>
+					<maTinhNNT/>
+					<tenTinhNNT>Bình Dương</tenTinhNNT>
+					<dthoaiNNT/>
+					<faxNNT/>
+					<emailNNT>hienphuong81@gmail.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan>1701</tieuMucHachToan>
+			<ct21>0</ct21>
+			<ct22>3168387</ct22>
+			<GiaTriVaThueGTGTHHDVMuaVao>
+				<ct23>740798122</ct23>
+				<ct24>74079813</ct24>
+			</GiaTriVaThueGTGTHHDVMuaVao>
+			<ct25>74079813</ct25>
+			<ct26>0</ct26>
+			<HHDVBRaChiuThueGTGT>
+				<ct27>689312116</ct27>
+				<ct28>68931210</ct28>
+			</HHDVBRaChiuThueGTGT>
+			<ct29>0</ct29>
+			<HHDVBRaChiuTSuat5>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+			</HHDVBRaChiuTSuat5>
+			<HHDVBRaChiuTSuat10>
+				<ct32>689312116</ct32>
+				<ct33>68931210</ct33>
+			</HHDVBRaChiuTSuat10>
+			<TongDThuVaThueGTGTHHDVBRa>
+				<ct34>689312116</ct34>
+				<ct35>68931210</ct35>
+			</TongDThuVaThueGTGTHHDVBRa>
+			<ct36>-5148603</ct36>
+			<ct37>0</ct37>
+			<ct38>0</ct38>
+			<ct39>0</ct39>
+			<ct40a>0</ct40a>
+			<ct40b>0</ct40b>
+			<ct40>0</ct40>
+			<ct41>8316990</ct41>
+			<ct42>0</ct42>
+			<ct43>8316990</ct43>
+		</CTieuTKhaiChinh>
+		<PLuc>
+			<PL01_1_GTGT>
+				<HHDVKChiuThue>
+					<ChiTietHHDVKChiuThue>
+					</ChiTietHHDVKChiuThue>
+					<tongDThuBRaKChiuThue>0</tongDThuBRaKChiuThue>
+				</HHDVKChiuThue>
+				<HHDVThue0>
+					<ChiTietHHDVThue0>
+					</ChiTietHHDVThue0>
+					<tongDThuBRaThue0>0</tongDThuBRaThue0>
+					<tongThueBRaThue0>0</tongThueBRaThue0>
+				</HHDVThue0>
+				<HHDVThue5>
+					<ChiTietHHDVThue5>
+					</ChiTietHHDVThue5>
+					<tongDThuBRaThue5>0</tongDThuBRaThue5>
+					<tongThueBRaThue5>0</tongThueBRaThue5>
+				</HHDVThue5>
+				<HHDVThue10>
+					<ChiTietHHDVThue10>
+						<HDonBRa id="ID_1">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000495</soHDon>
+							<ngayPHanh>2016-02-29</ngayPHanh>
+							<tenNMUA>Công ty TNHH Đá Xanh</tenNMUA>
+							<mstNMUA>3701773902</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>35273984</dsoBanChuaThue>
+							<thueGTGT>3527398</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_2">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000496</soHDon>
+							<ngayPHanh>2016-02-29</ngayPHanh>
+							<tenNMUA>Công Ty TNHH Yaban Chain Industrial VietNam</tenNMUA>
+							<mstNMUA>3700339107</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>4400000</dsoBanChuaThue>
+							<thueGTGT>440000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_3">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000493</soHDon>
+							<ngayPHanh>2016-02-27</ngayPHanh>
+							<tenNMUA>Công ty TNHH Pham Tôn</tenNMUA>
+							<mstNMUA>0304152188</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>9800000</dsoBanChuaThue>
+							<thueGTGT>980000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_4">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000492</soHDon>
+							<ngayPHanh>2016-02-26</ngayPHanh>
+							<tenNMUA>Công ty TNHH MTV TM Vương Minh Phát</tenNMUA>
+							<mstNMUA>3702223034</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1390000</dsoBanChuaThue>
+							<thueGTGT>139000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_5">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000491</soHDon>
+							<ngayPHanh>2016-02-26</ngayPHanh>
+							<tenNMUA>Công ty TNHH DV TM XNK KH Brench</tenNMUA>
+							<mstNMUA>3702386430</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>12070000</dsoBanChuaThue>
+							<thueGTGT>1207000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_6">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000490</soHDon>
+							<ngayPHanh>2016-02-23</ngayPHanh>
+							<tenNMUA>Công ty TNHH Asia Polytec</tenNMUA>
+							<mstNMUA>3700529186</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>2853200</dsoBanChuaThue>
+							<thueGTGT>285320</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_7">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000489</soHDon>
+							<ngayPHanh>2016-02-22</ngayPHanh>
+							<tenNMUA>Công ty TNHH Đồ Gỗ Thanh Thư</tenNMUA>
+							<mstNMUA>3701770098</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>149070000</dsoBanChuaThue>
+							<thueGTGT>14907000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_8">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000488</soHDon>
+							<ngayPHanh>2016-02-20</ngayPHanh>
+							<tenNMUA>Công ty TNHH Shiogai Seiki Việt Nam</tenNMUA>
+							<mstNMUA>3600715894</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>8000000</dsoBanChuaThue>
+							<thueGTGT>800000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_9">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000487</soHDon>
+							<ngayPHanh>2016-02-16</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần đầu tư xây dựng địa ốc FDC</tenNMUA>
+							<mstNMUA>0303103212</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>3013878</dsoBanChuaThue>
+							<thueGTGT>301388</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_10">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000486</soHDon>
+							<ngayPHanh>2016-02-16</ngayPHanh>
+							<tenNMUA>Công ty TNHH Pham Tôn</tenNMUA>
+							<mstNMUA>0304152188</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>9800000</dsoBanChuaThue>
+							<thueGTGT>980000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_11">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000484</soHDon>
+							<ngayPHanh>2016-02-10</ngayPHanh>
+							<tenNMUA>Công ty TNHH ViỆT Nam BLS</tenNMUA>
+							<mstNMUA>0310425362</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>6500000</dsoBanChuaThue>
+							<thueGTGT>650000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_12">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000482</soHDon>
+							<ngayPHanh>2016-02-02</ngayPHanh>
+							<tenNMUA>Công ty TNHH Pham Tôn</tenNMUA>
+							<mstNMUA>0304152188</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>9800000</dsoBanChuaThue>
+							<thueGTGT>980000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_13">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000481</soHDon>
+							<ngayPHanh>2016-02-01</ngayPHanh>
+							<tenNMUA>Công ty TNHH J TEX VINA</tenNMUA>
+							<mstNMUA>0305495974</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>13248792</dsoBanChuaThue>
+							<thueGTGT>1324879</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_14">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000480</soHDon>
+							<ngayPHanh>2016-02-01</ngayPHanh>
+							<tenNMUA>Công ty TNHH Chem Tech </tenNMUA>
+							<mstNMUA>3700603175</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>8700000</dsoBanChuaThue>
+							<thueGTGT>870000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_15">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000498</soHDon>
+							<ngayPHanh>2016-03-04</ngayPHanh>
+							<tenNMUA>Công ty Cổ Phần  TM DV KT Cao Nam Phát</tenNMUA>
+							<mstNMUA>0311731926</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1606000</dsoBanChuaThue>
+							<thueGTGT>160600</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_16">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000499</soHDon>
+							<ngayPHanh>2016-03-05</ngayPHanh>
+							<tenNMUA>Công ty TNHH Nordic Country Home Việt Nam</tenNMUA>
+							<mstNMUA>0311925230</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>2000000</dsoBanChuaThue>
+							<thueGTGT>200000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_17">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000500</soHDon>
+							<ngayPHanh>2016-03-07</ngayPHanh>
+							<tenNMUA>Công ty TNHH J TEX VINA</tenNMUA>
+							<mstNMUA>0305495974</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>14956975</dsoBanChuaThue>
+							<thueGTGT>1495697</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_18">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000520</soHDon>
+							<ngayPHanh>2016-03-30</ngayPHanh>
+							<tenNMUA>Công ty TNHH Look.s.y</tenNMUA>
+							<mstNMUA>3603093803</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>17927250</dsoBanChuaThue>
+							<thueGTGT>1792725</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_19">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000518</soHDon>
+							<ngayPHanh>2016-03-30</ngayPHanh>
+							<tenNMUA>Công ty TNHH Đá Xanh</tenNMUA>
+							<mstNMUA>3701773902</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>53859129</dsoBanChuaThue>
+							<thueGTGT>5385913</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_20">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000517</soHDon>
+							<ngayPHanh>2016-03-29</ngayPHanh>
+							<tenNMUA>Công ty TNHH SX TM Kim Dung Phát</tenNMUA>
+							<mstNMUA>0310686815</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>8860380</dsoBanChuaThue>
+							<thueGTGT>886038</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_21">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000515</soHDon>
+							<ngayPHanh>2016-03-29</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần đầu tư xây dựng địa ốc FDC</tenNMUA>
+							<mstNMUA>0303103212</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>3209616</dsoBanChuaThue>
+							<thueGTGT>320962</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_22">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000514</soHDon>
+							<ngayPHanh>2016-03-28</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần đầu tư xây dựng địa ốc FDC</tenNMUA>
+							<mstNMUA>0303103212</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>3247360</dsoBanChuaThue>
+							<thueGTGT>324736</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_23">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000513</soHDon>
+							<ngayPHanh>2016-03-24</ngayPHanh>
+							<tenNMUA>Công ty CP Ô Tô Vĩnh Thịnh</tenNMUA>
+							<mstNMUA>3702366949</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1100000</dsoBanChuaThue>
+							<thueGTGT>110000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_24">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000511</soHDon>
+							<ngayPHanh>2016-03-19</ngayPHanh>
+							<tenNMUA>Công ty TNHH Look.s.y</tenNMUA>
+							<mstNMUA>3603093803</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1463000</dsoBanChuaThue>
+							<thueGTGT>146300</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_25">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000510</soHDon>
+							<ngayPHanh>2016-03-18</ngayPHanh>
+							<tenNMUA>Công ty TNHH Chem Tech </tenNMUA>
+							<mstNMUA>3700603175</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>8700000</dsoBanChuaThue>
+							<thueGTGT>870000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_26">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000509</soHDon>
+							<ngayPHanh>2016-03-13</ngayPHanh>
+							<tenNMUA>Công ty TNHH Dầu nhớt Việt -pháp</tenNMUA>
+							<mstNMUA>3702401008</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>6000000</dsoBanChuaThue>
+							<thueGTGT>600000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_27">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000508</soHDon>
+							<ngayPHanh>2016-03-13</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần đầu tư xây dựng địa ốc FDC</tenNMUA>
+							<mstNMUA>0303103212</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>4410080</dsoBanChuaThue>
+							<thueGTGT>441008</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_28">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000507</soHDon>
+							<ngayPHanh>2016-03-11</ngayPHanh>
+							<tenNMUA>Công ty Cổ phần đầu tư xây dựng địa ốc FDC</tenNMUA>
+							<mstNMUA>0303103212</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>2121504</dsoBanChuaThue>
+							<thueGTGT>212150</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_29">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000506</soHDon>
+							<ngayPHanh>2016-03-10</ngayPHanh>
+							<tenNMUA>Công ty TNHH Look.s.y</tenNMUA>
+							<mstNMUA>3603093803</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1463000</dsoBanChuaThue>
+							<thueGTGT>146300</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_30">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000504</soHDon>
+							<ngayPHanh>2016-03-10</ngayPHanh>
+							<tenNMUA>Công ty CP  Vina Ong</tenNMUA>
+							<mstNMUA>0311270753</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1850000</dsoBanChuaThue>
+							<thueGTGT>185000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_31">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000503</soHDon>
+							<ngayPHanh>2016-03-08</ngayPHanh>
+							<tenNMUA>Công ty CP Ô Tô Vĩnh Thịnh</tenNMUA>
+							<mstNMUA>3702366949</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1100000</dsoBanChuaThue>
+							<thueGTGT>110000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_32">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000502</soHDon>
+							<ngayPHanh>2016-03-08</ngayPHanh>
+							<tenNMUA>Công ty CP Sun men</tenNMUA>
+							<mstNMUA>0310857404</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>9050000</dsoBanChuaThue>
+							<thueGTGT>905000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_33">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000459</soHDon>
+							<ngayPHanh>2016-01-04</ngayPHanh>
+							<tenNMUA>Công ty TNHH Đồ Gỗ Thanh Thư</tenNMUA>
+							<mstNMUA>3701770098</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>149070000</dsoBanChuaThue>
+							<thueGTGT>14907000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_34">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000461</soHDon>
+							<ngayPHanh>2016-01-04</ngayPHanh>
+							<tenNMUA>Công ty TNHH Chem Tech </tenNMUA>
+							<mstNMUA>3700603175</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>8700000</dsoBanChuaThue>
+							<thueGTGT>870000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_35">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000463</soHDon>
+							<ngayPHanh>2016-01-06</ngayPHanh>
+							<tenNMUA>Công ty TNHH Asia Polytec</tenNMUA>
+							<mstNMUA>3700529186</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>994400</dsoBanChuaThue>
+							<thueGTGT>99440</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_36">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000464</soHDon>
+							<ngayPHanh>2016-01-08</ngayPHanh>
+							<tenNMUA>Công ty TNHH Look.s.y</tenNMUA>
+							<mstNMUA>3603093803</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>3261600</dsoBanChuaThue>
+							<thueGTGT>326160</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_37">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000466</soHDon>
+							<ngayPHanh>2016-01-12</ngayPHanh>
+							<tenNMUA>Công ty TNHH Pham Tôn</tenNMUA>
+							<mstNMUA>0304152188</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>9800000</dsoBanChuaThue>
+							<thueGTGT>980000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_38">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000468</soHDon>
+							<ngayPHanh>2016-01-19</ngayPHanh>
+							<tenNMUA>Công ty TNHH J TEX VINA</tenNMUA>
+							<mstNMUA>0305495974</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>12327150</dsoBanChuaThue>
+							<thueGTGT>1232715</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_39">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000469</soHDon>
+							<ngayPHanh>2016-01-19</ngayPHanh>
+							<tenNMUA>Công ty TNHH Look.s.y</tenNMUA>
+							<mstNMUA>3603093803</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>979900</dsoBanChuaThue>
+							<thueGTGT>97990</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_40">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000470</soHDon>
+							<ngayPHanh>2016-01-25</ngayPHanh>
+							<tenNMUA>Công ty TNHH J TEX VINA</tenNMUA>
+							<mstNMUA>0305495974</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>7881300</dsoBanChuaThue>
+							<thueGTGT>788130</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_41">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000471</soHDon>
+							<ngayPHanh>2016-01-25</ngayPHanh>
+							<tenNMUA>Công ty TNHH Khang Yến</tenNMUA>
+							<mstNMUA>0313185447</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>1200000</dsoBanChuaThue>
+							<thueGTGT>120000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_42">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000472</soHDon>
+							<ngayPHanh>2016-01-29</ngayPHanh>
+							<tenNMUA>Công ty TNHH Đá Xanh</tenNMUA>
+							<mstNMUA>3701773902</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>19968522</dsoBanChuaThue>
+							<thueGTGT>1996852</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_43">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000473</soHDon>
+							<ngayPHanh>2016-01-30</ngayPHanh>
+							<tenNMUA>Công ty TNHH Tân Phước</tenNMUA>
+							<mstNMUA>3700805012</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>37154096</dsoBanChuaThue>
+							<thueGTGT>3715409</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_44">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000474</soHDon>
+							<ngayPHanh>2016-01-30</ngayPHanh>
+							<tenNMUA>Công ty TNHH TM SX Đại Tấn Lợi</tenNMUA>
+							<mstNMUA>0312544728</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>2331000</dsoBanChuaThue>
+							<thueGTGT>233100</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_45">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000475</soHDon>
+							<ngayPHanh>2016-01-30</ngayPHanh>
+							<tenNMUA>Công Ty TNHH Yaban Chain Industrial VietNam</tenNMUA>
+							<mstNMUA>3700339107</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>16300000</dsoBanChuaThue>
+							<thueGTGT>1630000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa><HDonBRa id="ID_46">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000477</soHDon>
+							<ngayPHanh>2016-01-30</ngayPHanh>
+							<tenNMUA>Công ty TNHH MTV Bạch Kiếm</tenNMUA>
+							<mstNMUA>3700898056</mstNMUA>
+							<matHang/>
+							<dsoBanChuaThue>2500000</dsoBanChuaThue>
+							<thueGTGT>250000</thueGTGT>
+							<ghiChu/>
+						</HDonBRa></ChiTietHHDVThue10>
+					<tongDThuBRaThue10>689312116</tongDThuBRaThue10>
+					<tongThueBRaThue10>68931210</tongThueBRaThue10>
+				</HHDVThue10>
+				<HHDVBRaKhongTHop>
+					<ChiTietHHDVBRaKhongTHop>
+					</ChiTietHHDVBRaKhongTHop>
+					<tongDThuBRaKoKKhai>0</tongDThuBRaKoKKhai>
+					<tongThueBRaKoKKhai>0</tongThueBRaKoKKhai>
+				</HHDVBRaKhongTHop>
+				<tongDThuBRa>0</tongDThuBRa>
+				<tongDThuBRaChiuThue>689312116</tongDThuBRaChiuThue>
+				<tongThueBRa>68931210</tongThueBRa>
+			</PL01_1_GTGT>
+			<PL01_2_GTGT>
+				<HHDVDRieng>
+					<ChiTietHHDVDRieng>
+						<HDonMVao id="ID_1">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0011965</soHDon>
+							<ngayPHanh>2016-01-19</ngayPHanh>
+							<tenNBAN>Công ty CP Văn Hoá Tổng Hợp Bình Dương</tenNBAN>
+							<mstNBAN>3700144450</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>100000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>10000</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_2">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000205</soHDon>
+							<ngayPHanh>2016-01-02</ngayPHanh>
+							<tenNBAN>Công ty TNHH TM DV Sản Xuất Bao Bì Royal</tenNBAN>
+							<mstNBAN>0313159648</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>53096900</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>5309690</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_3">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000248</soHDon>
+							<ngayPHanh>2016-01-25</ngayPHanh>
+							<tenNBAN>Công ty TNHH TM DV Sản Xuất Bao Bì Royal</tenNBAN>
+							<mstNBAN>0313159648</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>18969996</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1897000</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_4">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003462</soHDon>
+							<ngayPHanh>2016-01-12</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>3479400</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>347940</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_5">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003362</soHDon>
+							<ngayPHanh>2016-01-05</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>6150000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>615000</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_6">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003395</soHDon>
+							<ngayPHanh>2016-01-07</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>19232100</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1923210</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_7">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003504</soHDon>
+							<ngayPHanh>2016-01-16</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>31050105</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>3105011</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_8">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003414</soHDon>
+							<ngayPHanh>2016-01-08</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>6918000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>691800</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_9">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003431</soHDon>
+							<ngayPHanh>2016-01-09</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>17035200</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1703520</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_10">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003521</soHDon>
+							<ngayPHanh>2016-01-19</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>4597800</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>459780</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_11">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003571</soHDon>
+							<ngayPHanh>2016-01-22</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>34157190</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>3415719</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_12">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003574</soHDon>
+							<ngayPHanh>2016-01-23</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>54408500</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>5440850</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_13">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003584</soHDon>
+							<ngayPHanh>2016-01-23</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>9432580</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>943258</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_14">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003585</soHDon>
+							<ngayPHanh>2016-01-23</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>28865550</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2886555</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_15">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003659</soHDon>
+							<ngayPHanh>2016-01-30</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>12456900</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1245690</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_16">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0040519</soHDon>
+							<ngayPHanh>2016-01-22</ngayPHanh>
+							<tenNBAN>Chi Nhánh công ty CP TM DV Cổng Vàng</tenNBAN>
+							<mstNBAN>0102721191-025</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>619000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>61900</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_17">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0044598</soHDon>
+							<ngayPHanh>2016-02-03</ngayPHanh>
+							<tenNBAN>Chi Nhánh Công ty CP TM DV Cổng Vàng</tenNBAN>
+							<mstNBAN>0102721191-025</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>420000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>42000</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_18">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003683</soHDon>
+							<ngayPHanh>2016-02-02</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>34943664</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>3494366</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_19">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003748</soHDon>
+							<ngayPHanh>2016-02-19</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>20038881</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2003888</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_20">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003749</soHDon>
+							<ngayPHanh>2016-02-19</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>23329642</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>2332964</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_21">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000239</soHDon>
+							<ngayPHanh>2016-02-20</ngayPHanh>
+							<tenNBAN>Công ty TNHH TM DV Sản Xuất Bao Bì Royal</tenNBAN>
+							<mstNBAN>0313159648</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>135375500</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>13537550</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_22">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000256</soHDon>
+							<ngayPHanh>2016-02-25</ngayPHanh>
+							<tenNBAN>Công ty TNHH TM DV Sản Xuất Bao Bì Royal</tenNBAN>
+							<mstNBAN>0313159648</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>33492158</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>3349216</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_23">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003787</soHDon>
+							<ngayPHanh>2016-02-24</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>11543000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1154300</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_24">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0000146</soHDon>
+							<ngayPHanh>2016-02-26</ngayPHanh>
+							<tenNBAN>Công ty TNHH MTV Nhà Hàng Năm Lửa</tenNBAN>
+							<mstNBAN>3701487637</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>907200</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>90720</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_25">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0002335</soHDon>
+							<ngayPHanh>2016-02-29</ngayPHanh>
+							<tenNBAN>Doanh nghiệp Tư nhân Trạm Xăng  Xăng Dầu Đông Tân</tenNBAN>
+							<mstNBAN>3700146560</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>4545536</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>454553</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_26">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003856</soHDon>
+							<ngayPHanh>2016-03-03</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>63053780</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>6305378</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_27">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003908</soHDon>
+							<ngayPHanh>2016-03-08</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>31783350</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>3178335</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_28">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0001551</soHDon>
+							<ngayPHanh>2016-03-10</ngayPHanh>
+							<tenNBAN>Công ty TNHH TM DV Lẩu Dê Dũng Mập</tenNBAN>
+							<mstNBAN>3702288747</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>1610000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>161000</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_29">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003955</soHDon>
+							<ngayPHanh>2016-03-14</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>6209000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>620900</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_30">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0003970</soHDon>
+							<ngayPHanh>2016-03-15</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>5339495</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>533950</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_31">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0001218</soHDon>
+							<ngayPHanh>2016-03-26</ngayPHanh>
+							<tenNBAN>Công ty CP Văn Hoá Tổng Hợp Bình Dương</tenNBAN>
+							<mstNBAN>3700144450</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>105455</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>10545</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_32">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0001221</soHDon>
+							<ngayPHanh>2016-03-27</ngayPHanh>
+							<tenNBAN>Công ty CP Văn Hoá Tổng Hợp Bình Dương</tenNBAN>
+							<mstNBAN>3700144450</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>148636</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>14864</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_33">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0004094</soHDon>
+							<ngayPHanh>2016-03-26</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>12351145</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>1235115</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_34">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0004093</soHDon>
+							<ngayPHanh>2016-03-26</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>52618459</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>5261846</thueGTGT>
+							<ghiChu/>
+						</HDonMVao><HDonMVao id="ID_35">
+							<kyHieuMauHDon/>
+							<kyHieuHDon/>
+							<soHDon>0004119</soHDon>
+							<ngayPHanh>2016-03-29</ngayPHanh>
+							<tenNBAN>Công ty TNHH FOUR NINE</tenNBAN>
+							<mstNBAN>3603154076</mstNBAN>
+							<matHang/>
+							<dsoMuaChuaThue>2414000</dsoMuaChuaThue>
+							<thueSuat>0</thueSuat>
+							<thueGTGT>241400</thueGTGT>
+							<ghiChu/>
+						</HDonMVao></ChiTietHHDVDRieng>
+					<tongGTriMVao>740798122</tongGTriMVao>
+					<tongThueMVao>74079813</tongThueMVao>
+				</HHDVDRieng>
+				<HHDVKhongKTru>
+					<ChiTietHHDVKhongKTru>
+					</ChiTietHHDVKhongKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKhongKTru>
+				<HHDVDChung>
+					<ChiTietHHDVDChung>
+					</ChiTietHHDVDChung>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVDChung>
+				<HHDVKTru>
+					<ChiTietHHDVKTru>
+					</ChiTietHHDVKTru>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVKTru>
+				<HHDVMVaoKhongTHop>
+					<ChiTietHHDVMVaoKhongTHop>
+					</ChiTietHHDVMVaoKhongTHop>
+					<tongGTriMVao>0</tongGTriMVao>
+					<tongThueMVao>0</tongThueMVao>
+				</HHDVMVaoKhongTHop>
+				<tongGTriMVao>740798122</tongGTriMVao>
+				<tongThueMVao>74079813</tongThueMVao>
+			</PL01_2_GTGT>
+		</PLuc>
+	</HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_18"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>V6nHgMzCuaEpBb0jIeF3Xnq8mEY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>Y+W0t/QX4/0B2uklUjQhBo2i66tHbBSSIvSC9XRCqDmWjsOUthu8NKc+//Eu2ecqtf9+ayM5hL4i
+tJsY9pi2xNvkdGPISdjBwMmFs8RTMRw19suKHEjd9hWTjqyQkNLMAizu/xZd1oG7+AFsZy0FdFEh
+AvTlTpxKcvxjPqjWk/4=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>35yGakJz8lfwCcB6Y0D3fSrfPa/khFT6vAuZtE8B3kW/GDpACgtjTgrWZg7tV7ZKrPfa14t1hWxs
+5YITMjvHb5ZLPRurJY8CdyVtBj+QYKve78ENO8H8ItkSRSrdeOisWsl7fq4zzJU1BcZyGkocUGPk
+zCt4oOaHcsMfeoBCKtc=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,L=Bình Dương,CN=CÔNG TY TNHH MỘT THÀNH VIÊN KHỞI NGUYÊN AN,UID=MST:3702076037</ds:X509SubjectName><ds:X509Certificate>MIID2DCCAsCgAwIBAgIQVAT//rcDP7MW1nIgG3V0mTANBgkqhkiG9w0BAQUFADA6MQswCQYDVQQG
+EwJWTjEWMBQGA1UEChMNVmlldHRlbCBHcm91cDETMBEGA1UEAxMKVmlldHRlbC1DQTAeFw0xNTEw
+MTkwMTQ5NDlaFw0xNzA0MjEwMTQ5NDlaMIGCMR4wHAYKCZImiZPyLGQBAQwOTVNUOjM3MDIwNzYw
+MzcxOzA5BgNVBAMMMkPDlE5HIFRZIFROSEggTeG7mFQgVEjDgE5IIFZJw4pOIEtI4bueSSBOR1VZ
+w4pOIEFOMRYwFAYDVQQHDA1Cw6xuaCBExrDGoW5nMQswCQYDVQQGEwJWTjCBnzANBgkqhkiG9w0B
+AQEFAAOBjQAwgYkCgYEA35yGakJz8lfwCcB6Y0D3fSrfPa/khFT6vAuZtE8B3kW/GDpACgtjTgrW
+Zg7tV7ZKrPfa14t1hWxs5YITMjvHb5ZLPRurJY8CdyVtBj+QYKve78ENO8H8ItkSRSrdeOisWsl7
+fq4zzJU1BcZyGkocUGPkzCt4oOaHcsMfeoBCKtcCAwEAAaOCARMwggEPMDUGCCsGAQUFBwEBBCkw
+JzAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudmlldHRlbC1jYS52bjAdBgNVHQ4EFgQU0hooPYHN
+9yKDcZRg+X/0tn5YewEwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQIYOYfGxTZSIALXqdccyUs
+IA351jB4BgNVHR8EcTBvMG2gK6AphidodHRwOi8vY3JsLnZpZXR0ZWwtY2Eudm4vVmlldHRlbC1D
+QS5jcmyiPqQ8MDoxEzARBgNVBAMMClZpZXR0ZWwtQ0ExFjAUBgNVBAoMDVZpZXR0ZWwgR3JvdXAx
+CzAJBgNVBAYTAlZOMA4GA1UdDwEB/wQEAwIF4DANBgkqhkiG9w0BAQUFAAOCAQEAujomGEWRBrBz
+DIT1Wz5PB7DMdzIZ1Z99ner8bAVrmxZHZKSfGcySOoXDW50YWc5f/4tyyZSueCWN5R3aw6DvG3B5
+qToMymZOUQ9ivWF773HuVVSTYkbIN6aQ1gfNXBkmyAvMTXFTDzfSqBpdxQNQiJ/74ljyGQJDWe+X
+5y4dvSjVY/dRuWkWrk864OuQuFHJxyZfHOs65eq5yvU5+YS8R3hV4Lwt1XcDnYc3JbNaf5l+jXcx
+oYtetlVy/2R+FP5DFxx6wESoPDIZw8kEbrkk7Frx6bwajCR4XYT5y+XBhVXEXHRTwVw73+UrEVlY
+5okqFst3cLcR3A5xoggdUzMgGg==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
