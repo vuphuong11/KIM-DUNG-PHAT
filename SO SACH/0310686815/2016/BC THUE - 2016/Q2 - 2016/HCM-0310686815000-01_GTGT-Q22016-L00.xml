@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+	<HSoKhaiThue id="ID_18">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.7</pbanDVu>
+				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>01</maTKhai>
+					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>2/2016</kyKKhai>
+						<kyKKhaiTuNgay>01/04/2016</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>30/06/2016</kyKKhaiDenNgay>
+						<kyKKhaiTuThang></kyKKhaiTuThang>
+						<kyKKhaiDenThang></kyKKhaiDenThang>
+					</KyKKhaiThue>
+					<maCQTNoiNop>70139</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Huyện Bình Chánh</tenCQTNoiNop>
+					<ngayLapTKhai>2016-07-28</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan></maLyDoGiaHan>
+						<lyDoGiaHan></lyDoGiaHan>
+					</GiaHan>
+					<nguoiKy>Lê Thị Dung</nguoiKy>
+					<ngayKy>2016-07-19</ngayKy>
+					<nganhNgheKD></nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>0310686815</mst>
+					<tenNNT>CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI KIM DUNG PHÁT</tenNNT>
+					<dchiNNT>1A227/1, Ấp 1, Xã Phạm Văn Hai</dchiNNT>
+					<phuongXa></phuongXa>
+					<maHuyenNNT></maHuyenNNT>
+					<tenHuyenNNT>Bình Chánh</tenHuyenNNT>
+					<maTinhNNT></maTinhNNT>
+					<tenTinhNNT>Hồ Chí Minh</tenTinhNNT>
+					<dthoaiNNT>08.37665512</dthoaiNNT>
+					<faxNNT>08.37660588</faxNNT>
+					<emailNNT>congtykimdungphat@gmail.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan>1701</tieuMucHachToan>
+			<ct21>0</ct21>
+			<ct22>0</ct22>
+			<GiaTriVaThueGTGTHHDVMuaVao>
+				<ct23>1733275869</ct23>
+				<ct24>173327597</ct24>
+			</GiaTriVaThueGTGTHHDVMuaVao>
+			<ct25>173327597</ct25>
+			<ct26>0</ct26>
+			<HHDVBRaChiuThueGTGT>
+				<ct27>820997316</ct27>
+				<ct28>82099730</ct28>
+			</HHDVBRaChiuThueGTGT>
+			<ct29>0</ct29>
+			<HHDVBRaChiuTSuat5>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+			</HHDVBRaChiuTSuat5>
+			<HHDVBRaChiuTSuat10>
+				<ct32>820997316</ct32>
+				<ct33>82099730</ct33>
+			</HHDVBRaChiuTSuat10>
+			<TongDThuVaThueGTGTHHDVBRa>
+				<ct34>820997316</ct34>
+				<ct35>82099730</ct35>
+			</TongDThuVaThueGTGTHHDVBRa>
+			<ct36>-91227867</ct36>
+			<ct37>0</ct37>
+			<ct38>200000</ct38>
+			<ct39>0</ct39>
+			<ct40a>0</ct40a>
+			<ct40b>0</ct40b>
+			<ct40>0</ct40>
+			<ct41>91427867</ct41>
+			<ct42>0</ct42>
+			<ct43>91427867</ct43>
+		</CTieuTKhaiChinh>
+	</HSoKhaiThue>
+</HSoThueDTu>
