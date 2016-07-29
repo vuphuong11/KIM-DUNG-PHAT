@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
-	<HSoKhaiThue>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="_NODE_TO_SIGN">
 		<TTinChung>
 			<TTinDVu>
 				<maDVu>HTKK</maDVu>
 				<tenDVu>HTKK</tenDVu>
 				<pbanDVu>3.3.7</pbanDVu>
-				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+				<ttinNhaCCapDVu/>
 			</TTinDVu>
 			<TTinTKhaiThue>
 				<TKhaiThue>
@@ -21,28 +20,28 @@
 						<kyKKhai>2/2016</kyKKhai>
 						<kyKKhaiTuNgay>01/04/2016</kyKKhaiTuNgay>
 						<kyKKhaiDenNgay>30/06/2016</kyKKhaiDenNgay>
-						<kyKKhaiTuThang></kyKKhaiTuThang>
-						<kyKKhaiDenThang></kyKKhaiDenThang>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
 					</KyKKhaiThue>
 					<maCQTNoiNop>70139</maCQTNoiNop>
 					<tenCQTNoiNop>Chi cục Thuế Huyện Bình Chánh</tenCQTNoiNop>
 					<ngayLapTKhai>2016-07-28</ngayLapTKhai>
 					<GiaHan>
-						<maLyDoGiaHan></maLyDoGiaHan>
-						<lyDoGiaHan></lyDoGiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
 					</GiaHan>
 					<nguoiKy>Lê Thị Dung</nguoiKy>
 					<ngayKy>2016-07-28</ngayKy>
-					<nganhNgheKD></nganhNgheKD>
+					<nganhNgheKD/>
 				</TKhaiThue>
 				<NNT>
 					<mst>0310686815</mst>
 					<tenNNT>CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI KIM DUNG PHÁT</tenNNT>
 					<dchiNNT>1A227/1, Ấp 1, Xã Phạm Văn Hai</dchiNNT>
-					<phuongXa></phuongXa>
-					<maHuyenNNT></maHuyenNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
 					<tenHuyenNNT>Bình Chánh</tenHuyenNNT>
-					<maTinhNNT></maTinhNNT>
+					<maTinhNNT/>
 					<tenTinhNNT>Hồ Chí Minh</tenTinhNNT>
 					<dthoaiNNT>08.37665512</dthoaiNNT>
 					<faxNNT>08.37660588</faxNNT>
@@ -64,8 +63,8 @@
 					<soTonMuaTrKy_tongSo>160</soTonMuaTrKy_tongSo>
 					<soTonDauKy_tuSo>0000341</soTonDauKy_tuSo>
 					<soTonDauKy_denSo>0000500</soTonDauKy_denSo>
-					<muaTrongKy_tuSo></muaTrongKy_tuSo>
-					<muaTrongKy_denSo></muaTrongKy_denSo>
+					<muaTrongKy_tuSo/>
+					<muaTrongKy_denSo/>
 					<tongSoSuDung_tuSo>0000341</tongSoSuDung_tuSo>
 					<tongSoSuDung_denSo>0000487</tongSoSuDung_denSo>
 					<tongSoSuDung_cong>147</tongSoSuDung_cong>
@@ -73,9 +72,9 @@
 					<xoaBo_soLuong>45</xoaBo_soLuong>
 					<xoaBo_so>342;343;346;348;349;350;357;358;361;368;374;377;378;389;393;395;405;406;414;415;416;424;430;431;436;439;441;442;445;446;447;448;449;450;451;453;457;459;461;466;468;471;476;477;480</xoaBo_so>
 					<mat_soLuong>0</mat_soLuong>
-					<mat_so></mat_so>
+					<mat_so/>
 					<huy_soLuong>0</huy_soLuong>
-					<huy_so></huy_so>
+					<huy_so/>
 					<tonCuoiKy_tuSo>0000488</tonCuoiKy_tuSo>
 					<tonCuoiKy_denSo>0000500</tonCuoiKy_denSo>
 					<tonCuoiKy_soLuong>13</tonCuoiKy_soLuong>
@@ -83,9 +82,43 @@
 			<tongCongSoTonDKy>160</tongCongSoTonDKy>
 			<tongCongSDung>147</tongCongSDung>
 			<tongCongSoTonCKy>13</tongCongSoTonCKy>
-			<nguoiLapBieu></nguoiLapBieu>
+			<nguoiLapBieu/>
 			<nguoiDaiDien>Lê Thị Dung</nguoiDaiDien>
 			<ngayBCao>2016-07-28</ngayBCao>
 		</CTieuTKhaiChinh>
 	</HSoKhaiThue>
-</HSoThueDTu>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>NbwKO3YWy9le6B4ATBum9s9qwYo=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>O44rjT2JAl2FlIpUsUdIocnMjzCo/swNm3n7aDbvB3SnxPA+5F67NjeITOWkich5mh9O09wuxZd8
+SOaHiEesKozOWb6BJzhdjOPS57CyScr07kL5HiF5pPMJH4dBJ6/S59x5aRkQsQSNniIV/Z/clJe1
+26dEoaRFI7CnGw4WNDI=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>p2bN/ZGjoXWHHlAxyzUSey1h7wiCiyvkjKLqslOCg4g/qOeZuy9FFjHhJq6uX9MYXRj4fzNz4stZ
+xhr8aXXGphQumfMjOYcxe20fL0XebOBXvEb2uqloyMQ1b3YVmFMDDbI+qzG2edyVcCFww7F75eGt
+wNEYed1pT4WCqX7JPrc=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>1.2.840.113549.1.9.1=#161664616f6e677579656e32343040676d61696c2e636f6d,CN=Công Ty TNHH Sản Xuất Thương Mại Kim Dung Phát,OU=Kh�ng BH(GH),O=Công Ty TNHH Sản Xuất Thương Mại Kim Dung Phát,L=1A227/1 ấp 1\, Xã Phạm Văn Hai\, Huyện Bình Chánh \,TP HCM,ST=MST:0310686815,C=VN</ds:X509SubjectName><ds:X509Certificate>MIIG0DCCBbigAwIBAgIQVAK8XKzOZpwgFQAAAAG/TDANBgkqhkiG9w0BAQUFADAzMQswCQYDVQQG
+EwJWTjEWMBQGA1UEChMNTkFDRU5DT01NIFNDVDEMMAoGA1UEAxMDQ0EyMB4XDTE2MDEyNTAyNDYy
+OVoXDTE5MDEyODAyNDYyOVowggE2MQswCQYDVQQGEwJWTjEXMBUGA1UECBMOTVNUOjAzMTA2ODY4
+MTUxSjBIBgNVBAcMQTFBMjI3LzEg4bqlcCAxLCBYw6MgUGjhuqFtIFbEg24gSGFpLCBIdXnhu4du
+IELDrG5oIENow6FuaCAsVFAgSENNMUEwPwYDVQQKDDhDw7RuZyBUeSBUTkhIIFPhuqNuIFh14bql
+dCBUaMawxqFuZyBN4bqhaSBLaW0gRHVuZyBQaMOhdDEVMBMGA1UECxQMS2j0bmcgQkgoR0gpMUEw
+PwYDVQQDDDhDw7RuZyBUeSBUTkhIIFPhuqNuIFh14bqldCBUaMawxqFuZyBN4bqhaSBLaW0gRHVu
+ZyBQaMOhdDElMCMGCSqGSIb3DQEJARYWZGFvbmd1eWVuMjQwQGdtYWlsLmNvbTCBnzANBgkqhkiG
+9w0BAQEFAAOBjQAwgYkCgYEAp2bN/ZGjoXWHHlAxyzUSey1h7wiCiyvkjKLqslOCg4g/qOeZuy9F
+FjHhJq6uX9MYXRj4fzNz4stZxhr8aXXGphQumfMjOYcxe20fL0XebOBXvEb2uqloyMQ1b3YVmFMD
+DbI+qzG2edyVcCFww7F75eGtwNEYed1pT4WCqX7JPrcCAwEAAaOCA10wggNZMB0GA1UdDgQWBBTY
+SFZQ/RM4vuiBvYdu1Em+dxQBvDAfBgNVHSMEGDAWgBQVuloM4gz3Y86pmXt+YtxF1iTjADCB9QYD
+VR0fBIHtMIHqMIHnoIHkoIHhhoGibGRhcDovLy9DTj1DQTIsQ049d3d3LENOPUNEUCxDTj1QdWJs
+aWMlMjBLZXklMjBTZXJ2aWNlcyxDTj1TZXJ2aWNlcyxDTj1Db25maWd1cmF0aW9uLERDPWNhdm4s
+REM9dm4/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlP29iamVjdENsYXNzPWNSTERpc3Ry
+aWJ1dGlvblBvaW50hhpodHRwOi8vY2F2bi52bi9uZXcvQ0EyLmNybIYeaHR0cDovL3d3dy5jYXZu
+LnZuL25ldy9DQTIuY3JsMIIBVgYIKwYBBQUHAQEEggFIMIIBRDCBngYIKwYBBQUHMAKGgZFsZGFw
+Oi8vL0NOPUNBMixDTj1BSUEsQ049UHVibGljJTIwS2V5JTIwU2VydmljZXMsQ049U2VydmljZXMs
+Q049Q29uZmlndXJhdGlvbixEQz1jYXZuLERDPXZuP2NBQ2VydGlmaWNhdGU/YmFzZT9vYmplY3RD
+bGFzcz1jZXJ0aWZpY2F0aW9uQXV0aG9yaXR5MD0GCCsGAQUFBzAChjFodHRwOi8vd3d3LmNhdm4u
+dm4vQ2VydEVucm9sbC93d3cuY2F2bi52bl9DQTIuY3J0MC4GCCsGAQUFBzABhiJodHRwOi8vb2Nz
+cC5jYXZuLnZuOjY2NjYvb2NzcC9vY3NwMDIGCCsGAQUFBzAChiZodHRwOi8vd3d3LmNhdm4udm4v
+d3d3LmNhdm4udm5fQ0EyLmNydDAOBgNVHQ8BAf8EBAMCBeAwPQYJKwYBBAGCNxUHBDAwLgYmKwYB
+BAGCNxUIhY/PEIGDnyOHuYUyh4rCUKf/f4F7hsKXOYOgxUICAWQCAQQwEwYDVR0lBAwwCgYIKwYB
+BQUHAwQwGwYJKwYBBAGCNxUKBA4wDDAKBggrBgEFBQcDBDBEBgkqhkiG9w0BCQ8ENzA1MA4GCCqG
+SIb3DQMCAgIAgDAOBggqhkiG9w0DBAICAIAwBwYFKw4DAgcwCgYIKoZIhvcNAwcwDQYJKoZIhvcN
+AQEFBQADggEBABUly3+Up/cBzvjoSBO99hb2l7/LxvVbroAU7jipdegHvsZ5gJY9n06jUiyCYilg
+p7hm7tFPD0pL+U8VmwwSpqB11TAs/L9Xh7CL04DE/cx9y2+Ewy2ilvZRtieIP94eNGwB17786AHt
+LZXqQvL/j3wiCSqy2TKZa6LsNJjT6oJ1oCBzMNctR4te8xao7ppBCOBjnJJnkKNYoGxOWRdu1vZw
+rD69uXVApyWj2nEhRbv9UQj/GV+xViB5UgVV0c6hVUam2iU3gHuswvD/7dCYNuEoRLm0HD8CvQeR
+8Bgo96fZrfNSv9T+UbKguNkRGfH8VHcX0o2oig49khHX84ykLQk=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
