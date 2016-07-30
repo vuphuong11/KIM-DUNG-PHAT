@@ -13,13 +13,13 @@
 					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
 					<moTaBMau>(Ban hành kèm theo Thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ Tài chính)</moTaBMau>
 					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
-					<loaiTKhai>C</loaiTKhai>
-					<soLan>0</soLan>
+					<loaiTKhai>B</loaiTKhai>
+					<soLan>1</soLan>
 					<KyKKhaiThue>
 						<kieuKy>Q</kieuKy>
-						<kyKKhai>2/2016</kyKKhai>
-						<kyKKhaiTuNgay>01/04/2016</kyKKhaiTuNgay>
-						<kyKKhaiDenNgay>30/06/2016</kyKKhaiDenNgay>
+						<kyKKhai>1/2016</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2016</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/03/2016</kyKKhaiDenNgay>
 						<kyKKhaiTuThang/>
 						<kyKKhaiDenThang/>
 					</KyKKhaiThue>
@@ -31,7 +31,7 @@
 						<lyDoGiaHan/>
 					</GiaHan>
 					<nguoiKy>Võ Ngọc Thùy Lan</nguoiKy>
-					<ngayKy>2016-07-19</ngayKy>
+					<ngayKy>2016-04-24</ngayKy>
 					<nganhNgheKD>Buôn bán bao bì giấy</nganhNgheKD>
 				</TKhaiThue>
 				<NNT>
@@ -52,16 +52,16 @@
 		<CTieuTKhaiChinh>
 			<tieuMucHachToan>1701</tieuMucHachToan>
 			<ct21>0</ct21>
-			<ct22>8316990</ct22>
+			<ct22>3168387</ct22>
 			<GiaTriVaThueGTGTHHDVMuaVao>
-				<ct23>1473145173</ct23>
-				<ct24>146991023</ct24>
+				<ct23>894061622</ct23>
+				<ct24>89406163</ct24>
 			</GiaTriVaThueGTGTHHDVMuaVao>
-			<ct25>146991023</ct25>
+			<ct25>89406163</ct25>
 			<ct26>0</ct26>
 			<HHDVBRaChiuThueGTGT>
-				<ct27>1533168998</ct27>
-				<ct28>153316898</ct28>
+				<ct27>849452116</ct27>
+				<ct28>84945210</ct28>
 			</HHDVBRaChiuThueGTGT>
 			<ct29>0</ct29>
 			<HHDVBRaChiuTSuat5>
@@ -69,28 +69,79 @@
 				<ct31>0</ct31>
 			</HHDVBRaChiuTSuat5>
 			<HHDVBRaChiuTSuat10>
-				<ct32>1533168998</ct32>
-				<ct33>153316898</ct33>
+				<ct32>849452116</ct32>
+				<ct33>84945210</ct33>
 			</HHDVBRaChiuTSuat10>
 			<TongDThuVaThueGTGTHHDVBRa>
-				<ct34>1533168998</ct34>
-				<ct35>153316898</ct35>
+				<ct34>849452116</ct34>
+				<ct35>84945210</ct35>
 			</TongDThuVaThueGTGTHHDVBRa>
-			<ct36>6325875</ct36>
-			<ct37>16014000</ct37>
-			<ct38>15326350</ct38>
+			<ct36>-4460953</ct36>
+			<ct37>0</ct37>
+			<ct38>0</ct38>
 			<ct39>0</ct39>
 			<ct40a>0</ct40a>
 			<ct40b>0</ct40b>
 			<ct40>0</ct40>
-			<ct41>1303465</ct41>
+			<ct41>7629340</ct41>
 			<ct42>0</ct42>
-			<ct43>1303465</ct43>
+			<ct43>7629340</ct43>
 		</CTieuTKhaiChinh>
+		<PLuc>
+			<PL01_KHBS>
+				<NDUNGKHAIBOSUNGDIEUCHINH>
+					<DieuChinhTang>
+						<KHBSDieuChinhTang id="ID_1">
+							<ct2>Hàng hoá, dịch vụ bán ra chịu thuế suất 10%</ct2>
+							<ct3>33</ct3>
+							<ct4>68931210</ct4>
+							<ct5>84945210</ct5>
+							<ct6>16014000</ct6>
+						</KHBSDieuChinhTang></DieuChinhTang>
+					<DieuChinhGiam>
+						<KHBSDieuChinhGiam id="ID_1">
+							<ct2>Tổng số thuế GTGT  được khấu trừ kỳ này</ct2>
+							<ct3>25</ct3>
+							<ct4>74079813</ct4>
+							<ct5>89406163</ct5>
+							<ct6>15326350</ct6>
+						</KHBSDieuChinhGiam></DieuChinhGiam>
+					<TongHopDCTangGiamPNop>
+						<ct40>
+							<ct2>Thuế GTGT còn phải nộp trong kỳ</ct2>
+							<ct3>40</ct3>
+							<ct4>0</ct4>
+							<ct5>0</ct5>
+							<ct6>0</ct6>
+						</ct40>
+						<ct43>
+							<ct2>Thuế GTGT còn được khấu trừ chuyển kỳ sau</ct2>
+							<ct3>43</ct3>
+							<ct4>8316990</ct4>
+							<ct5>7629340</ct5>
+							<ct6>-687650</ct6>
+						</ct43>
+					</TongHopDCTangGiamPNop>
+				</NDUNGKHAIBOSUNGDIEUCHINH>
+				<PhatChamNop>
+					<soNgayNopCham>89</soNgayNopCham>
+					<soTienPhatNopCham>0</soTienPhatNopCham>
+				</PhatChamNop>
+				<NOIDUNGGIAITHICH>
+					<soTienTraNSNN>0</soTienTraNSNN>
+					<quyetDinhHoanThueSo/>
+					<ngay xsi:nil="true"/>
+					<coQuanThue/>
+					<soNgayNhanDuocTienHoan>0</soNgayNhanDuocTienHoan>
+					<soTienChamNop>0</soTienChamNop>
+					<lyDoKhac/>
+				</NOIDUNGGIAITHICH>
+			</PL01_KHBS>
+		</PLuc>
 	</HSoKhaiThue>
-<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_18"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>eHnEL/Z6dPUiBk5scaP59oVOuk0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>mYgQV7NftT27wwqOOdX/KyaH8FQbSmMz01OLm9LEDsNKI0bWAOozT/Y9NjtzFwMfrsXZzYHKfAzD
-xGaA6pgj4SmXC1jgnQpIWu3jHpaXPs8GXRWC3QJ7IuY2MctfCLrIaHEZ2r/kxSGKzBhpCZVwIAfd
-yUNwGlKCUhE6d+of5yk=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>qLF/7jmJNNjVRkedKKHld9iU5Sq4oOq2ky6stFnXSMMSxgj7EzJLqBmYX9iY6TAcENUIx0AP2JR5
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_18"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Q6ErDZzYtv1NUjQyg8OxdT9NJh8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>js3Gi9SfxvEFwUxd2osL/J1Q4DDb29P4adBqYihD+Gy59pXysscXrYtLpjQP7c4r88kUQYm63j6B
+cG5Rfv6mmgI5kuLYdnLW1BcpYl9xSAIaFxt4IvDsWxD66+ZRZL+4tOQyJh9AvGBlT4DlPxMN6ds9
+dyyDihKRifQpSi/OsfQ=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>qLF/7jmJNNjVRkedKKHld9iU5Sq4oOq2ky6stFnXSMMSxgj7EzJLqBmYX9iY6TAcENUIx0AP2JR5
 35NQddan9mKNwj2+6kIV6P4QbkvgugELXlWAprgy1FrvrLVb5s6Bk5c9yzrrrTQnNshQnW6aUu2U
 np1Ic5uZz+zWvkwdVxE=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>UID=MST:3702076037,CN=CÔNG TY TNHH MỘT THÀNH VIÊN KHỞI NGUYÊN AN,L=Thị Xã Dĩ An,ST=Bình Dương,C=VN</ds:X509SubjectName><ds:X509Certificate>MIIEtjCCA56gAwIBAgIQVAl/J9bseYHDN8lvhZgwMjANBgkqhkiG9w0BAQsFADBaMQswCQYDVQQG
 EwJWTjE3MDUGA1UECgwuQ8OUTkcgVFkgQ+G7lCBQSOG6pk4gVknhu4ROIFRIw5RORyBORVctVEVM

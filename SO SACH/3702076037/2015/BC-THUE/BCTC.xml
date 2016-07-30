@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="_NODE_TO_SIGN">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.7</pbanDVu>
+				<ttinNhaCCapDVu/>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>50</maTKhai>
+					<tenTKhai>Báo cáo tài chính bộ 48 BCTC</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Quyết định số 48/2006/QĐ-BTC Ngày 14/09/2006 của  Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.0</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Y</kieuKy>
+						<kyKKhai>2015</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2015</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/12/2015</kyKKhaiDenNgay>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
+					</KyKKhaiThue>
+					<maCQTNoiNop>71109</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Thị Xã Dĩ An</tenCQTNoiNop>
+					<ngayLapTKhai>2016-04-02</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
+					</GiaHan>
+					<nguoiKy>Võ Ngọc Thuỳ Lan	</nguoiKy>
+					<ngayKy>2016-04-01</ngayKy>
+					<nganhNgheKD/>
+				</TKhaiThue>
+				<NNT>
+					<mst>3702076037</mst>
+					<tenNNT>Công ty TNHH MTV Khởi Nguyên An</tenNNT>
+					<dchiNNT>Thửa đất số 144, Tờ bản đồ số 12, TĐH1, Tổ 1, KP Đông Tác, P Tân Đông Hiệp,</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
+					<tenHuyenNNT>Dĩ an</tenHuyenNNT>
+					<maTinhNNT/>
+					<tenTinhNNT>Bình Dương</tenTinhNNT>
+					<dthoaiNNT/>
+					<faxNNT/>
+					<emailNNT>hienphuong81@gmail.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<SoCuoiNam>
+				<ct100_nNay>3450467625</ct100_nNay>
+				<ct110_nNay>1743828885</ct110_nNay>
+				<ct120_nNay>0</ct120_nNay>
+				<ct121_nNay>0</ct121_nNay>
+				<ct129_nNay>0</ct129_nNay>
+				<ct130_nNay>1046819040</ct130_nNay>
+				<ct131_nNay>1046819040</ct131_nNay>
+				<ct132_nNay>0</ct132_nNay>
+				<ct138_nNay>0</ct138_nNay>
+				<ct139_nNay>0</ct139_nNay>
+				<ct140_nNay>656651313</ct140_nNay>
+				<ct141_nNay>656651313</ct141_nNay>
+				<ct149_nNay>0</ct149_nNay>
+				<ct150_nNay>3168387</ct150_nNay>
+				<ct151_nNay>3168387</ct151_nNay>
+				<ct152_nNay>0</ct152_nNay>
+				<ct157_nNay>0</ct157_nNay>
+				<ct158_nNay>0</ct158_nNay>
+				<ct200_nNay>28204290</ct200_nNay>
+				<ct210_nNay>0</ct210_nNay>
+				<ct211_nNay>0</ct211_nNay>
+				<ct212_nNay>0</ct212_nNay>
+				<ct213_nNay>0</ct213_nNay>
+				<ct220_nNay>0</ct220_nNay>
+				<ct221_nNay>0</ct221_nNay>
+				<ct222_nNay>0</ct222_nNay>
+				<ct230_nNay>0</ct230_nNay>
+				<ct231_nNay>0</ct231_nNay>
+				<ct239_nNay>0</ct239_nNay>
+				<ct240_nNay>28204290</ct240_nNay>
+				<ct241_nNay>0</ct241_nNay>
+				<ct248_nNay>28204290</ct248_nNay>
+				<ct249_nNay>0</ct249_nNay>
+				<ct250_nNay>3478671915</ct250_nNay>
+				<ct300_nNay>971320211</ct300_nNay>
+				<ct310_nNay>971320211</ct310_nNay>
+				<ct311_nNay>0</ct311_nNay>
+				<ct312_nNay>814553079</ct312_nNay>
+				<ct313_nNay>0</ct313_nNay>
+				<ct314_nNay>1409132</ct314_nNay>
+				<ct315_nNay>23358000</ct315_nNay>
+				<ct316_nNay>132000000</ct316_nNay>
+				<ct318_nNay>0</ct318_nNay>
+				<ct323_nNay>0</ct323_nNay>
+				<ct327_nNay>0</ct327_nNay>
+				<ct328_nNay>0</ct328_nNay>
+				<ct329_nNay>0</ct329_nNay>
+				<ct330_nNay>0</ct330_nNay>
+				<ct331_nNay>0</ct331_nNay>
+				<ct332_nNay>0</ct332_nNay>
+				<ct334_nNay>0</ct334_nNay>
+				<ct336_nNay>0</ct336_nNay>
+				<ct338_nNay>0</ct338_nNay>
+				<ct339_nNay>0</ct339_nNay>
+				<ct400_nNay>2507351704</ct400_nNay>
+				<ct410_nNay>2507351704</ct410_nNay>
+				<ct411_nNay>2500000000</ct411_nNay>
+				<ct412_nNay>0</ct412_nNay>
+				<ct413_nNay>0</ct413_nNay>
+				<ct414_nNay>0</ct414_nNay>
+				<ct415_nNay>0</ct415_nNay>
+				<ct416_nNay>0</ct416_nNay>
+				<ct417_nNay>7351704</ct417_nNay>
+				<ct440_nNay>3478671915</ct440_nNay>
+			</SoCuoiNam>
+			<SoDauNam>
+				<ct100_nNgoai>2549875882</ct100_nNgoai>
+				<ct110_nNgoai>2188833957</ct110_nNgoai>
+				<ct120_nNgoai>0</ct120_nNgoai>
+				<ct121_nNgoai>0</ct121_nNgoai>
+				<ct129_nNgoai>0</ct129_nNgoai>
+				<ct130_nNgoai>143283568</ct130_nNgoai>
+				<ct131_nNgoai>143125437</ct131_nNgoai>
+				<ct132_nNgoai>158131</ct132_nNgoai>
+				<ct138_nNgoai>0</ct138_nNgoai>
+				<ct139_nNgoai>0</ct139_nNgoai>
+				<ct140_nNgoai>217758357</ct140_nNgoai>
+				<ct141_nNgoai>217758357</ct141_nNgoai>
+				<ct149_nNgoai>0</ct149_nNgoai>
+				<ct150_nNgoai>0</ct150_nNgoai>
+				<ct151_nNgoai>0</ct151_nNgoai>
+				<ct152_nNgoai>0</ct152_nNgoai>
+				<ct157_nNgoai>0</ct157_nNgoai>
+				<ct158_nNgoai>0</ct158_nNgoai>
+				<ct200_nNgoai>4609089</ct200_nNgoai>
+				<ct210_nNgoai>0</ct210_nNgoai>
+				<ct211_nNgoai>0</ct211_nNgoai>
+				<ct212_nNgoai>0</ct212_nNgoai>
+				<ct213_nNgoai>0</ct213_nNgoai>
+				<ct220_nNgoai>0</ct220_nNgoai>
+				<ct221_nNgoai>0</ct221_nNgoai>
+				<ct222_nNgoai>0</ct222_nNgoai>
+				<ct230_nNgoai>0</ct230_nNgoai>
+				<ct231_nNgoai>0</ct231_nNgoai>
+				<ct239_nNgoai>0</ct239_nNgoai>
+				<ct240_nNgoai>4609089</ct240_nNgoai>
+				<ct241_nNgoai>0</ct241_nNgoai>
+				<ct248_nNgoai>4609089</ct248_nNgoai>
+				<ct249_nNgoai>0</ct249_nNgoai>
+				<ct250_nNgoai>2554484971</ct250_nNgoai>
+				<ct300_nNgoai>50891551</ct300_nNgoai>
+				<ct310_nNgoai>50891551</ct310_nNgoai>
+				<ct311_nNgoai>0</ct311_nNgoai>
+				<ct312_nNgoai>36260573</ct312_nNgoai>
+				<ct313_nNgoai>452015</ct313_nNgoai>
+				<ct314_nNgoai>3856963</ct314_nNgoai>
+				<ct315_nNgoai>10322000</ct315_nNgoai>
+				<ct316_nNgoai>0</ct316_nNgoai>
+				<ct318_nNgoai>0</ct318_nNgoai>
+				<ct323_nNgoai>0</ct323_nNgoai>
+				<ct327_nNgoai>0</ct327_nNgoai>
+				<ct328_nNgoai>0</ct328_nNgoai>
+				<ct329_nNgoai>0</ct329_nNgoai>
+				<ct330_nNgoai>0</ct330_nNgoai>
+				<ct331_nNgoai>0</ct331_nNgoai>
+				<ct332_nNgoai>0</ct332_nNgoai>
+				<ct334_nNgoai>0</ct334_nNgoai>
+				<ct336_nNgoai>0</ct336_nNgoai>
+				<ct338_nNgoai>0</ct338_nNgoai>
+				<ct339_nNgoai>0</ct339_nNgoai>
+				<ct400_nNgoai>2503593420</ct400_nNgoai>
+				<ct410_nNgoai>2503593420</ct410_nNgoai>
+				<ct411_nNgoai>2500000000</ct411_nNgoai>
+				<ct412_nNgoai>0</ct412_nNgoai>
+				<ct413_nNgoai>0</ct413_nNgoai>
+				<ct414_nNgoai>0</ct414_nNgoai>
+				<ct415_nNgoai>0</ct415_nNgoai>
+				<ct416_nNgoai>0</ct416_nNgoai>
+				<ct417_nNgoai>3593420</ct417_nNgoai>
+				<ct440_nNgoai>2554484971</ct440_nNgoai>
+			</SoDauNam>
+			<NgoaiBangCDKT>
+				<SoCuoiNam>
+					<taiSanThueNgoai>0</taiSanThueNgoai>
+					<hangHoaNhanGiuHo>0</hangHoaNhanGiuHo>
+					<hangHoaNhanBanHo>0</hangHoaNhanBanHo>
+					<noKhoDoiDaXLy>0</noKhoDoiDaXLy>
+					<ngoaiTeCacLoai>0.00</ngoaiTeCacLoai>
+				</SoCuoiNam>
+				<SoDauNam>
+					<taiSanThueNgoai>0</taiSanThueNgoai>
+					<hangHoaNhanGiuHo>0</hangHoaNhanGiuHo>
+					<hangHoaNhanBanHo>0</hangHoaNhanBanHo>
+					<noKhoDoiDaXLy>0</noKhoDoiDaXLy>
+					<ngoaiTeCacLoai>0.00</ngoaiTeCacLoai>
+				</SoDauNam>
+			</NgoaiBangCDKT>
+			<nguoiLapBieu/>
+			<keToanTruong/>
+			<ngayLap>2016-04-01</ngayLap>
+			<giamDoc>Võ Ngọc Thuỳ Lan	</giamDoc>
+		</CTieuTKhaiChinh>
+		<PLuc>
+			<PL_KQHDXSKD>
+				<SoNamNay>
+					<ct01_nNay>2083172871</ct01_nNay>
+					<ct02_nNay>0</ct02_nNay>
+					<ct10_nNay>2083172871</ct10_nNay>
+					<ct11_nNay>1579948113</ct11_nNay>
+					<ct20_nNay>503224758</ct20_nNay>
+					<ct21_nNay>174476</ct21_nNay>
+					<ct22_nNay>0</ct22_nNay>
+					<ct23_nNay>0</ct23_nNay>
+					<ct24_nNay>496353573</ct24_nNay>
+					<ct30_nNay>7045661</ct30_nNay>
+					<ct31_nNay>0</ct31_nNay>
+					<ct32_nNay>1807315</ct32_nNay>
+					<ct40_nNay>-1807315</ct40_nNay>
+					<ct50_nNay>5238346</ct50_nNay>
+					<ct51_nNay>1409132</ct51_nNay>
+					<ct60_nNay>3829214</ct60_nNay>
+				</SoNamNay>
+				<SoNamNgoai>
+					<ct01_nNgoai>945722084</ct01_nNgoai>
+					<ct02_nNgoai>0</ct02_nNgoai>
+					<ct10_nNgoai>945722084</ct10_nNgoai>
+					<ct11_nNgoai>789399280</ct11_nNgoai>
+					<ct20_nNgoai>156322804</ct20_nNgoai>
+					<ct21_nNgoai>21132</ct21_nNgoai>
+					<ct22_nNgoai>0</ct22_nNgoai>
+					<ct23_nNgoai>0</ct23_nNgoai>
+					<ct24_nNgoai>153220766</ct24_nNgoai>
+					<ct30_nNgoai>3123170</ct30_nNgoai>
+					<ct31_nNgoai>0</ct31_nNgoai>
+					<ct32_nNgoai>0</ct32_nNgoai>
+					<ct40_nNgoai>0</ct40_nNgoai>
+					<ct50_nNgoai>3123170</ct50_nNgoai>
+					<ct51_nNgoai>945596</ct51_nNgoai>
+					<ct60_nNgoai>2177574</ct60_nNgoai>
+				</SoNamNgoai>
+				<nguoiLapBieu/>
+				<keToanTruong/>
+				<ngayLap>2016-04-01</ngayLap>
+				<giamDoc>Võ Ngọc Thuỳ Lan	</giamDoc>
+			</PL_KQHDXSKD>
+			<PL_LCTTTT>
+				<SoNamNay>
+					<ct01_nNay>1395847135</ct01_nNay>
+					<ct02_nNay>-1584238694</ct02_nNay>
+					<ct03_nNay>-249953717</ct03_nNay>
+					<ct04_nNay>0</ct04_nNay>
+					<ct05_nNay>-945596</ct05_nNay>
+					<ct06_nNay>0</ct06_nNay>
+					<ct07_nNay>-5888676</ct07_nNay>
+					<ct20_nNay>-445179548</ct20_nNay>
+					<ct21_nNay>0</ct21_nNay>
+					<ct22_nNay>0</ct22_nNay>
+					<ct23_nNay>0</ct23_nNay>
+					<ct24_nNay>0</ct24_nNay>
+					<ct25_nNay>0</ct25_nNay>
+					<ct26_nNay>0</ct26_nNay>
+					<ct27_nNay>0</ct27_nNay>
+					<ct30_nNay>0</ct30_nNay>
+					<ct31_nNay>0</ct31_nNay>
+					<ct32_nNay>0</ct32_nNay>
+					<ct33_nNay>0</ct33_nNay>
+					<ct34_nNay>0</ct34_nNay>
+					<ct35_nNay>0</ct35_nNay>
+					<ct36_nNay>174476</ct36_nNay>
+					<ct40_nNay>174476</ct40_nNay>
+					<ct50_nNay>-445005072</ct50_nNay>
+					<ct60_nNay>2188833957</ct60_nNay>
+					<ct61_nNay>0</ct61_nNay>
+					<ct70_nNay>1743828885</ct70_nNay>
+				</SoNamNay>
+				<SoNamNgoai>
+					<ct01_nNgoai>1231696642</ct01_nNgoai>
+					<ct02_nNgoai>-1180109170</ct02_nNgoai>
+					<ct03_nNgoai>-106388425</ct03_nNgoai>
+					<ct04_nNgoai>0</ct04_nNgoai>
+					<ct05_nNgoai>0</ct05_nNgoai>
+					<ct06_nNgoai>0</ct06_nNgoai>
+					<ct07_nNgoai>-3460143</ct07_nNgoai>
+					<ct20_nNgoai>-58261096</ct20_nNgoai>
+					<ct21_nNgoai>0</ct21_nNgoai>
+					<ct22_nNgoai>0</ct22_nNgoai>
+					<ct23_nNgoai>0</ct23_nNgoai>
+					<ct24_nNgoai>0</ct24_nNgoai>
+					<ct25_nNgoai>0</ct25_nNgoai>
+					<ct26_nNgoai>0</ct26_nNgoai>
+					<ct27_nNgoai>0</ct27_nNgoai>
+					<ct30_nNgoai>0</ct30_nNgoai>
+					<ct31_nNgoai>0</ct31_nNgoai>
+					<ct32_nNgoai>0</ct32_nNgoai>
+					<ct33_nNgoai>0</ct33_nNgoai>
+					<ct34_nNgoai>0</ct34_nNgoai>
+					<ct35_nNgoai>0</ct35_nNgoai>
+					<ct36_nNgoai>21132</ct36_nNgoai>
+					<ct40_nNgoai>21132</ct40_nNgoai>
+					<ct50_nNgoai>-58239964</ct50_nNgoai>
+					<ct60_nNgoai>2247073921</ct60_nNgoai>
+					<ct61_nNgoai>0</ct61_nNgoai>
+					<ct70_nNgoai>2188833957</ct70_nNgoai>
+				</SoNamNgoai>
+				<nguoiLapBieu/>
+				<keToanTruong/>
+				<ngayLap>2016-04-01</ngayLap>
+				<giamDoc>Võ Ngọc Thuỳ Lan	</giamDoc>
+			</PL_LCTTTT>
+		</PLuc>
+	</HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>vKdldl+qZAMceBWXtsFKkntqYBE=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>SKTybg4UJRRaO2TOkmKRxqIqgyT1ySnSFBvSpCPTnNpZH+ZZbCntCQ+K4hFcXcfpT+mSrWxRO0Bf
+OHgVqOIa/IbkMmEYOAkdaR/LSy7apRTZyfkRDSER8SDoeasdaTpR3Mg/W+Sz2RHrQMK6FEJjKxmQ
+GtOOu+YOd9JdTk+80vE=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>35yGakJz8lfwCcB6Y0D3fSrfPa/khFT6vAuZtE8B3kW/GDpACgtjTgrWZg7tV7ZKrPfa14t1hWxs
+5YITMjvHb5ZLPRurJY8CdyVtBj+QYKve78ENO8H8ItkSRSrdeOisWsl7fq4zzJU1BcZyGkocUGPk
+zCt4oOaHcsMfeoBCKtc=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,L=Bình Dương,CN=CÔNG TY TNHH MỘT THÀNH VIÊN KHỞI NGUYÊN AN,UID=MST:3702076037</ds:X509SubjectName><ds:X509Certificate>MIID2DCCAsCgAwIBAgIQVAT//rcDP7MW1nIgG3V0mTANBgkqhkiG9w0BAQUFADA6MQswCQYDVQQG
+EwJWTjEWMBQGA1UEChMNVmlldHRlbCBHcm91cDETMBEGA1UEAxMKVmlldHRlbC1DQTAeFw0xNTEw
+MTkwMTQ5NDlaFw0xNzA0MjEwMTQ5NDlaMIGCMR4wHAYKCZImiZPyLGQBAQwOTVNUOjM3MDIwNzYw
+MzcxOzA5BgNVBAMMMkPDlE5HIFRZIFROSEggTeG7mFQgVEjDgE5IIFZJw4pOIEtI4bueSSBOR1VZ
+w4pOIEFOMRYwFAYDVQQHDA1Cw6xuaCBExrDGoW5nMQswCQYDVQQGEwJWTjCBnzANBgkqhkiG9w0B
+AQEFAAOBjQAwgYkCgYEA35yGakJz8lfwCcB6Y0D3fSrfPa/khFT6vAuZtE8B3kW/GDpACgtjTgrW
+Zg7tV7ZKrPfa14t1hWxs5YITMjvHb5ZLPRurJY8CdyVtBj+QYKve78ENO8H8ItkSRSrdeOisWsl7
+fq4zzJU1BcZyGkocUGPkzCt4oOaHcsMfeoBCKtcCAwEAAaOCARMwggEPMDUGCCsGAQUFBwEBBCkw
+JzAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudmlldHRlbC1jYS52bjAdBgNVHQ4EFgQU0hooPYHN
+9yKDcZRg+X/0tn5YewEwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQIYOYfGxTZSIALXqdccyUs
+IA351jB4BgNVHR8EcTBvMG2gK6AphidodHRwOi8vY3JsLnZpZXR0ZWwtY2Eudm4vVmlldHRlbC1D
+QS5jcmyiPqQ8MDoxEzARBgNVBAMMClZpZXR0ZWwtQ0ExFjAUBgNVBAoMDVZpZXR0ZWwgR3JvdXAx
+CzAJBgNVBAYTAlZOMA4GA1UdDwEB/wQEAwIF4DANBgkqhkiG9w0BAQUFAAOCAQEAujomGEWRBrBz
+DIT1Wz5PB7DMdzIZ1Z99ner8bAVrmxZHZKSfGcySOoXDW50YWc5f/4tyyZSueCWN5R3aw6DvG3B5
+qToMymZOUQ9ivWF773HuVVSTYkbIN6aQ1gfNXBkmyAvMTXFTDzfSqBpdxQNQiJ/74ljyGQJDWe+X
+5y4dvSjVY/dRuWkWrk864OuQuFHJxyZfHOs65eq5yvU5+YS8R3hV4Lwt1XcDnYc3JbNaf5l+jXcx
+oYtetlVy/2R+FP5DFxx6wESoPDIZw8kEbrkk7Frx6bwajCR4XYT5y+XBhVXEXHRTwVw73+UrEVlY
+5okqFst3cLcR3A5xoggdUzMgGg==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
