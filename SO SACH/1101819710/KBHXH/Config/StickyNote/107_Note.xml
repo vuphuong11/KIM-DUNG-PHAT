@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Items>
+    <Item>
+		<Name>linkLayMaHS</Name>
+		<Note>Tự động lấy ra mã số Hồ sơ</Note>
+	</Item>	
+	<Item>
+		<Name>Mau-C12-TS</Name>
+		<Note>Mẫu này do cơ quan BHXH tỉnh huyện lập để thông báo chi tiết kết quả thực hiện đóng BHXH, BHYT, BHTN đối với các đơn vị tham gia BHXH, BHYT.</Note>
+	</Item>	
+  </Items>
+</Root>

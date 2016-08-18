@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhMuc>
+  <Item>
+    <ma>IT</ma>
+    <ten>Phòng IT</ten>
+    <GhiChu></GhiChu>
+	<isUse>1</isUse>
+  </Item>
+  <Item>
+    <ma>KT</ma>
+    <ten>Phòng Kế toán</ten>
+    <GhiChu></GhiChu>
+	<isUse>1</isUse>
+  </Item>
+</DanhMuc>

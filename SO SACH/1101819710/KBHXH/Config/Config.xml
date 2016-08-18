@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Mail_Type>SMTP</Mail_Type>
+  <Host_Mail>smtp.gmail.com</Host_Mail>
+  <Host_Port>587</Host_Port>
+  <From_Mail>thang11a6@gmail.com</From_Mail>
+  <From_Mail_Pass>19111990a</From_Mail_Pass>
+  <LocalDns>
+  </LocalDns>
+  <GhiNho>1</GhiNho>
+  <TKGDDT>0101300842-999</TKGDDT>
+  <PassWordGDDT>12345678</PassWordGDDT>
+</Config>

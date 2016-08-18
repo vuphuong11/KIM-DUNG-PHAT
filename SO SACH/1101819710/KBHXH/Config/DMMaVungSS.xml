@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhMuc version="1.0">
+  <Item>
+    <ma>K1</ma>
+    <ten>Nơi dân tộc thiểu số, hộ nghèo sinh sống tại vùng có điều kiện KT-XH khó khăn</ten>
+    <isUse>1</isUse>
+  </Item>
+  <Item>
+    <ma>K2</ma>
+    <ten>Nơi dân tộc thiểu số, hộ nghèo sinh sống tại vùng có điều kiện KT-XH đặc biệt khó khăn</ten>
+    <isUse>1</isUse>
+  </Item>
+<Item>
+    <ma>K3</ma>
+    <ten>Nơi người tham gia BHYT sinh sống tại xã đảo, huyện đảo</ten>
+    <isUse>1</isUse>
+  </Item>
+</DanhMuc>

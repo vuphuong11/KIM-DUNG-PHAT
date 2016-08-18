@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhMuc version="1.0">
+<Item><ma>VN</ma><ten>VIET NAM</ten><isUse>1</isUse></Item>
+<Item><ma>AF</ma><ten>AFGHANISTAN</ten><isUse>1</isUse></Item>
+<Item><ma>AX</ma><ten>ÅLAND ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>AL</ma><ten>ALBANIA</ten><isUse>1</isUse></Item>
+<Item><ma>DZ</ma><ten>ALGERIA</ten><isUse>1</isUse></Item>
+<Item><ma>AS</ma><ten>AMERICAN SAMOA</ten><isUse>1</isUse></Item>
+<Item><ma>AD</ma><ten>ANDORRA</ten><isUse>1</isUse></Item>
+<Item><ma>AO</ma><ten>ANGOLA</ten><isUse>1</isUse></Item>
+<Item><ma>AI</ma><ten>ANGUILLA</ten><isUse>1</isUse></Item>
+<Item><ma>AQ</ma><ten>ANTARCTICA</ten><isUse>1</isUse></Item>
+<Item><ma>AG</ma><ten>ANTIGUA AND BARBUDA</ten><isUse>1</isUse></Item>
+<Item><ma>AR</ma><ten>ARGENTINA</ten><isUse>1</isUse></Item>
+<Item><ma>AM</ma><ten>ARMENIA</ten><isUse>1</isUse></Item>
+<Item><ma>AW</ma><ten>ARUBA</ten><isUse>1</isUse></Item>
+<Item><ma>AU</ma><ten>AUSTRALIA</ten><isUse>1</isUse></Item>
+<Item><ma>AT</ma><ten>AUSTRIA</ten><isUse>1</isUse></Item>
+<Item><ma>AZ</ma><ten>AZERBAIJAN</ten><isUse>1</isUse></Item>
+<Item><ma>BS</ma><ten>BAHAMAS</ten><isUse>1</isUse></Item>
+<Item><ma>BH</ma><ten>BAHRAIN</ten><isUse>1</isUse></Item>
+<Item><ma>BD</ma><ten>BANGLADESH</ten><isUse>1</isUse></Item>
+<Item><ma>BB</ma><ten>BARBADOS</ten><isUse>1</isUse></Item>
+<Item><ma>BY</ma><ten>BELARUS</ten><isUse>1</isUse></Item>
+<Item><ma>BE</ma><ten>BELGIUM</ten><isUse>1</isUse></Item>
+<Item><ma>BZ</ma><ten>BELIZE</ten><isUse>1</isUse></Item>
+<Item><ma>BJ</ma><ten>BENIN</ten><isUse>1</isUse></Item>
+<Item><ma>BM</ma><ten>BERMUDA</ten><isUse>1</isUse></Item>
+<Item><ma>BT</ma><ten>BHUTAN</ten><isUse>1</isUse></Item>
+<Item><ma>BO</ma><ten>BOLIVIA</ten><isUse>1</isUse></Item>
+<Item><ma>BA</ma><ten>BOSNIA AND HERZEGOVINA</ten><isUse>1</isUse></Item>
+<Item><ma>BW</ma><ten>BOTSWANA</ten><isUse>1</isUse></Item>
+<Item><ma>BV</ma><ten>BOUVET ISLAND</ten><isUse>1</isUse></Item>
+<Item><ma>BR</ma><ten>BRAZIL</ten><isUse>1</isUse></Item>
+<Item><ma>IO</ma><ten>BRITISH INDIAN OCEAN TERRITORY</ten><isUse>1</isUse></Item>
+<Item><ma>BN</ma><ten>BRUNEI DARUSSALAM</ten><isUse>1</isUse></Item>
+<Item><ma>BG</ma><ten>BULGARIA</ten><isUse>1</isUse></Item>
+<Item><ma>BF</ma><ten>BURKINA FASO</ten><isUse>1</isUse></Item>
+<Item><ma>BI</ma><ten>BURUNDI</ten><isUse>1</isUse></Item>
+<Item><ma>KH</ma><ten>CAMBODIA</ten><isUse>1</isUse></Item>
+<Item><ma>CM</ma><ten>CAMEROON</ten><isUse>1</isUse></Item>
+<Item><ma>CA</ma><ten>CANADA</ten><isUse>1</isUse></Item>
+<Item><ma>CV</ma><ten>CAPE VERDE</ten><isUse>1</isUse></Item>
+<Item><ma>KY</ma><ten>CAYMAN ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>CF</ma><ten>CENTRAL AFRICAN REPUBLIC</ten><isUse>1</isUse></Item>
+<Item><ma>TD</ma><ten>CHAD</ten><isUse>1</isUse></Item>
+<Item><ma>CL</ma><ten>CHILE</ten><isUse>1</isUse></Item>
+<Item><ma>CN</ma><ten>CHINA</ten><isUse>1</isUse></Item>
+<Item><ma>CX</ma><ten>CHRISTMAS ISLAND</ten><isUse>1</isUse></Item>
+<Item><ma>CC</ma><ten>COCOS (KEELING) ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>CO</ma><ten>COLOMBIA</ten><isUse>1</isUse></Item>
+<Item><ma>KM</ma><ten>COMOROS</ten><isUse>1</isUse></Item>
+<Item><ma>CG</ma><ten>CONGO</ten><isUse>1</isUse></Item>
+<Item><ma>CD</ma><ten>CONGO, THE DEMOCRATIC REPUBLIC OF THE</ten><isUse>1</isUse></Item>
+<Item><ma>CK</ma><ten>COOK ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>CR</ma><ten>COSTA RICA</ten><isUse>1</isUse></Item>
+<Item><ma>CI</ma><ten>CÔTE D'IVOIRE</ten><isUse>1</isUse></Item>
+<Item><ma>HR</ma><ten>CROATIA</ten><isUse>1</isUse></Item>
+<Item><ma>CU</ma><ten>CUBA</ten><isUse>1</isUse></Item>
+<Item><ma>CY</ma><ten>CYPRUS</ten><isUse>1</isUse></Item>
+<Item><ma>CZ</ma><ten>CZECH REPUBLIC</ten><isUse>1</isUse></Item>
+<Item><ma>DK</ma><ten>DENMARK</ten><isUse>1</isUse></Item>
+<Item><ma>DJ</ma><ten>DJIBOUTI</ten><isUse>1</isUse></Item>
+<Item><ma>DM</ma><ten>DOMINICA</ten><isUse>1</isUse></Item>
+<Item><ma>DO</ma><ten>DOMINICAN REPUBLIC</ten><isUse>1</isUse></Item>
+<Item><ma>EC</ma><ten>ECUADOR</ten><isUse>1</isUse></Item>
+<Item><ma>EG</ma><ten>EGYPT</ten><isUse>1</isUse></Item>
+<Item><ma>SV</ma><ten>EL SALVADOR</ten><isUse>1</isUse></Item>
+<Item><ma>GQ</ma><ten>EQUATORIAL GUINEA</ten><isUse>1</isUse></Item>
+<Item><ma>ER</ma><ten>ERITREA</ten><isUse>1</isUse></Item>
+<Item><ma>EE</ma><ten>ESTONIA</ten><isUse>1</isUse></Item>
+<Item><ma>ET</ma><ten>ETHIOPIA</ten><isUse>1</isUse></Item>
+<Item><ma>FK</ma><ten>FALKLAND ISLANDS (MALVINAS)</ten><isUse>1</isUse></Item>
+<Item><ma>FO</ma><ten>FAROE ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>FJ</ma><ten>FIJI</ten><isUse>1</isUse></Item>
+<Item><ma>FI</ma><ten>FINLAND</ten><isUse>1</isUse></Item>
+<Item><ma>FR</ma><ten>FRANCE</ten><isUse>1</isUse></Item>
+<Item><ma>GF</ma><ten>FRENCH GUIANA</ten><isUse>1</isUse></Item>
+<Item><ma>PF</ma><ten>FRENCH POLYNESIA</ten><isUse>1</isUse></Item>
+<Item><ma>TF</ma><ten>FRENCH SOUTHERN TERRITORIES</ten><isUse>1</isUse></Item>
+<Item><ma>GA</ma><ten>GABON</ten><isUse>1</isUse></Item>
+<Item><ma>GM</ma><ten>GAMBIA</ten><isUse>1</isUse></Item>
+<Item><ma>GE</ma><ten>GEORGIA</ten><isUse>1</isUse></Item>
+<Item><ma>DE</ma><ten>GERMANY</ten><isUse>1</isUse></Item>
+<Item><ma>GH</ma><ten>GHANA</ten><isUse>1</isUse></Item>
+<Item><ma>GI</ma><ten>GIBRALTAR</ten><isUse>1</isUse></Item>
+<Item><ma>GR</ma><ten>GREECE</ten><isUse>1</isUse></Item>
+<Item><ma>GL</ma><ten>GREENLAND</ten><isUse>1</isUse></Item>
+<Item><ma>GD</ma><ten>GRENADA</ten><isUse>1</isUse></Item>
+<Item><ma>GP</ma><ten>GUADELOUPE</ten><isUse>1</isUse></Item>
+<Item><ma>GU</ma><ten>GUAM</ten><isUse>1</isUse></Item>
+<Item><ma>GT</ma><ten>GUATEMALA</ten><isUse>1</isUse></Item>
+<Item><ma>GN</ma><ten>GUINEA</ten><isUse>1</isUse></Item>
+<Item><ma>GW</ma><ten>GUINEA-BISSAU</ten><isUse>1</isUse></Item>
+<Item><ma>GY</ma><ten>GUYANA</ten><isUse>1</isUse></Item>
+<Item><ma>HT</ma><ten>HAITI</ten><isUse>1</isUse></Item>
+<Item><ma>HM</ma><ten>HEARD ISLAND AND MCDONALD ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>VA</ma><ten>HOLY SEE (VATICAN CITY STATE)</ten><isUse>1</isUse></Item>
+<Item><ma>HN</ma><ten>HONDURAS</ten><isUse>1</isUse></Item>
+<Item><ma>HK</ma><ten>HONG KONG</ten><isUse>1</isUse></Item>
+<Item><ma>HU</ma><ten>HUNGARY</ten><isUse>1</isUse></Item>
+<Item><ma>IS</ma><ten>ICELAND</ten><isUse>1</isUse></Item>
+<Item><ma>IN</ma><ten>INDIA</ten><isUse>1</isUse></Item>
+<Item><ma>ID</ma><ten>INDONESIA</ten><isUse>1</isUse></Item>
+<Item><ma>IR</ma><ten>IRAN, ISLAMIC REPUBLIC OF</ten><isUse>1</isUse></Item>
+<Item><ma>IQ</ma><ten>IRAQ</ten><isUse>1</isUse></Item>
+<Item><ma>IE</ma><ten>IRELAND</ten><isUse>1</isUse></Item>
+<Item><ma>IL</ma><ten>ISRAEL</ten><isUse>1</isUse></Item>
+<Item><ma>IT</ma><ten>ITALY</ten><isUse>1</isUse></Item>
+<Item><ma>JM</ma><ten>JAMAICA</ten><isUse>1</isUse></Item>
+<Item><ma>JP</ma><ten>JAPAN</ten><isUse>1</isUse></Item>
+<Item><ma>JO</ma><ten>JORDAN</ten><isUse>1</isUse></Item>
+<Item><ma>KZ</ma><ten>KAZAKHSTAN</ten><isUse>1</isUse></Item>
+<Item><ma>KE</ma><ten>KENYA</ten><isUse>1</isUse></Item>
+<Item><ma>KI</ma><ten>KIRIBATI</ten><isUse>1</isUse></Item>
+<Item><ma>KP</ma><ten>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</ten><isUse>1</isUse></Item>
+<Item><ma>KR</ma><ten>KOREA, REPUBLIC OF</ten><isUse>1</isUse></Item>
+<Item><ma>KW</ma><ten>KUWAIT</ten><isUse>1</isUse></Item>
+<Item><ma>KG</ma><ten>KYRGYZSTAN</ten><isUse>1</isUse></Item>
+<Item><ma>LA</ma><ten>LAO PEOPLE'S DEMOCRATIC REPUBLIC</ten><isUse>1</isUse></Item>
+<Item><ma>LV</ma><ten>LATVIA</ten><isUse>1</isUse></Item>
+<Item><ma>LB</ma><ten>LEBANON</ten><isUse>1</isUse></Item>
+<Item><ma>LS</ma><ten>LESOTHO</ten><isUse>1</isUse></Item>
+<Item><ma>LR</ma><ten>LIBERIA</ten><isUse>1</isUse></Item>
+<Item><ma>LY</ma><ten>LIBYAN ARAB JAMAHIRIYA</ten><isUse>1</isUse></Item>
+<Item><ma>LI</ma><ten>LIECHTENSTEIN</ten><isUse>1</isUse></Item>
+<Item><ma>LT</ma><ten>LITHUANIA</ten><isUse>1</isUse></Item>
+<Item><ma>LU</ma><ten>LUXEMBOURG</ten><isUse>1</isUse></Item>
+<Item><ma>MO</ma><ten>MACAO</ten><isUse>1</isUse></Item>
+<Item><ma>MK</ma><ten>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</ten><isUse>1</isUse></Item>
+<Item><ma>MG</ma><ten>MADAGASCAR</ten><isUse>1</isUse></Item>
+<Item><ma>MW</ma><ten>MALAWI</ten><isUse>1</isUse></Item>
+<Item><ma>MY</ma><ten>MALAYSIA</ten><isUse>1</isUse></Item>
+<Item><ma>MV</ma><ten>MALDIVES</ten><isUse>1</isUse></Item>
+<Item><ma>ML</ma><ten>MALI</ten><isUse>1</isUse></Item>
+<Item><ma>MT</ma><ten>MALTA</ten><isUse>1</isUse></Item>
+<Item><ma>MH</ma><ten>MARSHALL ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>MQ</ma><ten>MARTINIQUE</ten><isUse>1</isUse></Item>
+<Item><ma>MR</ma><ten>MAURITANIA</ten><isUse>1</isUse></Item>
+<Item><ma>MU</ma><ten>MAURITIUS</ten><isUse>1</isUse></Item>
+<Item><ma>YT</ma><ten>MAYOTTE</ten><isUse>1</isUse></Item>
+<Item><ma>MX</ma><ten>MEXICO</ten><isUse>1</isUse></Item>
+<Item><ma>FM</ma><ten>MICRONESIA, FEDERATED STATES OF</ten><isUse>1</isUse></Item>
+<Item><ma>MD</ma><ten>MOLDOVA, REPUBLIC OF</ten><isUse>1</isUse></Item>
+<Item><ma>MC</ma><ten>MONACO</ten><isUse>1</isUse></Item>
+<Item><ma>MN</ma><ten>MONGOLIA</ten><isUse>1</isUse></Item>
+<Item><ma>MS</ma><ten>MONTSERRAT</ten><isUse>1</isUse></Item>
+<Item><ma>MA</ma><ten>MOROCCO</ten><isUse>1</isUse></Item>
+<Item><ma>MZ</ma><ten>MOZAMBIQUE</ten><isUse>1</isUse></Item>
+<Item><ma>MM</ma><ten>MYANMAR</ten><isUse>1</isUse></Item>
+<Item><ma>NA</ma><ten>NAMIBIA</ten><isUse>1</isUse></Item>
+<Item><ma>NR</ma><ten>NAURU</ten><isUse>1</isUse></Item>
+<Item><ma>NP</ma><ten>NEPAL</ten><isUse>1</isUse></Item>
+<Item><ma>NL</ma><ten>NETHERLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>AN</ma><ten>NETHERLANDS ANTILLES</ten><isUse>1</isUse></Item>
+<Item><ma>NC</ma><ten>NEW CALEDONIA</ten><isUse>1</isUse></Item>
+<Item><ma>NZ</ma><ten>NEW ZEALAND</ten><isUse>1</isUse></Item>
+<Item><ma>NI</ma><ten>NICARAGUA</ten><isUse>1</isUse></Item>
+<Item><ma>NE</ma><ten>NIGER</ten><isUse>1</isUse></Item>
+<Item><ma>NG</ma><ten>NIGERIA</ten><isUse>1</isUse></Item>
+<Item><ma>NU</ma><ten>NIUE</ten><isUse>1</isUse></Item>
+<Item><ma>NF</ma><ten>NORFOLK ISLAND</ten><isUse>1</isUse></Item>
+<Item><ma>MP</ma><ten>NORTHERN MARIANA ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>NO</ma><ten>NORWAY</ten><isUse>1</isUse></Item>
+<Item><ma>OM</ma><ten>OMAN</ten><isUse>1</isUse></Item>
+<Item><ma>PK</ma><ten>PAKISTAN</ten><isUse>1</isUse></Item>
+<Item><ma>PW</ma><ten>PALAU</ten><isUse>1</isUse></Item>
+<Item><ma>PS</ma><ten>PALESTINIAN TERRITORY, OCCUPIED</ten><isUse>1</isUse></Item>
+<Item><ma>PA</ma><ten>PANAMA</ten><isUse>1</isUse></Item>
+<Item><ma>PG</ma><ten>PAPUA NEW GUINEA</ten><isUse>1</isUse></Item>
+<Item><ma>PY</ma><ten>PARAGUAY</ten><isUse>1</isUse></Item>
+<Item><ma>PE</ma><ten>PERU</ten><isUse>1</isUse></Item>
+<Item><ma>PH</ma><ten>PHILIPPINES</ten><isUse>1</isUse></Item>
+<Item><ma>PN</ma><ten>PITCAIRN</ten><isUse>1</isUse></Item>
+<Item><ma>PL</ma><ten>POLAND</ten><isUse>1</isUse></Item>
+<Item><ma>PT</ma><ten>PORTUGAL</ten><isUse>1</isUse></Item>
+<Item><ma>PR</ma><ten>PUERTO RICO</ten><isUse>1</isUse></Item>
+<Item><ma>QA</ma><ten>QATAR</ten><isUse>1</isUse></Item>
+<Item><ma>RE</ma><ten>RÉUNION</ten><isUse>1</isUse></Item>
+<Item><ma>RO</ma><ten>ROMANIA</ten><isUse>1</isUse></Item>
+<Item><ma>RU</ma><ten>RUSSIAN FEDERATION</ten><isUse>1</isUse></Item>
+<Item><ma>RW</ma><ten>RWANDA</ten><isUse>1</isUse></Item>
+<Item><ma>SH</ma><ten>SAINT HELENA</ten><isUse>1</isUse></Item>
+<Item><ma>KN</ma><ten>SAINT KITTS AND NEVIS</ten><isUse>1</isUse></Item>
+<Item><ma>LC</ma><ten>SAINT LUCIA</ten><isUse>1</isUse></Item>
+<Item><ma>PM</ma><ten>SAINT PIERRE AND MIQUELON</ten><isUse>1</isUse></Item>
+<Item><ma>VC</ma><ten>SAINT VINCENT AND THE GRENADINES</ten><isUse>1</isUse></Item>
+<Item><ma>WS</ma><ten>SAMOA</ten><isUse>1</isUse></Item>
+<Item><ma>SM</ma><ten>SAN MARINO</ten><isUse>1</isUse></Item>
+<Item><ma>ST</ma><ten>SAO TOME AND PRINCIPE</ten><isUse>1</isUse></Item>
+<Item><ma>SA</ma><ten>SAUDI ARABIA</ten><isUse>1</isUse></Item>
+<Item><ma>SN</ma><ten>SENEGAL</ten><isUse>1</isUse></Item>
+<Item><ma>CS</ma><ten>SERBIA AND MONTENEGRO</ten><isUse>1</isUse></Item>
+<Item><ma>SC</ma><ten>SEYCHELLES</ten><isUse>1</isUse></Item>
+<Item><ma>SL</ma><ten>SIERRA LEONE</ten><isUse>1</isUse></Item>
+<Item><ma>SG</ma><ten>SINGAPORE</ten><isUse>1</isUse></Item>
+<Item><ma>SK</ma><ten>SLOVAKIA</ten><isUse>1</isUse></Item>
+<Item><ma>SI</ma><ten>SLOVENIA</ten><isUse>1</isUse></Item>
+<Item><ma>SB</ma><ten>SOLOMON ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>SO</ma><ten>SOMALIA</ten><isUse>1</isUse></Item>
+<Item><ma>ZA</ma><ten>SOUTH AFRICA</ten><isUse>1</isUse></Item>
+<Item><ma>GS</ma><ten>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>ES</ma><ten>SPAIN</ten><isUse>1</isUse></Item>
+<Item><ma>LK</ma><ten>SRI LANKA</ten><isUse>1</isUse></Item>
+<Item><ma>SD</ma><ten>SUDAN</ten><isUse>1</isUse></Item>
+<Item><ma>SR</ma><ten>SURINAME</ten><isUse>1</isUse></Item>
+<Item><ma>SJ</ma><ten>SVALBARD AND JAN MAYEN</ten><isUse>1</isUse></Item>
+<Item><ma>SZ</ma><ten>SWAZILAND</ten><isUse>1</isUse></Item>
+<Item><ma>SE</ma><ten>SWEDEN</ten><isUse>1</isUse></Item>
+<Item><ma>CH</ma><ten>SWITZERLAND</ten><isUse>1</isUse></Item>
+<Item><ma>SY</ma><ten>SYRIAN ARAB REPUBLIC</ten><isUse>1</isUse></Item>
+<Item><ma>TW</ma><ten>TAIWAN, PROVINCE OF CHINA</ten><isUse>1</isUse></Item>
+<Item><ma>TJ</ma><ten>TAJIKISTAN</ten><isUse>1</isUse></Item>
+<Item><ma>TZ</ma><ten>TANZANIA, UNITED REPUBLIC OF</ten><isUse>1</isUse></Item>
+<Item><ma>TH</ma><ten>THAILAND</ten><isUse>1</isUse></Item>
+<Item><ma>TL</ma><ten>TIMOR-LESTE</ten><isUse>1</isUse></Item>
+<Item><ma>TG</ma><ten>TOGO</ten><isUse>1</isUse></Item>
+<Item><ma>TK</ma><ten>TOKELAU</ten><isUse>1</isUse></Item>
+<Item><ma>TO</ma><ten>TONGA</ten><isUse>1</isUse></Item>
+<Item><ma>TT</ma><ten>TRINIDAD AND TOBAGO</ten><isUse>1</isUse></Item>
+<Item><ma>TN</ma><ten>TUNISIA</ten><isUse>1</isUse></Item>
+<Item><ma>TR</ma><ten>TURKEY</ten><isUse>1</isUse></Item>
+<Item><ma>TM</ma><ten>TURKMENISTAN</ten><isUse>1</isUse></Item>
+<Item><ma>TC</ma><ten>TURKS AND CAICOS ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>TV</ma><ten>TUVALU</ten><isUse>1</isUse></Item>
+<Item><ma>UG</ma><ten>UGANDA</ten><isUse>1</isUse></Item>
+<Item><ma>UA</ma><ten>UKRAINE</ten><isUse>1</isUse></Item>
+<Item><ma>AE</ma><ten>UNITED ARAB EMIRATES</ten><isUse>1</isUse></Item>
+<Item><ma>GB</ma><ten>UNITED KINGDOM</ten><isUse>1</isUse></Item>
+<Item><ma>US</ma><ten>UNITED STATES</ten><isUse>1</isUse></Item>
+<Item><ma>UM</ma><ten>UNITED STATES MINOR OUTLYING ISLANDS</ten><isUse>1</isUse></Item>
+<Item><ma>UY</ma><ten>URUGUAY</ten><isUse>1</isUse></Item>
+<Item><ma>UZ</ma><ten>UZBEKISTAN</ten><isUse>1</isUse></Item>
+<Item><ma>VU</ma><ten>VANUATU</ten><isUse>1</isUse></Item>
+<Item><ma>VA</ma><ten>Vatican City State see HOLY SEE</ten><isUse>1</isUse></Item>
+<Item><ma>VE</ma><ten>VENEZUELA</ten><isUse>1</isUse></Item>
+<Item><ma>VG</ma><ten>VIRGIN ISLANDS, BRITISH</ten><isUse>1</isUse></Item>
+<Item><ma>VI</ma><ten>VIRGIN ISLANDS, U.S.</ten><isUse>1</isUse></Item>
+<Item><ma>WF</ma><ten>WALLIS AND FUTUNA</ten><isUse>1</isUse></Item>
+<Item><ma>EH</ma><ten>WESTERN SAHARA</ten><isUse>1</isUse></Item>
+<Item><ma>YE</ma><ten>YEMEN</ten><isUse>1</isUse></Item>
+<Item><ma>ZM</ma><ten>ZAMBIA</ten><isUse>1</isUse></Item>
+<Item><ma>ZW</ma><ten>ZIMBABWE</ten><isUse>1</isUse></Item>
+</DanhMuc>

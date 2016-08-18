@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Items>
+    <Item>
+		<Name>linkLayMaHS</Name>
+		<Note>Tự động lấy ra mã số Hồ sơ. Số hồ sơ được tự động sinh ra này dùng để quản lý hồ sơ Doanh nghiệp tạo và gửi lên cơ quan Bảo hiểm xã hội</Note>
+	</Item>
+	<Item>
+		<Name>Chon</Name>
+		<Note>Tích chọn các loại giấy tờ, biểu mẫu tương ứng với từng trường hợp đối tượng bạn cần kê khai</Note>
+	</Item>
+	<Item>
+		<Name>SoLuong</Name>
+		<Note>Số lượng tự động sinh ra tương ứng với các loại giấy tờ, biểu mẫu được tích chọn. Bạn có thể sửa cột số lượng này </Note>
+	</Item>
+	<Item>
+		<Name>FileDinhKem</Name>
+		<Note>Sau khi tích chọn các loại giấy tờ, mẫu biểu, bên cột Nội dung sẽ hiển thị tên mẫu biểu vừa được chọn hoặc biểu tượng tải các loại giấy tờ cần đính kèm. Đối với các mẫu biểu, bạn tích chuột vào tên của mẫu biểu đó bên cột Nội dung để chuyển trực tiếp sang giao diện mẫu biểu đó để kê khai.
+		Trường hợp là các loại giấy tờ cần đính kèm, bạn chọn vào biểu tượng tải file để chọn đến file cần đính kèm. Kích chọn xem lại file hoặc xóa file nếu như file vừa tải không đúng</Note>
+	</Item>
+	<Item>
+		<Name>Mau-D02-TS</Name>
+		<Note>Để đơn vị kê khai lao động, tiền lương, tiền công tham gia BHXH, BHYT; điều chỉnh mức đóng BHXH, BHYT và đăng ký cấp sổ BHXH, thẻ BHYT đối với người lao động thuộc đơn vị.</Note>
+	</Item>
+	<Item>
+		<Name>$#USB$#</Name>
+		<Note>Tích chọn nếu kê khai theo hình thức USB</Note>
+	</Item>
+	<Item>
+		<Name>$#Email$#</Name>
+		<Note>Tích chọn nếu kê khai theo hình thức Email</Note>
+	</Item>
+  </Items>
+</Root>

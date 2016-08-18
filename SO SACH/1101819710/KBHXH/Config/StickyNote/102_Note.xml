@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Items>
+    <Item>
+		<Name>linkLayMaHS</Name>
+		<Note>Tự động lấy ra mã số Hồ sơ. Số hồ sơ được tự động sinh ra này dùng để quản lý hồ sơ Doanh nghiệp tạo và gửi lên cơ quan Bảo hiểm xã hội</Note>
+	</Item>
+	<Item>
+		<Name>CongAn</Name>
+		<Note>Tích chọn trong trường hợp cấp thẻ BHYT cho đối tượng thuộc ngành Lao động, Thương binh và Xã hội quản lý; Thân nhân cán bộ, chiến sĩ Công An</Note>
+	</Item>
+	<Item>
+		<Name>Mau-D03-TS</Name>
+		<Note>Để kê khai các thông tin của người chỉ tham gia BHYT để thu, cấp thẻ BHYT theo quy định.</Note>
+	</Item>
+	<Item>
+		<Name>TreEmDuoi6</Name>
+		<Note>Tích chọn đối với trường hợp cấp thẻ BHYT cho đối tượng trẻ em dưới 06 tuổi</Note>
+	</Item>
+	<Item>
+		<Name>HienBPCoThe</Name>
+		<Note>Tích chọn đối với trường hợp cấp thẻ BHYT cho người đã hiến bộ phận cơ thể người cho y học</Note>
+	</Item>
+	<Item>
+		<Name>$#USB$#</Name>
+		<Note>Tích chọn nếu kê khai theo hình thức USB</Note>
+	</Item>
+	<Item>
+		<Name>$#Email$#</Name>
+		<Note>Tích chọn nếu kê khai theo hình thức Email</Note>
+	</Item>
+  </Items>
+</Root>

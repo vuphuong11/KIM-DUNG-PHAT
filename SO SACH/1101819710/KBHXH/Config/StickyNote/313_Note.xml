@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Items>
+    <Item>
+		<Name>linkLayMaHS</Name>
+		<Note>Tự động lấy ra mã số Hồ sơ</Note>
+	</Item>
+	<Item>
+		<Name>Truoc1995</Name>
+		<Note>Tích chọn trong trường hợp thời gian công tác trước tháng 01/1995</Note>
+	</Item>
+	<Item>
+		<Name>Truoc1998</Name>
+		<Note>Tích chọn trong trường hợp thời gian đảm nhiệm chức danh trước tháng 01/1998 đối với cán bộ cấp xã</Note>
+	</Item>
+	</Items>
+</Root>

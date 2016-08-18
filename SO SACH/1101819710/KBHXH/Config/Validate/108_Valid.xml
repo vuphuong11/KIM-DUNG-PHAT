@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Items>
+    <Field_Require>
+    </Field_Require>
+	<Field_Value_List>
+	    <Field>
+	      <STT>1</STT>
+	      <ID>SoHS</ID>
+	      <Name>SoHS</Name>
+	      <Len>1</Len>
+	      <Type>n</Type>
+	      <Require>C</Require>
+	      <Value>2</Value>
+		  <Description>Không được để trống</Description>
+	      <Label></Label>
+	    </Field>
+		<Field_Ref>
+		    <Field>
+		      <STT></STT>
+		      <ID></ID>
+		      <Name></Name>
+		      <Len></Len>
+		      <Type></Type>
+		      <Require></Require>
+		      <Value></Value>
+			  <Description></Description>
+		      <Label></Label>
+		    </Field>
+		 	    
+		</Field_Ref>
+	</Field_Value_List>
+  </Items>
+</Root>

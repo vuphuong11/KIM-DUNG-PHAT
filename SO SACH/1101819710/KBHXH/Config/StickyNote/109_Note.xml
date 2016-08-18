@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Items>
+    <Item>
+		<Name>linkLayMaHS</Name>
+		<Note>Tự động lấy ra mã số Hồ sơ</Note>
+	</Item>	
+	<Item>
+		<Name>Mau-D02-TS</Name>
+		<Note>Khi có phát sinh lao động, đơn vị kê khai lao động, tiền lương tham gia BHXH, BHYT, BHTN; điều chỉnh mức đóng BHXH, BHYT, BHTN và đăng ký cấp sổ BHXH, thẻ BHYT đối với người lao động thuộc đơn vị.</Note>
+	</Item>	
+  </Items>
+</Root>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhMuc version="1.0">
+  <Item>
+    <ma>01</ma>
+    <ten>Vùng I : 3.500.000 đồng/tháng</ten>
+    <isUse>1</isUse>
+  </Item>
+  <Item>
+    <ma>02</ma>
+    <ten>Vùng II : 3.100.000 đồng/tháng</ten>
+    <isUse>1</isUse>
+  </Item>
+<Item>
+    <ma>03</ma>
+    <ten>Vùng III : 2.700.000 đồng/tháng</ten>
+    <isUse>1</isUse>
+  </Item>
+  <Item>
+    <ma>04</ma>
+    <ten>Vùng IV : 2.400.000 đồng/tháng</ten>
+    <isUse>1</isUse>
+  </Item>
+</DanhMuc>

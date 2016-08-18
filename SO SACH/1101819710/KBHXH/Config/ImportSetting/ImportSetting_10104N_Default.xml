@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IMPORTSETTING_NLD>
+<!-- BHXH HN Báo tăng lao động QĐ 959 -->
+  <ITEM>
+    <MA>LoaiLD</MA>
+    <TEN>Phương án</TEN>
+    <COL>B</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>HoVaTen</MA>
+    <TEN>Họ và tên</TEN>
+    <COL>C</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MaSoBHXH</MA>
+    <TEN>Số định danh</TEN>
+    <COL>D</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>DaCoSo</MA>
+    <TEN>Đã có sổ</TEN>
+    <COL>E</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MucHuong</MA>
+    <TEN>Mức hưởng BHYT</TEN>
+    <COL>F</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>NgaySinh</MA>
+    <TEN>Ngày sinh</TEN>
+    <COL>G</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>CCNS</MA>
+    <TEN>Chỉ có năm sinh</TEN>
+    <COL>H</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>GioiTinh</MA>
+    <TEN>Giới tính</TEN>
+    <COL>I</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>ViTri</MA>
+    <TEN>Vị trí</TEN>
+    <COL>J</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>NoiLamViec</MA>
+    <TEN>Phòng ban</TEN>
+    <COL>K</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MaVungSS</MA>
+    <TEN>Mã vùng sinh sống</TEN>
+    <COL>L</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>TienLuongDK</MA>
+    <TEN>Tiền lương (VNĐ)</TEN>
+    <COL>M</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>HeSoLuongDK</MA>
+    <TEN>Hệ số lương</TEN>
+    <COL>N</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCChucVuDK</MA>
+    <TEN>Phụ cấp chức vụ</TEN>
+    <COL>O</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCTNVKDK</MA>
+    <TEN>Phụ cấp TNVK</TEN>
+    <COL>P</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCTNNgheDK</MA>
+    <TEN>Phụ cấp TN nghề</TEN>
+    <COL>Q</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MLPCDK</MA>
+    <TEN>Phụ cấp lương</TEN>
+    <COL>R</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MLBSDK</MA>
+    <TEN>Phụ cấp các khoản bổ sung</TEN>
+    <COL>S</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>TienLuong</MA>
+    <TEN>Tiền lương (mức đóng mới)</TEN>
+    <COL>T</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>HeSoLuong</MA>
+    <TEN>Hệ số lương (mức đóng mới)</TEN>
+    <COL>U</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCChucVu</MA>
+    <TEN>Phụ cấp chức vụ (mức đóng mới)</TEN>
+    <COL>V</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCTNVK</MA>
+    <TEN>Phụ cấp TNVK (mức đóng mới)</TEN>
+    <COL>W</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCTNNghe</MA>
+    <TEN>Phụ cấp TN nghề (mức đóng mới)</TEN>
+    <COL>X</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MLPC</MA>
+    <TEN>Phụ cấp lương (mức đóng mới)</TEN>
+    <COL>Y</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MLBS</MA>
+    <TEN>Phụ cấp các khoản bổ sung (mức đóng mới)</TEN>
+    <COL>Z</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>  
+  <ITEM>
+    <MA>ThoiGianCoBHXH</MA>
+    <TEN>Từ tháng</TEN>
+    <COL>AA</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>DenThang</MA>
+    <TEN>Đến tháng</TEN>
+    <COL>AB</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>TyLeDong</MA>
+    <TEN>Tỷ lệ đóng</TEN>
+    <COL>AC</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>GhiChu</MA>
+    <TEN>Ghi chú</TEN>
+    <COL>AD</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>CKThuHoiThe</MA>
+    <TEN>Cam kế thu hồi thẻ</TEN>
+    <COL>AE</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>TraTheCQBH</MA>
+    <TEN>Trả thẻ cho CQBH</TEN>
+    <COL>AF</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>KhongTraThe</MA>
+    <TEN>Không trả thẻ</TEN>
+    <COL>AG</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>TaiLieuKemTheo</MA>
+    <TEN>File đính kèm</TEN>
+    <COL>AH</COL>
+    <ROW></ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <SHEET>Sheet1</SHEET>
+  <ROW_HEAD>1</ROW_HEAD>
+  <ROW_DATA>2</ROW_DATA>
+</IMPORTSETTING_NLD>

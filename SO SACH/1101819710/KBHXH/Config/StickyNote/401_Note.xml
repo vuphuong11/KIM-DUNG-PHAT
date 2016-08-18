@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Items>
+    <Item>
+		<Name>linkLayMaHS</Name>
+		<Note>Tự động lấy ra mã số Hồ sơ</Note>
+	</Item>
+	<Item>
+		<Name>TruongHop1</Name>
+		<Note>Tích chọn trong trường hợp thời đơn vị đã hoàn tất thủ tục báo giảm và thực hiện đầy đủ nghĩa vụ đóng BHXH, BHYT, BHTN</Note>
+	</Item>
+	<Item>
+		<Name>TruongHop2</Name>
+		<Note>Tích chọn trong trường hợp đối với đối tượng chính sách thuộc sở Lao động Thương binh và Xã hội quản lý</Note>
+	</Item>
+	<Item>
+		<Name>TruongHop3</Name>
+		<Note>Tích chọn trong trường hợp vừa điều chỉnh nhân thân vừa cấp mất thẻ BHYT</Note>
+	</Item>
+	</Items>
+</Root>

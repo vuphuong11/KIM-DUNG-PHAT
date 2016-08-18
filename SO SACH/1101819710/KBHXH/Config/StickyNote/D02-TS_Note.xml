@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Items>
+    <Item>
+		<Name>$#LoaiLD$#</Name>
+		<Note>Test StickyNote</Note>
+	</Item>
+	<Item>
+		<Name>$#HoVaTen$#</Name>
+		<Note>Ghi rõ họ, tên của từng người lao động và ghi tương ứng vào tưng mục tăng lao động, tăng mức đóng hoặc giảm lao động, giảm mức đóng. Trong từng mục ghi lại theo thứ tự: người đã có sổ BHXH ghi trước, người chưa có sổ BHXH ghi sau.</Note>
+	</Item>
+	<Item>
+		<Name>$#SoDinhDanh$#</Name>
+		<Note>Ghi số sổ BHXH đối với người đã có sổ BHXH; người chưa có sổ BHXH thì để trống</Note>
+	</Item>
+	<Item>
+		<Name>$#NgaySinh$#</Name>
+		<Note>Ghi ngày, tháng, năm sinh của người lao động</Note>
+	</Item>
+	<Item>
+		<Name>$#GioiTinh$#</Name>
+		<Note>Ghi giới tính của lao động nữ bằng cách đánh dấu (x), nếu là nam thì bỏ trống</Note>
+	</Item>
+	<Item>
+		<Name>$#ViTri$#</Name>
+		<Note>Ghi đầy đủ, chi tiết về cấp bậc, chức vụ, chức danh nghề, công việc, điều kiện nơi làm việc theo quyết định hoặc HĐLĐ</Note>
+	</Item>
+	<Item>
+		<Name>$#TienLuong$#</Name>
+		<Note>Ghi tiền lương của người lao động (bao gồm cả hệ số chênh lệch bảo lưu nếu có)</Note>
+	</Item>
+	<Item>
+		<Name>$#PCChucVu$#</Name>
+		<Note>Ghi phụ cấp chức vụ mới (nếu có)</Note>
+	</Item>
+	<Item>
+		<Name>$#PCTNVK$#</Name>
+		<Note>Ghi phụ cấp thâm niên vượt khung mới (nếu có)</Note>
+	</Item>
+	<Item>
+		<Name>$#PCTNNghe$#</Name>
+		<Note>Ghi phụ cấp thâm niên nghề mới (nếu có)</Note>
+	</Item>
+	<Item>
+		<Name>$#PCKhac$#</Name>
+		<Note>Ghi phụ cấp khác (nếu có)</Note>
+	</Item>
+	<Item>
+		<Name>$#ThoiGianCoBHXH$#</Name>
+		<Note></Note>
+	</Item>
+	<Item>
+		<Name>$#FileDinhKem$#</Name>
+		<Note></Note>
+	</Item>
+  </Items>
+</Root>

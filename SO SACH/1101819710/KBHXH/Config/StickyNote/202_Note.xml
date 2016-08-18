@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Items>
+    <Item>
+		<Name>linkLayMaHS</Name>
+		<Note>Tự động lấy ra mã số Hồ sơ</Note>
+	</Item>
+	<Item>
+		<Name>LanDau</Name>
+		<Note>Tích chọn trong trường hợp đăng ký lần đầu hoặc đăng ký lại sau thời gian dừng đóng</Note>
+	</Item>	
+	<Item>
+		<Name>GiaHan</Name>
+		<Note>Tích chọn trơng trường hợp gia hạn thẻ BHYT</Note>
+	</Item>
+	<Item>
+		<Name>DNThanhToan</Name>
+		<Note>Tích chọn trơng trường hợp đề nghị thanh toán thù lao cho đại lý thu</Note>
+	</Item>
+	
+  </Items>
+</Root>

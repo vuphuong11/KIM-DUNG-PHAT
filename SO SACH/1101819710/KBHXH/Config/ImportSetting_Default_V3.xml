@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IMPORTSETTING_NLD>
+  <ITEM>
+    <MA>HoVaTen</MA>
+    <TEN>Họ và tên</TEN>
+    <COL>T</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>TinhTrang</MA>
+    <TEN>Tình trạng</TEN>
+    <COL>P</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>NoiLamViec</MA>
+    <TEN>Nơi làm việc</TEN>
+    <COL>
+    </COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>ViTri</MA>
+    <TEN>Chức vụ</TEN>
+    <COL>AR</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>NgaySinh</MA>
+    <TEN>Ngày sinh</TEN>
+    <COL>V</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>CCNS</MA>
+    <TEN>Chỉ có năm sinh</TEN>
+    <COL>
+    </COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>QuocTich</MA>
+    <TEN>Mã quốc tịch</TEN>
+    <COL>Y</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>DanToc</MA>
+    <TEN>Mã dân tộc</TEN>
+    <COL>X</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>GioiTinh</MA>
+    <TEN>Giới tính</TEN>
+    <COL>W</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MaSoBHXH</MA>
+    <TEN>Mã sổ BHXH</TEN>
+    <COL>A</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MaSoTheBHYT</MA>
+    <TEN>Mã số thẻ BHYT</TEN>
+    <COL>U</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>KhaiSinh_THX</MA>
+    <TEN>Địa chỉ khai sinh (Xã, Huyện, Tỉnh)</TEN>
+    <COL>
+    </COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>ThuongTru_THX</MA>
+    <TEN>Địa chỉ thường trú (Số nhà, Xã, Huyện, Tỉnh)</TEN>
+    <COL>AG</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>LienHe_THX</MA>
+    <TEN>Địa chỉ liên hệ (Số nhà, Xã, Huyện, Tỉnh)</TEN>
+    <COL>AF</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>SoCMT</MA>
+    <TEN>Số CMTND</TEN>
+    <COL>Z</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>NoiCap</MA>
+    <TEN>Nơi cấp</TEN>
+    <COL>AB</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>NgayCap</MA>
+    <TEN>Ngày cấp</TEN>
+    <COL>AA</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>TinhKCB</MA>
+    <TEN>Tỉnh khám chữa bệnh</TEN>
+    <COL>AJ</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>BenhVien</MA>
+    <TEN>Bệnh viện</TEN>
+    <COL>AK</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>DoiTuongThamGia</MA>
+    <TEN>Đối tượng tham gia</TEN>
+    <COL>BG</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>TienLuong</MA>
+    <TEN>Tiền lương</TEN>
+    <COL>D</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>HeSoLuong</MA>
+    <TEN>Hệ số lương</TEN>
+    <COL>F</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCChucVu</MA>
+    <TEN>Phụ cấp chức vụ</TEN>
+    <COL>G</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCTNVK</MA>
+    <TEN>Phụ cấp TNVK (%)</TEN>
+    <COL>H</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCTNNghe</MA>
+    <TEN>Phụ cấp TN nghề (%)</TEN>
+    <COL>I</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>PCKhac</MA>
+    <TEN>Phụ cấp khác</TEN>
+    <COL>K</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MLPC</MA>
+    <TEN>Mức lương phụ cấp</TEN>
+    <COL>
+    </COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MLBS</MA>
+    <TEN>Mức lương bổ sung</TEN>
+    <COL>BP</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>MaVungSS</MA>
+    <TEN>Vùng sinh sống</TEN>
+    <COL>BV</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>SoHD</MA>
+    <TEN>Số hợp đồng</TEN>
+    <COL>AW</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>LoaiHD</MA>
+    <TEN>Loại hợp đồng</TEN>
+    <COL>AY</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>DienGiaiHD</MA>
+    <TEN>Diễn giải hợp đồng</TEN>
+    <COL>AZ</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>NgayKyHD</MA>
+    <TEN>Ngày ký hợp đồng</TEN>
+    <COL>AX</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>NgayHieuLucHD</MA>
+    <TEN>Ngày hiệu lực hợp đồng</TEN>
+    <COL>BA</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>DienThoai</MA>
+    <TEN>Điện thoại</TEN>
+    <COL>AU</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <ITEM>
+    <MA>Email</MA>
+    <TEN>Email</TEN>
+    <COL>AV</COL>
+    <ROW>
+    </ROW>
+    <GHICHU>
+    </GHICHU>
+  </ITEM>
+  <SHEET>a first vn</SHEET>
+  <ROW_HEAD>1</ROW_HEAD>
+  <ROW_DATA>2</ROW_DATA>
+</IMPORTSETTING_NLD>

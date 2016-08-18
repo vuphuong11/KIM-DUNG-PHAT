@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhMuc version="1.0">
+ <Item><ma>0101</ma><ten>Quận Ba Đình</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0102</ma><ten>Quận Hoàn Kiếm</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0103</ma><ten>Quận Tây Hồ</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0104</ma><ten>Quận Long Biên</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0105</ma><ten>Quận Cầu Giấy</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0106</ma><ten>Quận Đống Đa</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0107</ma><ten>Quận Hai Bà Trưng</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0108</ma><ten>Quận Hoàng Mai</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0109</ma><ten>Quận Thanh Xuân</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0110</ma><ten>Huyện Sóc Sơn</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0111</ma><ten>Huyện Đông Anh</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0112</ma><ten>Huyện Gia Lâm</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0113</ma><ten>Quận Nam Từ Liêm</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0114</ma><ten>Huyện Thanh Trì</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0201</ma><ten>Thị xã Hà Giang</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0202</ma><ten>Huyện Đồng Văn</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0203</ma><ten>Huyện Mèo Vạc</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0204</ma><ten>Huyện Yên Minh</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0205</ma><ten>Huyện Quản Bạ</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0206</ma><ten>Huyện Vị Xuyên</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0207</ma><ten>Huyện Bắc Mê</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0208</ma><ten>Huyện Hoàng Su Phì</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0209</ma><ten>Huyện Xín Mần</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0210</ma><ten>Huyện Bắc Quang</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0211</ma><ten>Huyện Quang Bình</ten><maTinh>02</maTinh><isUse>1</isUse></Item>
+<Item><ma>0401</ma><ten>Thành phố Cao Bằng</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0402</ma><ten>Huyện Bảo Lâm</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0403</ma><ten>Huyện Bảo Lạc</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0404</ma><ten>Huyện Thông Nông</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0405</ma><ten>Huyện Hà Quảng</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0406</ma><ten>Huyện Trà Lĩnh</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0407</ma><ten>Huyện Trùng Khánh</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0408</ma><ten>Huyện Hạ Lang</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0409</ma><ten>Huyện Quảng Uyên</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0410</ma><ten>Huyện Phục Hoà</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0411</ma><ten>Huyện Hoà An</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0412</ma><ten>Huyện Nguyên Bình</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0413</ma><ten>Huyện Thạch An</ten><maTinh>04</maTinh><isUse>1</isUse></Item>
+<Item><ma>0601</ma><ten>Thành phố Bắc Kạn</ten><maTinh>06</maTinh><isUse>1</isUse></Item>
+<Item><ma>0602</ma><ten>Huyện Pác Nặm</ten><maTinh>06</maTinh><isUse>1</isUse></Item>
+<Item><ma>0603</ma><ten>Huyện Ba Bể</ten><maTinh>06</maTinh><isUse>1</isUse></Item>
+<Item><ma>0604</ma><ten>Huyện Ngân Sơn</ten><maTinh>06</maTinh><isUse>1</isUse></Item>
+<Item><ma>0605</ma><ten>Huyện Bạch Thông</ten><maTinh>06</maTinh><isUse>1</isUse></Item>
+<Item><ma>0606</ma><ten>Huyện Chợ Đồn</ten><maTinh>06</maTinh><isUse>1</isUse></Item>
+<Item><ma>0607</ma><ten>Huyện Chợ Mới</ten><maTinh>06</maTinh><isUse>1</isUse></Item>
+<Item><ma>0608</ma><ten>Huyện Na Rì</ten><maTinh>06</maTinh><isUse>1</isUse></Item>
+<Item><ma>0801</ma><ten>Thành phố Tuyên Quang</ten><maTinh>08</maTinh><isUse>1</isUse></Item>
+<Item><ma>0802</ma><ten>Huyện Nà Hang</ten><maTinh>08</maTinh><isUse>1</isUse></Item>
+<Item><ma>0803</ma><ten>Huyện Chiêm Hóa</ten><maTinh>08</maTinh><isUse>1</isUse></Item>
+<Item><ma>0804</ma><ten>Huyện Hàm Yên</ten><maTinh>08</maTinh><isUse>1</isUse></Item>
+<Item><ma>0805</ma><ten>Huyện Yên Sơn</ten><maTinh>08</maTinh><isUse>1</isUse></Item>
+<Item><ma>0806</ma><ten>Huyện Sơn Dương</ten><maTinh>08</maTinh><isUse>1</isUse></Item>
+<Item><ma>1001</ma><ten>Thành phố Lào Cai</ten><maTinh>10</maTinh><isUse>1</isUse></Item>
+<Item><ma>1002</ma><ten>Huyện Bát Xát</ten><maTinh>10</maTinh><isUse>1</isUse></Item>
+<Item><ma>1003</ma><ten>Huyện Mường Khương</ten><maTinh>10</maTinh><isUse>1</isUse></Item>
+<Item><ma>1004</ma><ten>Huyện Si Ma Cai</ten><maTinh>10</maTinh><isUse>1</isUse></Item>
+<Item><ma>1005</ma><ten>Huyện Bắc Hà</ten><maTinh>10</maTinh><isUse>1</isUse></Item>
+<Item><ma>1006</ma><ten>Huyện Bảo Thắng</ten><maTinh>10</maTinh><isUse>1</isUse></Item>
+<Item><ma>1007</ma><ten>Huyện Bảo Yên</ten><maTinh>10</maTinh><isUse>1</isUse></Item>
+<Item><ma>1008</ma><ten>Huyện Sa Pa</ten><maTinh>10</maTinh><isUse>1</isUse></Item>
+<Item><ma>1009</ma><ten>Huyện Văn Bàn</ten><maTinh>10</maTinh><isUse>1</isUse></Item>
+<Item><ma>1101</ma><ten>Thành phố Điện Biên Phủ</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>1102</ma><ten>Thị xã Mường Lay</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>1103</ma><ten>Huyện Mường Nhé</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>1104</ma><ten>Huyện Mường Chà</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>1105</ma><ten>Huyện Tủa Chùa</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>1106</ma><ten>Huyện Tuần Giáo</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>1107</ma><ten>Huyện Điện Biên</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>1108</ma><ten>Huyện Điện Biên Đông</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>1201</ma><ten>Huyện Tam Đường</ten><maTinh>12</maTinh><isUse>1</isUse></Item>
+<Item><ma>1202</ma><ten>Huyện Mường Tè</ten><maTinh>12</maTinh><isUse>1</isUse></Item>
+<Item><ma>1203</ma><ten>Huyện Sìn Hồ</ten><maTinh>12</maTinh><isUse>1</isUse></Item>
+<Item><ma>1204</ma><ten>Huyện Phong Thổ</ten><maTinh>12</maTinh><isUse>1</isUse></Item>
+<Item><ma>1205</ma><ten>Huyện Than Uyên</ten><maTinh>12</maTinh><isUse>1</isUse></Item>
+<Item><ma>1206</ma><ten>Thị xã Lai châu</ten><maTinh>12</maTinh><isUse>1</isUse></Item>
+<Item><ma>1401</ma><ten>Thành phố Sơn La</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1402</ma><ten>Huyện Quỳnh Nhai</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1403</ma><ten>Huyện Thuận Châu</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1404</ma><ten>Huyện Mường La</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1405</ma><ten>Huyện Bắc Yên</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1406</ma><ten>Huyện Phù Yên</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1407</ma><ten>Huyện Mộc Châu</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1408</ma><ten>Huyện Yên Châu</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1409</ma><ten>Huyện Mai Sơn</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1410</ma><ten>Huyện Sông Mã</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1411</ma><ten>Huyện Sốp Cộp</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>1501</ma><ten>Thành phố Yên Bái</ten><maTinh>15</maTinh><isUse>1</isUse></Item>
+<Item><ma>1502</ma><ten>Thị xã Nghĩa Lộ</ten><maTinh>15</maTinh><isUse>1</isUse></Item>
+<Item><ma>1503</ma><ten>Huyện Lục Yên</ten><maTinh>15</maTinh><isUse>1</isUse></Item>
+<Item><ma>1504</ma><ten>Huyện Văn Yên</ten><maTinh>15</maTinh><isUse>1</isUse></Item>
+<Item><ma>1505</ma><ten>Huyện Mù Căng Chải</ten><maTinh>15</maTinh><isUse>1</isUse></Item>
+<Item><ma>1506</ma><ten>Huyện Trấn Yên</ten><maTinh>15</maTinh><isUse>1</isUse></Item>
+<Item><ma>1507</ma><ten>Huyện Trạm Tấu</ten><maTinh>15</maTinh><isUse>1</isUse></Item>
+<Item><ma>1508</ma><ten>Huyện Văn Chấn</ten><maTinh>15</maTinh><isUse>1</isUse></Item>
+<Item><ma>1509</ma><ten>Huyện Yên Bình</ten><maTinh>15</maTinh><isUse>1</isUse></Item>
+<Item><ma>1701</ma><ten>Thị xã Hòa Bình</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1702</ma><ten>Huyện Đà Bắc</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1703</ma><ten>Huyện Kỳ Sơn</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1704</ma><ten>Huyện Lương Sơn</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1705</ma><ten>Huyện Kim Bôi</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1706</ma><ten>Huyện Cao Phong</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1707</ma><ten>Huyện Tân Lạc</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1708</ma><ten>Huyện Mai Châu</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1709</ma><ten>Huyện Lạc Sơn</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1710</ma><ten>Huyện Yên Thủy</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1711</ma><ten>Huyện Lạc Thủy</ten><maTinh>17</maTinh><isUse>1</isUse></Item>
+<Item><ma>1901</ma><ten>Thành phố Thái Nguyên</ten><maTinh>19</maTinh><isUse>1</isUse></Item>
+<Item><ma>1902</ma><ten>Thành phố Sông Công</ten><maTinh>19</maTinh><isUse>1</isUse></Item>
+<Item><ma>1903</ma><ten>Huyện Định Hóa</ten><maTinh>19</maTinh><isUse>1</isUse></Item>
+<Item><ma>1904</ma><ten>Huyện Phú Lương</ten><maTinh>19</maTinh><isUse>1</isUse></Item>
+<Item><ma>1905</ma><ten>Huyện Đồng Hỷ</ten><maTinh>19</maTinh><isUse>1</isUse></Item>
+<Item><ma>1906</ma><ten>Huyện Võ Nhai</ten><maTinh>19</maTinh><isUse>1</isUse></Item>
+<Item><ma>1907</ma><ten>Huyện Đại Từ</ten><maTinh>19</maTinh><isUse>1</isUse></Item>
+<Item><ma>1908</ma><ten>Thị xã Phổ Yên</ten><maTinh>19</maTinh><isUse>1</isUse></Item>
+<Item><ma>1909</ma><ten>Huyện Phú Bình</ten><maTinh>19</maTinh><isUse>1</isUse></Item>
+<Item><ma>2001</ma><ten>Thành phố Lạng Sơn</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2002</ma><ten>Huyện Tràng Định</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2003</ma><ten>Huyện Bình Gia</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2004</ma><ten>Huyện Văn Lãng</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2005</ma><ten>Huyện Cao Lộc</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2006</ma><ten>Huyện Văn Quan</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2007</ma><ten>Huyện Bắc Sơn</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2008</ma><ten>Huyện Hữu Lũng</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2009</ma><ten>Huyện Chi Lăng</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2010</ma><ten>Huyện Lộc Bình</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2011</ma><ten>Huyện Đình Lập</ten><maTinh>20</maTinh><isUse>1</isUse></Item>
+<Item><ma>2201</ma><ten>Thành phố Hạ Long</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2202</ma><ten>Thành phố Móng Cái</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2203</ma><ten>Thành phố Cẩm Phả</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2204</ma><ten>Thành phố Uông Bí</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2205</ma><ten>Huyện Bình Liêu</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2206</ma><ten>Huyện Tiên Yên</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2207</ma><ten>Huyện Đầm Hà</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2208</ma><ten>Huyện Hải Hà</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2209</ma><ten>Huyện Ba Chẽ</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2210</ma><ten>Huyện Vân Đồn</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2211</ma><ten>Huyện Hoành Bồ</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2212</ma><ten>Thị xã Đông Triều</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2213</ma><ten>Thị xã Quảng Yên</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2214</ma><ten>Huyện Cô Tô</ten><maTinh>22</maTinh><isUse>1</isUse></Item>
+<Item><ma>2401</ma><ten>Thành phố Bắc Giang</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2402</ma><ten>Huyện Yên Thế</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2403</ma><ten>Huyện Tân Yên</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2404</ma><ten>Huyện Lạng Giang</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2405</ma><ten>Huyện Lục Nam</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2406</ma><ten>Huyện Lục Ngạn</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2407</ma><ten>Huyện Sơn Động</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2408</ma><ten>Huyện Yên Dũng</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2409</ma><ten>Huyện Việt Yên</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2410</ma><ten>Huyện Hiệp Hòa</ten><maTinh>24</maTinh><isUse>1</isUse></Item>
+<Item><ma>2501</ma><ten>Thành phố Việt Trì</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2502</ma><ten>Thị xã Phú Thọ</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2503</ma><ten>Huyện Đoan Hùng</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2504</ma><ten>Huyện Hạ Hoà</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2505</ma><ten>Huyện Thanh Ba</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2506</ma><ten>Huyện Phù Ninh</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2507</ma><ten>Huyện Yên Lập</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2508</ma><ten>Huyện Cẩm Khê</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2509</ma><ten>Huyện Tam Nông</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2510</ma><ten>Huyện Lâm Thao</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2511</ma><ten>Huyện Thanh Sơn</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2512</ma><ten>Huyện Thanh Thuỷ</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>2601</ma><ten>Thành phố Vĩnh Yên</ten><maTinh>26</maTinh><isUse>1</isUse></Item>
+<Item><ma>2602</ma><ten>Thị xã Phúc Yên</ten><maTinh>26</maTinh><isUse>1</isUse></Item>
+<Item><ma>2603</ma><ten>Huyện Lập Thạch</ten><maTinh>26</maTinh><isUse>1</isUse></Item>
+<Item><ma>2604</ma><ten>Huyện Tam Dương</ten><maTinh>26</maTinh><isUse>1</isUse></Item>
+<Item><ma>2605</ma><ten>Huyện Tam Đảo</ten><maTinh>26</maTinh><isUse>1</isUse></Item>
+<Item><ma>2606</ma><ten>Huyện Bình Xuyên</ten><maTinh>26</maTinh><isUse>1</isUse></Item>
+<Item><ma>0129</ma><ten>Huyện Mê Linh</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>2608</ma><ten>Huyện Yên Lạc</ten><maTinh>26</maTinh><isUse>1</isUse></Item>
+<Item><ma>2609</ma><ten>Huyện Vĩnh Tường</ten><maTinh>26</maTinh><isUse>1</isUse></Item>
+<Item><ma>2701</ma><ten>Thành phố Bắc Ninh</ten><maTinh>27</maTinh><isUse>1</isUse></Item>
+<Item><ma>2702</ma><ten>Huyện Yên Phong</ten><maTinh>27</maTinh><isUse>1</isUse></Item>
+<Item><ma>2703</ma><ten>Huyện Quế Võ</ten><maTinh>27</maTinh><isUse>1</isUse></Item>
+<Item><ma>2704</ma><ten>Huyện Tiên Du</ten><maTinh>27</maTinh><isUse>1</isUse></Item>
+<Item><ma>2705</ma><ten>Thị xã Từ Sơn</ten><maTinh>27</maTinh><isUse>1</isUse></Item>
+<Item><ma>2706</ma><ten>Huyện Thuận Thành</ten><maTinh>27</maTinh><isUse>1</isUse></Item>
+<Item><ma>2707</ma><ten>Huyện Gia Bình</ten><maTinh>27</maTinh><isUse>1</isUse></Item>
+<Item><ma>2708</ma><ten>Huyện Lương Tài</ten><maTinh>27</maTinh><isUse>1</isUse></Item>
+<Item><ma>0115</ma><ten>Quận Hà Đông</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0116</ma><ten>Thị xã Sơn Tây</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0117</ma><ten>Huyện Ba Vì</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0118</ma><ten>Huyện Phúc Thọ</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0119</ma><ten>Huyện Đan Phượng</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0120</ma><ten>Huyện Hoài Đức</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0121</ma><ten>Huyện Quốc Oai</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0122</ma><ten>Huyện Thạch Thất</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0123</ma><ten>Huyện Chương Mỹ</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0124</ma><ten>Huyện Thanh Oai</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0125</ma><ten>Huyện Thường Tín</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0126</ma><ten>Huyện Phú Xuyên</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0127</ma><ten>Huyện ứng Hòa</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>0128</ma><ten>Huyện Mỹ Đức</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>3001</ma><ten>Thành phố Hải Dương</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3002</ma><ten>Thị xã Chí Linh</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3003</ma><ten>Huyện Nam Sách</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3004</ma><ten>Huyện Kinh Môn</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3005</ma><ten>Huyện Kim Thành</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3006</ma><ten>Huyện Thanh Hà</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3007</ma><ten>Huyện Cẩm Giàng</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3008</ma><ten>Huyện Bình Giang</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3009</ma><ten>Huyện Gia Lộc</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3010</ma><ten>Huyện Tứ Kỳ</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3011</ma><ten>Huyện Ninh Giang</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3012</ma><ten>Huyện Thanh Miện</ten><maTinh>30</maTinh><isUse>1</isUse></Item>
+<Item><ma>3101</ma><ten>Quận Hồng Bàng</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3102</ma><ten>Quận Ngô Quyền</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3103</ma><ten>Quận Lê Chân</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3104</ma><ten>Quận Hải An</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3105</ma><ten>Quận Kiến An</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3106</ma><ten>Quận Đồ Sơn</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3107</ma><ten>Huyện Thuỷ Nguyên</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3108</ma><ten>Huyện An Dương</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3109</ma><ten>Huyện An Lão</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3110</ma><ten>Huyện Kiến Thuỵ</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3111</ma><ten>Huyện Tiên Lãng</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3112</ma><ten>Huyện Vĩnh Bảo</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3113</ma><ten>Huyện Cát Hải</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3114</ma><ten>Huyện Bạch Long Vĩ</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>3301</ma><ten>Thành phố Hưng Yên</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3302</ma><ten>Huyện Văn Lâm</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3303</ma><ten>Huyện Văn Giang</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3304</ma><ten>Huyện Yên Mỹ</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3305</ma><ten>Huyện Mỹ Hào</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3306</ma><ten>Huyện Ân Thi</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3307</ma><ten>Huyện Khoái Châu</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3308</ma><ten>Huyện Kim Động</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3309</ma><ten>Huyện Tiên Lữ</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3310</ma><ten>Huyện Phù Cừ</ten><maTinh>33</maTinh><isUse>1</isUse></Item>
+<Item><ma>3401</ma><ten>Thành phố Thái Bình</ten><maTinh>34</maTinh><isUse>1</isUse></Item>
+<Item><ma>3402</ma><ten>Huyện Quỳnh Phụ</ten><maTinh>34</maTinh><isUse>1</isUse></Item>
+<Item><ma>3403</ma><ten>Huyện Hưng Hà</ten><maTinh>34</maTinh><isUse>1</isUse></Item>
+<Item><ma>3404</ma><ten>Huyện Đông Hưng</ten><maTinh>34</maTinh><isUse>1</isUse></Item>
+<Item><ma>3405</ma><ten>Huyện Thái Thụy</ten><maTinh>34</maTinh><isUse>1</isUse></Item>
+<Item><ma>3406</ma><ten>Huyện Tiền Hải</ten><maTinh>34</maTinh><isUse>1</isUse></Item>
+<Item><ma>3407</ma><ten>Huyện Kiến Xương</ten><maTinh>34</maTinh><isUse>1</isUse></Item>
+<Item><ma>3408</ma><ten>Huyện Vũ Thư</ten><maTinh>34</maTinh><isUse>1</isUse></Item>
+<Item><ma>3501</ma><ten>Thành phố Phủ Lý</ten><maTinh>35</maTinh><isUse>1</isUse></Item>
+<Item><ma>3502</ma><ten>Huyện Duy Tiên</ten><maTinh>35</maTinh><isUse>1</isUse></Item>
+<Item><ma>3503</ma><ten>Huyện Kim Bảng</ten><maTinh>35</maTinh><isUse>1</isUse></Item>
+<Item><ma>3504</ma><ten>Huyện Thanh Liêm</ten><maTinh>35</maTinh><isUse>1</isUse></Item>
+<Item><ma>3505</ma><ten>Huyện Bình Lục</ten><maTinh>35</maTinh><isUse>1</isUse></Item>
+<Item><ma>3506</ma><ten>Huyện Lý Nhân</ten><maTinh>35</maTinh><isUse>1</isUse></Item>
+<Item><ma>3601</ma><ten>Thành phố Nam Định</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3602</ma><ten>Huyện Mỹ Lộc</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3603</ma><ten>Huyện Vụ Bản</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3604</ma><ten>Huyện ý Yên</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3605</ma><ten>Huyện Nghĩa Hưng</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3606</ma><ten>Huyện Nam Trực</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3607</ma><ten>Huyện Trực Ninh</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3608</ma><ten>Huyện Xuân Trường</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3609</ma><ten>Huyện Giao Thủy</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3610</ma><ten>Huyện Hải Hậu</ten><maTinh>36</maTinh><isUse>1</isUse></Item>
+<Item><ma>3701</ma><ten>Thành phố Ninh Bình</ten><maTinh>37</maTinh><isUse>1</isUse></Item>
+<Item><ma>3702</ma><ten>Thành phố Tam Điệp</ten><maTinh>37</maTinh><isUse>1</isUse></Item>
+<Item><ma>3703</ma><ten>Huyện Nho Quan</ten><maTinh>37</maTinh><isUse>1</isUse></Item>
+<Item><ma>3704</ma><ten>Huyện Gia Viễn</ten><maTinh>37</maTinh><isUse>1</isUse></Item>
+<Item><ma>3705</ma><ten>Huyện Hoa Lư</ten><maTinh>37</maTinh><isUse>1</isUse></Item>
+<Item><ma>3706</ma><ten>Huyện Yên Khánh</ten><maTinh>37</maTinh><isUse>1</isUse></Item>
+<Item><ma>3707</ma><ten>Huyện Kim Sơn</ten><maTinh>37</maTinh><isUse>1</isUse></Item>
+<Item><ma>3708</ma><ten>Huyện Yên Mô</ten><maTinh>37</maTinh><isUse>1</isUse></Item>
+<Item><ma>3801</ma><ten>Thành phố Thanh Hóa</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3802</ma><ten>Thị xã Bỉm Sơn</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3803</ma><ten>Thị xã Sầm Sơn</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3804</ma><ten>Huyện Mường Lát</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3805</ma><ten>Huyện Quan Hóa</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3806</ma><ten>Huyện Bá Thước</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3807</ma><ten>Huyện Quan Sơn</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3808</ma><ten>Huyện Lang Chánh</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3809</ma><ten>Huyện Ngọc Lạc</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3810</ma><ten>Huyện Cẩm Thủy</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3811</ma><ten>Huyện Thạch Thành</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3812</ma><ten>Huyện Hà Trung</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3813</ma><ten>Huyện Vĩnh Lộc</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3814</ma><ten>Huyện Yên Định</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3815</ma><ten>Huyện Thọ Xuân</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3816</ma><ten>Huyện Thường Xuân</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3817</ma><ten>Huyện Triệu Sơn</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3818</ma><ten>Huyện Thiệu Hoá</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3819</ma><ten>Huyện Hoằng Hóa</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3820</ma><ten>Huyện Hậu Lộc</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3821</ma><ten>Huyện Nga Sơn</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3822</ma><ten>Huyện Như Xuân</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3823</ma><ten>Huyện Như Thanh</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3824</ma><ten>Huyện Nông Cống</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3825</ma><ten>Huyện Đông Sơn</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3826</ma><ten>Huyện Quảng Xương</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>3827</ma><ten>Huyện Tĩnh Gia</ten><maTinh>38</maTinh><isUse>1</isUse></Item>
+<Item><ma>4001</ma><ten>Thành phố Vinh</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4002</ma><ten>Thị xã Cửa Lò</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4003</ma><ten>Huyện Quế Phong</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4004</ma><ten>Huyện Quỳ Châu</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4005</ma><ten>Huyện Kỳ Sơn</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4006</ma><ten>Huyện Tương Dương</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4007</ma><ten>Huyện Nghĩa Đàn</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4008</ma><ten>Huyện Quỳ Hợp</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4009</ma><ten>Huyện Quỳnh Lưu</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4010</ma><ten>Huyện Con Cuông</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4011</ma><ten>Huyện Tân Kỳ</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4012</ma><ten>Huyện Anh Sơn</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4013</ma><ten>Huyện Diễn Châu</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4014</ma><ten>Huyện Yên Thành</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4015</ma><ten>Huyện Đô Lương</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4016</ma><ten>Huyện Thanh Chương</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4017</ma><ten>Huyện Nghi Lộc</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4018</ma><ten>Huyện Nam Đàn</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4019</ma><ten>Huyện Hưng Nguyên</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>4201</ma><ten>Thành phố Hà Tĩnh</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4202</ma><ten>Thị xã Hồng Lĩnh</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4203</ma><ten>Huyện Hương Sơn</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4204</ma><ten>Huyện Đức Thọ</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4205</ma><ten>Huyện Vũ Quang</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4206</ma><ten>Huyện Nghi Xuân</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4207</ma><ten>Huyện Can Lộc</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4208</ma><ten>Huyện Hương Khê</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4209</ma><ten>Huyện Thạch Hà</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4210</ma><ten>Huyện Cẩm Xuyên</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4211</ma><ten>Huyện Kỳ Anh</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>4401</ma><ten>Thành phố Đồng Hới</ten><maTinh>44</maTinh><isUse>1</isUse></Item>
+<Item><ma>4402</ma><ten>Huyện Minh Hóa</ten><maTinh>44</maTinh><isUse>1</isUse></Item>
+<Item><ma>4403</ma><ten>Huyện Tuyên Hóa</ten><maTinh>44</maTinh><isUse>1</isUse></Item>
+<Item><ma>4404</ma><ten>Huyện Quảng Trạch</ten><maTinh>44</maTinh><isUse>1</isUse></Item>
+<Item><ma>4405</ma><ten>Huyện Bố Trạch</ten><maTinh>44</maTinh><isUse>1</isUse></Item>
+<Item><ma>4406</ma><ten>Huyện Quảng Ninh</ten><maTinh>44</maTinh><isUse>1</isUse></Item>
+<Item><ma>4407</ma><ten>Huyện Lệ Thủy</ten><maTinh>44</maTinh><isUse>1</isUse></Item>
+<Item><ma>4501</ma><ten>Thị xã Đông Hà</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4502</ma><ten>Thị xã Quảng Trị</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4503</ma><ten>Huyện Vĩnh Linh</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4504</ma><ten>Huyện Hướng Hóa</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4505</ma><ten>Huyện Gio Linh</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4506</ma><ten>Huyện Đa Krông</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4507</ma><ten>Huyện Cam Lộ</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4508</ma><ten>Huyện Triệu Phong</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4509</ma><ten>Huyện Hải Lăng</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4510</ma><ten>Huyện Đảo Cồn Cỏ</ten><maTinh>45</maTinh><isUse>1</isUse></Item>
+<Item><ma>4601</ma><ten>Thành phố Huế</ten><maTinh>46</maTinh><isUse>1</isUse></Item>
+<Item><ma>4602</ma><ten>Huyện Phong Điền</ten><maTinh>46</maTinh><isUse>1</isUse></Item>
+<Item><ma>4603</ma><ten>Huyện Quảng Điền</ten><maTinh>46</maTinh><isUse>1</isUse></Item>
+<Item><ma>4604</ma><ten>Huyện Phú Vang</ten><maTinh>46</maTinh><isUse>1</isUse></Item>
+<Item><ma>4605</ma><ten>Thị xã Hương Thủy</ten><maTinh>46</maTinh><isUse>1</isUse></Item>
+<Item><ma>4606</ma><ten>Huyện Hương Trà</ten><maTinh>46</maTinh><isUse>1</isUse></Item>
+<Item><ma>4607</ma><ten>Huyện A Lưới</ten><maTinh>46</maTinh><isUse>1</isUse></Item>
+<Item><ma>4608</ma><ten>Huyện Phú Lộc</ten><maTinh>46</maTinh><isUse>1</isUse></Item>
+<Item><ma>4609</ma><ten>Huyện Nam Đông</ten><maTinh>46</maTinh><isUse>1</isUse></Item>
+<Item><ma>4801</ma><ten>Quận Liên Chiểu</ten><maTinh>48</maTinh><isUse>1</isUse></Item>
+<Item><ma>4802</ma><ten>Quận Thanh Khê</ten><maTinh>48</maTinh><isUse>1</isUse></Item>
+<Item><ma>4803</ma><ten>Quận Hải Châu</ten><maTinh>48</maTinh><isUse>1</isUse></Item>
+<Item><ma>4804</ma><ten>Quận Sơn Trà</ten><maTinh>48</maTinh><isUse>1</isUse></Item>
+<Item><ma>4805</ma><ten>Quận Ngũ Hành Sơn</ten><maTinh>48</maTinh><isUse>1</isUse></Item>
+<Item><ma>4806</ma><ten>Huyện Hoà Vang</ten><maTinh>48</maTinh><isUse>1</isUse></Item>
+<Item><ma>4807</ma><ten>Huyện Hoàng Sa</ten><maTinh>48</maTinh><isUse>1</isUse></Item>
+<Item><ma>4808</ma><ten>Quận Cẩm Lệ</ten><maTinh>48</maTinh><isUse>1</isUse></Item>
+<Item><ma>4901</ma><ten>Thành phố Tam Kỳ</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4902</ma><ten>Thành phố Hội An</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4903</ma><ten>Huyện Tây Giang</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4904</ma><ten>Huyện Đông Giang</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4905</ma><ten>Huyện Đại Lộc</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4906</ma><ten>Thị xã Điện Bàn</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4907</ma><ten>Huyện Duy Xuyên</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4908</ma><ten>Huyện Quế Sơn</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4909</ma><ten>Huyện Nam Giang</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4910</ma><ten>Huyện Phước Sơn</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4911</ma><ten>Huyện Hiệp Đức</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4912</ma><ten>Huyện Thăng Bình</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4913</ma><ten>Huyện Tiên Phước</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4914</ma><ten>Huyện Bắc Trà My</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4915</ma><ten>Huyện Nam Trà My</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4916</ma><ten>Huyện Núi Thành</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4917</ma><ten>Huyện Phú Ninh</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>5101</ma><ten>Thành phố Quảng Ngãi</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5102</ma><ten>Huyện Bình Sơn</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5103</ma><ten>Huyện Trà Bồng</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5104</ma><ten>Huyên Tây Trà</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5105</ma><ten>Huyện Sơn Tịnh</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5106</ma><ten>Huyện Tư Nghĩa</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5107</ma><ten>Huyện Sơn Hà</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5108</ma><ten>Huyện Sơn Tây</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5109</ma><ten>Huyện Minh Long</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5110</ma><ten>Huyện Nghĩa Hành</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5111</ma><ten>Huyện Mộ Đức</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5112</ma><ten>Huyện Đức Phổ</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5113</ma><ten>Huyện Ba Tơ</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5114</ma><ten>Huyện Lý Sơn</ten><maTinh>51</maTinh><isUse>1</isUse></Item>
+<Item><ma>5201</ma><ten>Thành phố Qui Nhơn</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5202</ma><ten>Huyện An Lão</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5203</ma><ten>Huyện Hoài Nhơn</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5204</ma><ten>Huyện Hoài Ân</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5205</ma><ten>Huyện Phù Mỹ</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5206</ma><ten>Huyện Vĩnh Thạnh</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5207</ma><ten>Huyện Tây Sơn</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5208</ma><ten>Huyện Phù Cát</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5209</ma><ten>Huyện An Nhơn</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5210</ma><ten>Huyện Tuy Phước</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5211</ma><ten>Huyện Vân Canh</ten><maTinh>52</maTinh><isUse>1</isUse></Item>
+<Item><ma>5401</ma><ten>Thành Phố Tuy Hòa</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5402</ma><ten>Thị xã Sông Cầu</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5403</ma><ten>Huyện Đồng Xuân</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5404</ma><ten>Huyện Tuy An</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5405</ma><ten>Huyện Sơn Hòa</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5406</ma><ten>Huyện Sông Hinh</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5407</ma><ten>Huyện Tuy Hòa</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5408</ma><ten>Huyện Phú Hoà</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5409</ma><ten>Huyện Tây Hoà</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5410</ma><ten>Huyện Đông Hoà</ten><maTinh>54</maTinh><isUse>1</isUse></Item>
+<Item><ma>5601</ma><ten>Thành phố Nha Trang</ten><maTinh>56</maTinh><isUse>1</isUse></Item>
+<Item><ma>5602</ma><ten>Thành phố Cam Ranh</ten><maTinh>56</maTinh><isUse>1</isUse></Item>
+<Item><ma>5603</ma><ten>Huyện Vạn Ninh</ten><maTinh>56</maTinh><isUse>1</isUse></Item>
+<Item><ma>5604</ma><ten>Thị xã Ninh Hòa</ten><maTinh>56</maTinh><isUse>1</isUse></Item>
+<Item><ma>5605</ma><ten>Huyện Khánh Vĩnh</ten><maTinh>56</maTinh><isUse>1</isUse></Item>
+<Item><ma>5606</ma><ten>Huyện Diên Khánh</ten><maTinh>56</maTinh><isUse>1</isUse></Item>
+<Item><ma>5607</ma><ten>Huyện Khánh Sơn</ten><maTinh>56</maTinh><isUse>1</isUse></Item>
+<Item><ma>5608</ma><ten>Huyện Trường Sa</ten><maTinh>56</maTinh><isUse>1</isUse></Item>
+<Item><ma>5801</ma><ten>Thị xã Phan Rang-Tháp Chàm</ten><maTinh>58</maTinh><isUse>1</isUse></Item>
+<Item><ma>5802</ma><ten>Huyện Bác ái</ten><maTinh>58</maTinh><isUse>1</isUse></Item>
+<Item><ma>5803</ma><ten>Huyện Ninh Sơn</ten><maTinh>58</maTinh><isUse>1</isUse></Item>
+<Item><ma>5804</ma><ten>Huyện Ninh Hải</ten><maTinh>58</maTinh><isUse>1</isUse></Item>
+<Item><ma>5805</ma><ten>Huyện Ninh Phước</ten><maTinh>58</maTinh><isUse>1</isUse></Item>
+<Item><ma>5806</ma><ten>Huyện Thuận Bắc</ten><maTinh>58</maTinh><isUse>1</isUse></Item>
+<Item><ma>6001</ma><ten>Thành phố Phan Thiết</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6002</ma><ten>Huyện Tuy Phong</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6003</ma><ten>Huyện Bắc Bình</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6004</ma><ten>Huyện Hàm Thuận Bắc</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6005</ma><ten>Huyện Hàm Thuận Nam</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6006</ma><ten>Huyện Tánh Linh</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6007</ma><ten>Huyện Đức Linh</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6008</ma><ten>Huyện Hàm Tân</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6009</ma><ten>Huyện Phú Quí</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6010</ma><ten>Thị xã La Gi</ten><maTinh>60</maTinh><isUse>1</isUse></Item>
+<Item><ma>6201</ma><ten>Thành phố Kon Tum</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>6202</ma><ten>Huyện Đắk Glei</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>6203</ma><ten>Huyện Ngọc Hồi</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>6204</ma><ten>Huyện Đắk Tô</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>6205</ma><ten>Huyện Kon Plông</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>6206</ma><ten>Huyện Kon Rẫy</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>6207</ma><ten>Huyện Đắk Hà</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>6208</ma><ten>Huyện Sa Thầy</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>6209</ma><ten>Huyện Tu Mơ Rông</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>6401</ma><ten>Thành phố Pleiku</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6402</ma><ten>Thị Xã An Khê</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6403</ma><ten>Huyện KBang</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6404</ma><ten>Huyện Đăk Đoa</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6405</ma><ten>Huyện Chư Păh</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6406</ma><ten>Huyện Ia Grai</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6407</ma><ten>Huyện Mang Yang</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6408</ma><ten>Huyện Kông Chro</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6409</ma><ten>Huyện Đức Cơ</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6410</ma><ten>Huyện Chư Prông</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6411</ma><ten>Huyện Chư Sê</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6412</ma><ten>Huyện Đăk Pơ</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6413</ma><ten>Huyện Ia Pa</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6414</ma><ten>Thị xã Ayun Pa</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6415</ma><ten>Huyện Krông Pa</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>6601</ma><ten>Thành phố Buôn Ma Thuột</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6602</ma><ten>Huyện Ea H'leo</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6603</ma><ten>Huyện Ea Súp</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6604</ma><ten>Huyện Buôn Đôn</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6605</ma><ten>Huyện Cư M'gar</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6606</ma><ten>Huyện Krông Búk</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6607</ma><ten>Huyện Krông Năng</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6608</ma><ten>Huyện Ea Kar</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6609</ma><ten>Huyện M'Đrắk</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6610</ma><ten>Huyện Krông Bông</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6611</ma><ten>Huyện Krông Pắc</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6612</ma><ten>Huyện Krông A Na</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6613</ma><ten>Huyện Lắk</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>6701</ma><ten>Huyện Đắk Glong</ten><maTinh>67</maTinh><isUse>1</isUse></Item>
+<Item><ma>6702</ma><ten>Huyện Cư Jút</ten><maTinh>67</maTinh><isUse>1</isUse></Item>
+<Item><ma>6703</ma><ten>Huyện Đắk Mil</ten><maTinh>67</maTinh><isUse>1</isUse></Item>
+<Item><ma>6704</ma><ten>Huyện Krông Nô</ten><maTinh>67</maTinh><isUse>1</isUse></Item>
+<Item><ma>6705</ma><ten>Huyện Đắk Song</ten><maTinh>67</maTinh><isUse>1</isUse></Item>
+<Item><ma>6706</ma><ten>Huyện Đắk R'Lấp</ten><maTinh>67</maTinh><isUse>1</isUse></Item>
+<Item><ma>6707</ma><ten>Thị xã Gia Nghĩa</ten><maTinh>67</maTinh><isUse>1</isUse></Item>
+<Item><ma>6801</ma><ten>Thành phố Đà Lạt</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6802</ma><ten>Thành phố Bảo Lộc</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6803</ma><ten>Huyện Lạc Dương</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6804</ma><ten>Huyện Lâm Hà</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6805</ma><ten>Huyện Đơn Dương</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6806</ma><ten>Huyện Đức Trọng</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6807</ma><ten>Huyện Di Linh</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6808</ma><ten>Huyện Bảo Lâm</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6809</ma><ten>Huyện Đạ Huoai</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6810</ma><ten>Huyện Đạ Tẻh</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6811</ma><ten>Huyện Cát Tiên</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>6812</ma><ten>Huyện Đam Rông</ten><maTinh>68</maTinh><isUse>1</isUse></Item>
+<Item><ma>7001</ma><ten>Thị xã Đồng Xoài</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>7002</ma><ten>Huyện Bù Gia Mập</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>7003</ma><ten>Huyện Lộc Ninh</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>7004</ma><ten>Huyện Bù Đốp</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>7005</ma><ten>Huyện Hớn Quản</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>7006</ma><ten>Huyện Đồng Phú</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>7007</ma><ten>Huyện Bù Đăng</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>7008</ma><ten>Huyện Chơn Thành</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>7201</ma><ten>Thị xã Tây Ninh</ten><maTinh>72</maTinh><isUse>1</isUse></Item>
+<Item><ma>7202</ma><ten>Huyện Tân Biên</ten><maTinh>72</maTinh><isUse>1</isUse></Item>
+<Item><ma>7203</ma><ten>Huyện Tân Châu</ten><maTinh>72</maTinh><isUse>1</isUse></Item>
+<Item><ma>7204</ma><ten>Huyện Dương Minh Châu</ten><maTinh>72</maTinh><isUse>1</isUse></Item>
+<Item><ma>7205</ma><ten>Huyện Châu Thành</ten><maTinh>72</maTinh><isUse>1</isUse></Item>
+<Item><ma>7206</ma><ten>Huyện Hòa Thành</ten><maTinh>72</maTinh><isUse>1</isUse></Item>
+<Item><ma>7207</ma><ten>Huyện Gò Dầu</ten><maTinh>72</maTinh><isUse>1</isUse></Item>
+<Item><ma>7208</ma><ten>Huyện Bến Cầu</ten><maTinh>72</maTinh><isUse>1</isUse></Item>
+<Item><ma>7209</ma><ten>Huyện Trảng Bàng</ten><maTinh>72</maTinh><isUse>1</isUse></Item>
+<Item><ma>7401</ma><ten> Thành phố Thủ Dầu Một</ten><maTinh>74</maTinh><isUse>1</isUse></Item>
+<Item><ma>7402</ma><ten>Huyện Dầu Tiếng</ten><maTinh>74</maTinh><isUse>1</isUse></Item>
+<Item><ma>7403</ma><ten>Thị xã Bến Cát</ten><maTinh>74</maTinh><isUse>1</isUse></Item>
+<Item><ma>7404</ma><ten>Huyện Phú Giáo</ten><maTinh>74</maTinh><isUse>1</isUse></Item>
+<Item><ma>7405</ma><ten>Thị xã Tân Uyên</ten><maTinh>74</maTinh><isUse>1</isUse></Item>
+<Item><ma>7406</ma><ten>Thị xã Dĩ An</ten><maTinh>74</maTinh><isUse>1</isUse></Item>
+<Item><ma>7407</ma><ten>Thị xã Thuận An</ten><maTinh>74</maTinh><isUse>1</isUse></Item>
+<Item><ma>7501</ma><ten>Thành phố Biên Hòa</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7502</ma><ten>Thị xã Long Khánh</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7503</ma><ten>Huyện Tân Phú</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7504</ma><ten>Huyện Vĩnh Cửu</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7505</ma><ten>Huyện Định Quán</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7506</ma><ten>Huyện Trảng Bom</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7507</ma><ten>Huyện Thống Nhất</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7508</ma><ten>Huyện Cẩm Mỹ</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7509</ma><ten>Huyện Long Thành</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7510</ma><ten>Huyện Xuân Lộc</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7511</ma><ten>Huyện Nhơn Trạch</ten><maTinh>75</maTinh><isUse>1</isUse></Item>
+<Item><ma>7701</ma><ten>Thành phố Vũng Tàu</ten><maTinh>77</maTinh><isUse>1</isUse></Item>
+<Item><ma>7702</ma><ten>Thị xã Bà Rịa</ten><maTinh>77</maTinh><isUse>1</isUse></Item>
+<Item><ma>7703</ma><ten>Huyện Châu Đức</ten><maTinh>77</maTinh><isUse>1</isUse></Item>
+<Item><ma>7704</ma><ten>Huyện Xuyên Mộc</ten><maTinh>77</maTinh><isUse>1</isUse></Item>
+<Item><ma>7705</ma><ten>Huyện Long Điền</ten><maTinh>77</maTinh><isUse>1</isUse></Item>
+<Item><ma>7706</ma><ten>Huyện Đất Đỏ</ten><maTinh>77</maTinh><isUse>1</isUse></Item>
+<Item><ma>7707</ma><ten>Huyện Tân Thành</ten><maTinh>77</maTinh><isUse>1</isUse></Item>
+<Item><ma>7708</ma><ten>Huyện Côn Đảo</ten><maTinh>77</maTinh><isUse>1</isUse></Item>
+<Item><ma>7901</ma><ten>Quận 1</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7902</ma><ten>Quận 12</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7903</ma><ten>Quận Thủ Đức</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7904</ma><ten>Quận 9</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7905</ma><ten>Quận Gò Vấp</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7906</ma><ten>Quận Bình Thạnh</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7907</ma><ten>Quận Tân Bình</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7908</ma><ten>Quận Tân Phú</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7909</ma><ten>Quận Phú Nhuận</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7910</ma><ten>Quận 2</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7911</ma><ten>Quận 3</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7912</ma><ten>Quận 10</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7913</ma><ten>Quận 11</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7914</ma><ten>Quận 4</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7915</ma><ten>Quận 5</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7916</ma><ten>Quận 6</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7917</ma><ten>Quận 8</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7918</ma><ten>Quận Bình Tân</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7919</ma><ten>Quận 7</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7920</ma><ten>Huyện Củ Chi</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7921</ma><ten>Huyện Hóc Môn</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7922</ma><ten>Huyện Bình Chánh</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7923</ma><ten>Huyện Nhà Bè</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>7924</ma><ten>Huyện Cần Giờ</ten><maTinh>79</maTinh><isUse>1</isUse></Item>
+<Item><ma>8001</ma><ten>Thành phố Tân An</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8002</ma><ten>Huyện Tân Hưng</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8003</ma><ten>Huyện Vĩnh Hưng</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8004</ma><ten>Huyện Mộc Hóa</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8005</ma><ten>Huyện Tân Thạnh</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8006</ma><ten>Huyện Thạnh Hóa</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8007</ma><ten>Huyện Đức Huệ</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8008</ma><ten>Huyện Đức Hòa</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8009</ma><ten>Huyện Bến Lức</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8010</ma><ten>Huyện Thủ Thừa</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8011</ma><ten>Huyện Tân Trụ</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8012</ma><ten>Huyện Cần Đước</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8013</ma><ten>Huyện Cần Giuộc</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8014</ma><ten>Huyện Châu Thành</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>8201</ma><ten>Thành phố Mỹ Tho</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>8202</ma><ten>Thị xã Gò Công</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>8203</ma><ten>Huyện Tân Phước</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>8204</ma><ten>Huyện Cái Bè</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>8205</ma><ten>Huyện Cai Lậy</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>8206</ma><ten>Huyện Châu Thành</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>8207</ma><ten>Huyện Chợ Gạo</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>8208</ma><ten>Huyện Gò Công Tây</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>8209</ma><ten>Huyện Gò Công Đông</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>8301</ma><ten>Thành phố Bến Tre</ten><maTinh>83</maTinh><isUse>1</isUse></Item>
+<Item><ma>8302</ma><ten>Huyện Châu Thành</ten><maTinh>83</maTinh><isUse>1</isUse></Item>
+<Item><ma>8303</ma><ten>Huyện Chợ Lách</ten><maTinh>83</maTinh><isUse>1</isUse></Item>
+<Item><ma>8304</ma><ten>Huyện Mỏ Cày Nam</ten><maTinh>83</maTinh><isUse>1</isUse></Item>
+<Item><ma>8305</ma><ten>Huyện Giồng Trôm</ten><maTinh>83</maTinh><isUse>1</isUse></Item>
+<Item><ma>8306</ma><ten>Huyện Bình Đại</ten><maTinh>83</maTinh><isUse>1</isUse></Item>
+<Item><ma>8307</ma><ten>Huyện Ba Tri</ten><maTinh>83</maTinh><isUse>1</isUse></Item>
+<Item><ma>8308</ma><ten>Huyện Thạnh Phú</ten><maTinh>83</maTinh><isUse>1</isUse></Item>
+<Item><ma>8401</ma><ten>Thành phố Trà Vinh</ten><maTinh>84</maTinh><isUse>1</isUse></Item>
+<Item><ma>8402</ma><ten>Huyện Càng Long</ten><maTinh>84</maTinh><isUse>1</isUse></Item>
+<Item><ma>8403</ma><ten>Huyện Cầu Kè</ten><maTinh>84</maTinh><isUse>1</isUse></Item>
+<Item><ma>8404</ma><ten>Huyện Tiểu Cần</ten><maTinh>84</maTinh><isUse>1</isUse></Item>
+<Item><ma>8405</ma><ten>Huyện Châu Thành</ten><maTinh>84</maTinh><isUse>1</isUse></Item>
+<Item><ma>8406</ma><ten>Huyện Cầu Ngang</ten><maTinh>84</maTinh><isUse>1</isUse></Item>
+<Item><ma>8407</ma><ten>Huyện Trà Cú</ten><maTinh>84</maTinh><isUse>1</isUse></Item>
+<Item><ma>8408</ma><ten>Huyện Duyên Hải</ten><maTinh>84</maTinh><isUse>1</isUse></Item>
+<Item><ma>8601</ma><ten>Thành phố Vĩnh Long</ten><maTinh>86</maTinh><isUse>1</isUse></Item>
+<Item><ma>8602</ma><ten>Huyện Long Hồ</ten><maTinh>86</maTinh><isUse>1</isUse></Item>
+<Item><ma>8603</ma><ten>Huyện Mang Thít</ten><maTinh>86</maTinh><isUse>1</isUse></Item>
+<Item><ma>8604</ma><ten>Huyện  Vũng Liêm</ten><maTinh>86</maTinh><isUse>1</isUse></Item>
+<Item><ma>8605</ma><ten>Huyện Tam Bình</ten><maTinh>86</maTinh><isUse>1</isUse></Item>
+<Item><ma>8606</ma><ten>Thị xã Bình Minh</ten><maTinh>86</maTinh><isUse>1</isUse></Item>
+<Item><ma>8607</ma><ten>Huyện Trà Ôn</ten><maTinh>86</maTinh><isUse>1</isUse></Item>
+<Item><ma>8701</ma><ten>Thành phố Cao Lãnh</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8702</ma><ten>Thành phố Sa Đéc</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8703</ma><ten>Huyện Tân Hồng</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8704</ma><ten>Huyện Hồng Ngự</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8705</ma><ten>Huyện Tam Nông</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8706</ma><ten>Huyện Tháp Mười</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8707</ma><ten>Huyện Cao Lãnh</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8708</ma><ten>Huyện Thanh Bình</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8709</ma><ten>Huyện Lấp Vò</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8710</ma><ten>Huyện Lai Vung</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8711</ma><ten>Huyện Châu Thành</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>8901</ma><ten>Thành phố Long Xuyên</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8902</ma><ten>Thành phố Châu Đốc</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8903</ma><ten>Huyện An Phú</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8904</ma><ten>Thị xã Tân Châu</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8905</ma><ten>Huyện Phú Tân</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8906</ma><ten>Huyện Châu Phú</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8907</ma><ten>Huyện Tịnh Biên</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8908</ma><ten>Huyện Tri Tôn</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8909</ma><ten>Huyện Chợ Mới</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8910</ma><ten>Huyện Châu Thành</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>8911</ma><ten>Huyện Thoại Sơn</ten><maTinh>89</maTinh><isUse>1</isUse></Item>
+<Item><ma>9101</ma><ten>Thành phố Rạch Giá</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9102</ma><ten>Thị xã Hà Tiên</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9103</ma><ten>Huyện Kiên Lương</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9104</ma><ten>Huyện Hòn Đất</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9105</ma><ten>Huyện Tân Hiệp</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9106</ma><ten>Huyện Châu Thành</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9107</ma><ten>Huyện Giồng Riềng</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9108</ma><ten>Huyện Gò Quao</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9109</ma><ten>Huyện An Biên</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9110</ma><ten>Huyện An Minh</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9111</ma><ten>Huyện Vĩnh Thuận</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9112</ma><ten>Huyện Phú Quốc</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9113</ma><ten>Huyện Kiên Hải</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>9201</ma><ten>Quận Ninh Kiều</ten><maTinh>92</maTinh><isUse>1</isUse></Item>
+<Item><ma>9202</ma><ten>Quận Ô Môn</ten><maTinh>92</maTinh><isUse>1</isUse></Item>
+<Item><ma>9203</ma><ten>Quận Bình Thuỷ</ten><maTinh>92</maTinh><isUse>1</isUse></Item>
+<Item><ma>9204</ma><ten>Quận Cái Răng</ten><maTinh>92</maTinh><isUse>1</isUse></Item>
+<Item><ma>9205</ma><ten>Quận Thốt Nốt</ten><maTinh>92</maTinh><isUse>1</isUse></Item>
+<Item><ma>9206</ma><ten>Huyện Vĩnh Thạnh</ten><maTinh>92</maTinh><isUse>1</isUse></Item>
+<Item><ma>9207</ma><ten>Huyện Cờ Đỏ</ten><maTinh>92</maTinh><isUse>1</isUse></Item>
+<Item><ma>9208</ma><ten>Huyện Phong Điền</ten><maTinh>92</maTinh><isUse>1</isUse></Item>
+<Item><ma>9301</ma><ten>Thành phố Vị Thanh</ten><maTinh>93</maTinh><isUse>1</isUse></Item>
+<Item><ma>9302</ma><ten>Huyện Châu Thành  A</ten><maTinh>93</maTinh><isUse>1</isUse></Item>
+<Item><ma>9303</ma><ten>Huyện Châu Thành</ten><maTinh>93</maTinh><isUse>1</isUse></Item>
+<Item><ma>9304</ma><ten>Huyện Phụng Hiệp</ten><maTinh>93</maTinh><isUse>1</isUse></Item>
+<Item><ma>9305</ma><ten>Huyện Vị Thuỷ</ten><maTinh>93</maTinh><isUse>1</isUse></Item>
+<Item><ma>9306</ma><ten>Huyện Long Mỹ</ten><maTinh>93</maTinh><isUse>1</isUse></Item>
+<Item><ma>9307</ma><ten>Thị Xã Ngã Bảy</ten><maTinh>93</maTinh><isUse>1</isUse></Item>
+<Item><ma>9401</ma><ten>Thành phố Sóc Trăng</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>9402</ma><ten>Huyện Kế Sách</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>9403</ma><ten>Huyện Mỹ Tú</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>9404</ma><ten>Huyện Cù Lao Dung</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>9405</ma><ten>Huyện Long Phú</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>9406</ma><ten>Huyện Mỹ Xuyên</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>9407</ma><ten>Thị xã Ngã Năm</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>9408</ma><ten>Huyện Thạnh Trị</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>9409</ma><ten>Thị xã Vĩnh Châu</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>9501</ma><ten>Thành phố Bạc Liêu</ten><maTinh>95</maTinh><isUse>1</isUse></Item>
+<Item><ma>9502</ma><ten>Huyện Hồng Dân</ten><maTinh>95</maTinh><isUse>1</isUse></Item>
+<Item><ma>9503</ma><ten>Huyện Phước Long</ten><maTinh>95</maTinh><isUse>1</isUse></Item>
+<Item><ma>9504</ma><ten>Huyện Vĩnh Lợi</ten><maTinh>95</maTinh><isUse>1</isUse></Item>
+<Item><ma>9505</ma><ten>Huyện Giá Rai</ten><maTinh>95</maTinh><isUse>1</isUse></Item>
+<Item><ma>9506</ma><ten>Huyện Đông Hải</ten><maTinh>95</maTinh><isUse>1</isUse></Item>
+<Item><ma>9507</ma><ten>Huyện Hòa Bình</ten><maTinh>95</maTinh><isUse>1</isUse></Item>
+<Item><ma>9601</ma><ten>Thành phố Cà Mau</ten><maTinh>96</maTinh><isUse>1</isUse></Item>
+<Item><ma>9602</ma><ten>Huyện U Minh</ten><maTinh>96</maTinh><isUse>1</isUse></Item>
+<Item><ma>9603</ma><ten>Huyện Thới Bình</ten><maTinh>96</maTinh><isUse>1</isUse></Item>
+<Item><ma>9604</ma><ten>Huyện Trần Văn Thời</ten><maTinh>96</maTinh><isUse>1</isUse></Item>
+<Item><ma>9605</ma><ten>Huyện Cái Nước</ten><maTinh>96</maTinh><isUse>1</isUse></Item>
+<Item><ma>9606</ma><ten>Huyện Đầm Dơi</ten><maTinh>96</maTinh><isUse>1</isUse></Item>
+<Item><ma>9607</ma><ten>Huyện Năm Căn</ten><maTinh>96</maTinh><isUse>1</isUse></Item>
+<Item><ma>9608</ma><ten>Huyện Phú Tân</ten><maTinh>96</maTinh><isUse>1</isUse></Item>
+<Item><ma>9609</ma><ten>Huyện Ngọc Hiển</ten><maTinh>96</maTinh><isUse>1</isUse></Item>
+<Item><ma>1109</ma><ten>Huyện Mường ảng</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>6708</ma><ten>Huyện Tuy Đức</ten><maTinh>67</maTinh><isUse>1</isUse></Item>
+<Item><ma>2513</ma><ten>Huyện Tân Sơn</ten><maTinh>25</maTinh><isUse>1</isUse></Item>
+<Item><ma>9114</ma><ten>Huyện U Minh Thượng</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>6416</ma><ten>Huyện Phú Thiện</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>4212</ma><ten>Huyện Lộc Hà</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+<Item><ma>5609</ma><ten>Huyện Cam Lâm</ten><maTinh>56</maTinh><isUse>1</isUse></Item>
+<Item><ma>6614</ma><ten>Huyện Cư Kuin</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>3115</ma><ten>Quận Dương Kinh</ten><maTinh>31</maTinh><isUse>1</isUse></Item>
+<Item><ma>8608</ma><ten>Huyện Bình Tân</ten><maTinh>86</maTinh><isUse>1</isUse></Item>
+<Item><ma>8210</ma><ten>Tân Phú Đông</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>4918</ma><ten>Huyện Nông Sơn</ten><maTinh>49</maTinh><isUse>1</isUse></Item>
+<Item><ma>4020</ma><ten>Thị xã Thái Hoà</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>1207</ma><ten>Huyện Tân Uyên</ten><maTinh>12</maTinh><isUse>1</isUse></Item>
+<Item><ma>9209</ma><ten>Huyện Thới Lai</ten><maTinh>92</maTinh><isUse>1</isUse></Item>
+<Item><ma>6615</ma><ten>Thị xã Buôn Hồ</ten><maTinh>66</maTinh><isUse>1</isUse></Item>
+<Item><ma>9410</ma><ten>Huyện Châu Thành</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>8309</ma><ten>Huyện Mỏ Cày Bắc</ten><maTinh>83</maTinh><isUse>1</isUse></Item>
+<Item><ma>2610</ma><ten>Huyện Sông Lô</ten><maTinh>26</maTinh><isUse>1</isUse></Item>
+<Item><ma>8712</ma><ten>Thị xã Hồng Ngự</ten><maTinh>87</maTinh><isUse>1</isUse></Item>
+<Item><ma>9115</ma><ten>Huyện Giang Thành</ten><maTinh>91</maTinh><isUse>1</isUse></Item>
+<Item><ma>5807</ma><ten>Huyện Thuận Nam</ten><maTinh>58</maTinh><isUse>1</isUse></Item>
+<Item><ma>7009</ma><ten>Thị xã Bình Long</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>7010</ma><ten>Thị xã Phước Long</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>6417</ma><ten>Huyện Chư Pưh</ten><maTinh>64</maTinh><isUse>1</isUse></Item>
+<Item><ma>9411</ma><ten>Huyện Trần Đề</ten><maTinh>94</maTinh><isUse>1</isUse></Item>
+<Item><ma>0807</ma><ten>Huyện Lâm Bình</ten><maTinh>08</maTinh><isUse>1</isUse></Item>
+<Item><ma>9701</ma><ten>Huyen a</ten><maTinh>97</maTinh><isUse>1</isUse></Item>
+<Item><ma>8015</ma><ten>Thị xã Kiến Tường</ten><maTinh>80</maTinh><isUse>1</isUse></Item>
+<Item><ma>1110</ma><ten>Huyện Nậm Pồ</ten><maTinh>11</maTinh><isUse>1</isUse></Item>
+<Item><ma>1208</ma><ten>Huyện Nậm Nhùn</ten><maTinh>12</maTinh><isUse>1</isUse></Item>
+<Item><ma>4021</ma><ten>Thị xã Hoàng Mai</ten><maTinh>40</maTinh><isUse>1</isUse></Item>
+<Item><ma>1412</ma><ten>Huyện Vân Hồ</ten><maTinh>14</maTinh><isUse>1</isUse></Item>
+<Item><ma>7408</ma><ten>Huyện Bàu Bàng</ten><maTinh>74</maTinh><isUse>1</isUse></Item>
+<Item><ma>7409</ma><ten>Huyện Bắc Tân Uyên</ten><maTinh>74</maTinh><isUse>1</isUse></Item>
+<Item><ma>0131</ma><ten>Quận Bắc Từ Liêm</ten><maTinh>01</maTinh><isUse>1</isUse></Item>
+<Item><ma>8211</ma><ten>Thị xã Cai Lậy</ten><maTinh>82</maTinh><isUse>1</isUse></Item>
+<Item><ma>4408</ma><ten>Thị xã Ba Đồn</ten><maTinh>44</maTinh><isUse>1</isUse></Item>
+<Item><ma>6210</ma><ten>Huyện Ia H'Drai</ten><maTinh>62</maTinh><isUse>1</isUse></Item>
+<Item><ma>8409</ma><ten>Thị xã Duyên Hải</ten><maTinh>84</maTinh><isUse>1</isUse></Item>
+<Item><ma>7011</ma><ten>Huyện Phú Riềng</ten><maTinh>70</maTinh><isUse>1</isUse></Item>
+<Item><ma>9308</ma><ten>Thị xã Long Mỹ</ten><maTinh>93</maTinh><isUse>1</isUse></Item>
+<Item><ma>4213</ma><ten>Thị xã Kỳ Anh</ten><maTinh>42</maTinh><isUse>1</isUse></Item>
+</DanhMuc>
