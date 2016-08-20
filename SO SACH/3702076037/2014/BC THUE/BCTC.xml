@@ -25,7 +25,7 @@
 					</KyKKhaiThue>
 					<maCQTNoiNop>71109</maCQTNoiNop>
 					<tenCQTNoiNop>Chi cục Thuế Thị Xã Dĩ An</tenCQTNoiNop>
-					<ngayLapTKhai>2015-03-31</ngayLapTKhai>
+					<ngayLapTKhai>2015-04-04</ngayLapTKhai>
 					<GiaHan>
 						<maLyDoGiaHan/>
 						<lyDoGiaHan/>
@@ -51,7 +51,7 @@
 		</TTinChung>
 		<CTieuTKhaiChinh>
 			<SoCuoiNam>
-				<ct100_nNay>2537543042</ct100_nNay>
+				<ct100_nNay>2549875882</ct100_nNay>
 				<ct110_nNay>2188833957</ct110_nNay>
 				<ct120_nNay>0</ct120_nNay>
 				<ct121_nNay>0</ct121_nNay>
@@ -61,8 +61,8 @@
 				<ct132_nNay>158131</ct132_nNay>
 				<ct138_nNay>0</ct138_nNay>
 				<ct139_nNay>0</ct139_nNay>
-				<ct140_nNay>205425517</ct140_nNay>
-				<ct141_nNay>205425517</ct141_nNay>
+				<ct140_nNay>217758357</ct140_nNay>
+				<ct141_nNay>217758357</ct141_nNay>
 				<ct149_nNay>0</ct149_nNay>
 				<ct150_nNay>0</ct150_nNay>
 				<ct151_nNay>0</ct151_nNay>
@@ -84,13 +84,13 @@
 				<ct241_nNay>0</ct241_nNay>
 				<ct248_nNay>4609089</ct248_nNay>
 				<ct249_nNay>0</ct249_nNay>
-				<ct250_nNay>2542152131</ct250_nNay>
-				<ct300_nNay>49945955</ct300_nNay>
-				<ct310_nNay>49945955</ct310_nNay>
+				<ct250_nNay>2554484971</ct250_nNay>
+				<ct300_nNay>50891551</ct300_nNay>
+				<ct310_nNay>50891551</ct310_nNay>
 				<ct311_nNay>0</ct311_nNay>
 				<ct312_nNay>36260573</ct312_nNay>
 				<ct313_nNay>452015</ct313_nNay>
-				<ct314_nNay>2911367</ct314_nNay>
+				<ct314_nNay>3856963</ct314_nNay>
 				<ct315_nNay>10322000</ct315_nNay>
 				<ct316_nNay>0</ct316_nNay>
 				<ct318_nNay>0</ct318_nNay>
@@ -105,16 +105,16 @@
 				<ct336_nNay>0</ct336_nNay>
 				<ct338_nNay>0</ct338_nNay>
 				<ct339_nNay>0</ct339_nNay>
-				<ct400_nNay>2492206176</ct400_nNay>
-				<ct410_nNay>2492206176</ct410_nNay>
+				<ct400_nNay>2503593420</ct400_nNay>
+				<ct410_nNay>2503593420</ct410_nNay>
 				<ct411_nNay>2500000000</ct411_nNay>
 				<ct412_nNay>0</ct412_nNay>
 				<ct413_nNay>0</ct413_nNay>
 				<ct414_nNay>0</ct414_nNay>
 				<ct415_nNay>0</ct415_nNay>
 				<ct416_nNay>0</ct416_nNay>
-				<ct417_nNay>-7793824</ct417_nNay>
-				<ct440_nNay>2542152131</ct440_nNay>
+				<ct417_nNay>3593420</ct417_nNay>
+				<ct440_nNay>2554484971</ct440_nNay>
 			</SoCuoiNam>
 			<SoDauNam>
 				<ct100_nNgoai>2756268890</ct100_nNgoai>
@@ -209,19 +209,19 @@
 					<ct01_nNay>945722084</ct01_nNay>
 					<ct02_nNay>0</ct02_nNay>
 					<ct10_nNay>945722084</ct10_nNay>
-					<ct11_nNay>801732120</ct11_nNay>
-					<ct20_nNay>143989964</ct20_nNay>
+					<ct11_nNay>789399280</ct11_nNay>
+					<ct20_nNay>156322804</ct20_nNay>
 					<ct21_nNay>21132</ct21_nNay>
 					<ct22_nNay>0</ct22_nNay>
 					<ct23_nNay>0</ct23_nNay>
 					<ct24_nNay>153220766</ct24_nNay>
-					<ct30_nNay>-9209670</ct30_nNay>
+					<ct30_nNay>3123170</ct30_nNay>
 					<ct31_nNay>0</ct31_nNay>
 					<ct32_nNay>0</ct32_nNay>
 					<ct40_nNay>0</ct40_nNay>
-					<ct50_nNay>-9209670</ct50_nNay>
-					<ct51_nNay>0</ct51_nNay>
-					<ct60_nNay>-9209670</ct60_nNay>
+					<ct50_nNay>3123170</ct50_nNay>
+					<ct51_nNay>945596</ct51_nNay>
+					<ct60_nNay>2177574</ct60_nNay>
 				</SoNamNay>
 				<SoNamNgoai>
 					<ct01_nNgoai>1574594484</ct01_nNgoai>
@@ -599,8 +599,8 @@
 						<ct142>0</ct142>
 						<ct152>476014483</ct152>
 						<ct153>0</ct153>
-						<ct154>399102498</ct154>
-						<ct155>399102498</ct155>
+						<ct154>386769658</ct154>
+						<ct155>386769658</ct155>
 						<ct156>360187429</ct156>
 						<ct157>0</ct157>
 						<ct159>0</ct159>
@@ -695,14 +695,14 @@
 						<ct5213>0</ct5213>
 						<ct611>0</ct611>
 						<ct631>0</ct631>
-						<ct632>801732120</ct632>
+						<ct632>789399280</ct632>
 						<ct635>0</ct635>
 						<ct642>153220766</ct642>
 						<ct6421>13863637</ct6421>
 						<ct6422>139357129</ct6422>
 						<ct711>0</ct711>
 						<ct811>0</ct811>
-						<ct821>0</ct821>
+						<ct821>945596</ct821>
 						<ct911>976672914</ct911>
 						<ct1>0</ct1>
 						<ct2>0</ct2>
@@ -729,10 +729,10 @@
 						<ct1388>0</ct1388>
 						<ct141>0</ct141>
 						<ct142>0</ct142>
-						<ct152>445723874</ct152>
+						<ct152>433391034</ct152>
 						<ct153>0</ct153>
-						<ct154>399102498</ct154>
-						<ct155>399102498</ct155>
+						<ct154>386769658</ct154>
+						<ct155>386769658</ct155>
 						<ct156>356008246</ct156>
 						<ct157>0</ct157>
 						<ct159>0</ct159>
@@ -764,13 +764,13 @@
 						<ct311>0</ct311>
 						<ct315>0</ct315>
 						<ct331>913906443</ct331>
-						<ct333>96072209</ct333>
+						<ct333>97017805</ct333>
 						<ct3331>94572209</ct3331>
 						<ct33311>94572209</ct33311>
 						<ct33312>0</ct33312>
 						<ct3332>0</ct3332>
 						<ct3333>0</ct3333>
-						<ct3334>0</ct3334>
+						<ct3334>945596</ct3334>
 						<ct3335>0</ct3335>
 						<ct3336>0</ct3336>
 						<ct3337>0</ct3337>
@@ -812,9 +812,9 @@
 						<ct413>0</ct413>
 						<ct418>0</ct418>
 						<ct419>0</ct419>
-						<ct421>23135874</ct421>
+						<ct421>34523118</ct421>
 						<ct4211>1415846</ct4211>
-						<ct4212>21720028</ct4212>
+						<ct4212>33107272</ct4212>
 						<ct511>945722084</ct511>
 						<ct5111>476793690</ct5111>
 						<ct5112>468928394</ct5112>
@@ -827,14 +827,14 @@
 						<ct5213>0</ct5213>
 						<ct611>0</ct611>
 						<ct631>0</ct631>
-						<ct632>801732120</ct632>
+						<ct632>789399280</ct632>
 						<ct635>0</ct635>
 						<ct642>153220766</ct642>
 						<ct6421>13863637</ct6421>
 						<ct6422>139357129</ct6422>
 						<ct711>0</ct711>
 						<ct811>0</ct811>
-						<ct821>0</ct821>
+						<ct821>945596</ct821>
 						<ct911>976672914</ct911>
 						<ct1>0</ct1>
 						<ct2>0</ct2>
@@ -863,7 +863,7 @@
 						<ct1388>0</ct1388>
 						<ct141>0</ct141>
 						<ct142>0</ct142>
-						<ct152>103280693</ct152>
+						<ct152>115613533</ct152>
 						<ct153>0</ct153>
 						<ct154>0</ct154>
 						<ct155>0</ct155>
@@ -946,9 +946,9 @@
 						<ct413>0</ct413>
 						<ct418>0</ct418>
 						<ct419>0</ct419>
-						<ct421>9209670</ct421>
+						<ct421>0</ct421>
 						<ct4211>0</ct4211>
-						<ct4212>9209670</ct4212>
+						<ct4212>0</ct4212>
 						<ct511>0</ct511>
 						<ct5111>0</ct5111>
 						<ct5112>0</ct5112>
@@ -1030,13 +1030,13 @@
 						<ct311>0</ct311>
 						<ct315>0</ct315>
 						<ct331>36260573</ct331>
-						<ct333>2911367</ct333>
+						<ct333>3856963</ct333>
 						<ct3331>2911367</ct3331>
 						<ct33311>2911367</ct33311>
 						<ct33312>0</ct33312>
 						<ct3332>0</ct3332>
 						<ct3333>0</ct3333>
-						<ct3334>0</ct3334>
+						<ct3334>945596</ct3334>
 						<ct3335>0</ct3335>
 						<ct3336>0</ct3336>
 						<ct3337>0</ct3337>
@@ -1078,9 +1078,9 @@
 						<ct413>0</ct413>
 						<ct418>0</ct418>
 						<ct419>0</ct419>
-						<ct421>1415846</ct421>
+						<ct421>3593420</ct421>
 						<ct4211>1415846</ct4211>
-						<ct4212>0</ct4212>
+						<ct4212>2177574</ct4212>
 						<ct511>0</ct511>
 						<ct5111>0</ct5111>
 						<ct5112>0</ct5112>
@@ -1111,9 +1111,9 @@
 				</SoDuCuoiNam>
 			</PL_CDTK></PLuc>
 	</HSoKhaiThue>
-<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>vGGBG/OuOCWEaDFMXKgwZHuwJzc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>Pxg51w4t3puyTrOhtQQpm3umkJurS/pO+RZdSDfeu7E4h1pSnDdVmdt26UQ6qBZVg28D8ZlXk20B
-ZQskzTpQJIEkNBxJWui5CAa1ZfrI43RKC/8SSqhBskoslPXG/3It2JyGokThpNe2Xtu5gzARlZT1
-IVMPLu4ZlrB2Vb1koUo=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>th591Iq4Os6k1elpTcBYS9RLxs+dRNlwGvp30Gf+/0b+whp2k5TeL84cTE2hhPvJpC1HUxwkpd83
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>DSZRjeiF7oSgAtrerNMaYfmgKLI=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>NLy62E1tMj5pDbDueSflCdpuK8CX4g/5PyA8h1y8tz8l2vYa0IlknnocmNT4BzVI9IonrVhwUAkO
+zlDork3jZyajO75Url/VHBxdDqaX+O3nScfuxKl4n4qBTi0am+1FL3rc9IORfa1PPf99sr49WwBc
+tJUR2Op3HeB1Wutnra8=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>th591Iq4Os6k1elpTcBYS9RLxs+dRNlwGvp30Gf+/0b+whp2k5TeL84cTE2hhPvJpC1HUxwkpd83
 98V86DuEC72E4y7ELbj8ipZhfAj3OcoqCfBvuR+FZCwOfoZexzdIT51c4rpvOCL5DFpM7VGt4puJ
 8h9lhjN7T4Z9Kv8GOeE=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,L=Bình Dương,CN=CÔNG TY TNHH MỘT THÀNH VIÊN KHỞI NGUYÊN AN,UID=MST:3702076037</ds:X509SubjectName><ds:X509Certificate>MIID2DCCAsCgAwIBAgIQVAT//rcDP7IBSCwXB6QH/jANBgkqhkiG9w0BAQUFADA6MQswCQYDVQQG
 EwJWTjEWMBQGA1UEChMNVmlldHRlbCBHcm91cDETMBEGA1UEAxMKVmlldHRlbC1DQTAeFw0xNTAz
