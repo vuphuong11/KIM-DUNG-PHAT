@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="ID_18">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.7</pbanDVu>
+				<ttinNhaCCapDVu/>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>01</maTKhai>
+					<tenTKhai>TỜ KHAI THUẾ GIÁ TRỊ GIA TĂNG (Mẫu số 01/GTGT)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>2/2016</kyKKhai>
+						<kyKKhaiTuNgay>01/04/2016</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>30/06/2016</kyKKhaiDenNgay>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
+					</KyKKhaiThue>
+					<maCQTNoiNop>71109</maCQTNoiNop>
+					<tenCQTNoiNop>Chi cục Thuế Thị Xã Dĩ An</tenCQTNoiNop>
+					<ngayLapTKhai>2016-07-30</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
+					</GiaHan>
+					<nguoiKy>Võ Ngọc Thùy Lan</nguoiKy>
+					<ngayKy>2016-07-19</ngayKy>
+					<nganhNgheKD>Buôn bán bao bì giấy</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>3702076037</mst>
+					<tenNNT>CÔNG TY TNHH MTV KHỞI NGUYÊN AN</tenNNT>
+					<dchiNNT>Thửa đất số 144, Tờ bản đồ số 12TĐH.1, tổ 1, kp.Đông Tác, P.Tân Đông Hiệp</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
+					<tenHuyenNNT>Thị Xã Dĩ An</tenHuyenNNT>
+					<maTinhNNT/>
+					<tenTinhNNT>Bình Dương</tenTinhNNT>
+					<dthoaiNNT>065 0627 1106</dthoaiNNT>
+					<faxNNT/>
+					<emailNNT>khoinguyenan@gmail.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan>1701</tieuMucHachToan>
+			<ct21>0</ct21>
+			<ct22>8316990</ct22>
+			<GiaTriVaThueGTGTHHDVMuaVao>
+				<ct23>1473145173</ct23>
+				<ct24>146991023</ct24>
+			</GiaTriVaThueGTGTHHDVMuaVao>
+			<ct25>146991023</ct25>
+			<ct26>0</ct26>
+			<HHDVBRaChiuThueGTGT>
+				<ct27>1533168998</ct27>
+				<ct28>153316898</ct28>
+			</HHDVBRaChiuThueGTGT>
+			<ct29>0</ct29>
+			<HHDVBRaChiuTSuat5>
+				<ct30>0</ct30>
+				<ct31>0</ct31>
+			</HHDVBRaChiuTSuat5>
+			<HHDVBRaChiuTSuat10>
+				<ct32>1533168998</ct32>
+				<ct33>153316898</ct33>
+			</HHDVBRaChiuTSuat10>
+			<TongDThuVaThueGTGTHHDVBRa>
+				<ct34>1533168998</ct34>
+				<ct35>153316898</ct35>
+			</TongDThuVaThueGTGTHHDVBRa>
+			<ct36>6325875</ct36>
+			<ct37>16014000</ct37>
+			<ct38>15326350</ct38>
+			<ct39>0</ct39>
+			<ct40a>0</ct40a>
+			<ct40b>0</ct40b>
+			<ct40>0</ct40>
+			<ct41>1303465</ct41>
+			<ct42>0</ct42>
+			<ct43>1303465</ct43>
+		</CTieuTKhaiChinh>
+	</HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#ID_18"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>eHnEL/Z6dPUiBk5scaP59oVOuk0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>mYgQV7NftT27wwqOOdX/KyaH8FQbSmMz01OLm9LEDsNKI0bWAOozT/Y9NjtzFwMfrsXZzYHKfAzD
+xGaA6pgj4SmXC1jgnQpIWu3jHpaXPs8GXRWC3QJ7IuY2MctfCLrIaHEZ2r/kxSGKzBhpCZVwIAfd
+yUNwGlKCUhE6d+of5yk=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>qLF/7jmJNNjVRkedKKHld9iU5Sq4oOq2ky6stFnXSMMSxgj7EzJLqBmYX9iY6TAcENUIx0AP2JR5
+35NQddan9mKNwj2+6kIV6P4QbkvgugELXlWAprgy1FrvrLVb5s6Bk5c9yzrrrTQnNshQnW6aUu2U
+np1Ic5uZz+zWvkwdVxE=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>UID=MST:3702076037,CN=CÔNG TY TNHH MỘT THÀNH VIÊN KHỞI NGUYÊN AN,L=Thị Xã Dĩ An,ST=Bình Dương,C=VN</ds:X509SubjectName><ds:X509Certificate>MIIEtjCCA56gAwIBAgIQVAl/J9bseYHDN8lvhZgwMjANBgkqhkiG9w0BAQsFADBaMQswCQYDVQQG
+EwJWTjE3MDUGA1UECgwuQ8OUTkcgVFkgQ+G7lCBQSOG6pk4gVknhu4ROIFRIw5RORyBORVctVEVM
+RUNPTTESMBAGA1UEAxMJTkVXVEVMLUNBMB4XDTE2MDYwMjA2MDkwN1oXDTE4MTEyMjE1Mjc1Mlow
+gZ0xCzAJBgNVBAYTAlZOMRYwFAYDVQQIDA1Cw6xuaCBExrDGoW5nMRkwFwYDVQQHDBBUaOG7iyBY
+w6MgRMSpIEFuMTswOQYDVQQDDDJDw5RORyBUWSBUTkhIIE3hu5hUIFRIw4BOSCBWScOKTiBLSOG7
+nkkgTkdVWcOKTiBBTjEeMBwGCgmSJomT8ixkAQEMDk1TVDozNzAyMDc2MDM3MIGfMA0GCSqGSIb3
+DQEBAQUAA4GNADCBiQKBgQCosX/uOYk02NVGR50ooeV32JTlKrig6raTLqy0WddIwxLGCPsTMkuo
+GZhf2JjpMBwQ1QjHQA/YlHnfk1B11qf2Yo3CPb7qQhXo/hBuS+C6AQteVYCmuDLUWu+stVvmzoGT
+lz3LOuutNCc2yFCdbppS7ZSenUhzm5nP7Na+TB1XEQIDAQABo4IBtjCCAbIwaQYIKwYBBQUHAQEE
+XTBbMC0GCCsGAQUFBzAChiFodHRwOi8vcHViLm5ld2NhLnZuL25ld3RlbC1jYS5jcnQwKgYIKwYB
+BQUHMAGGHmh0dHA6Ly9vY3NwLm5ld2NhLnZuL3Jlc3BvbmRlcjAdBgNVHQ4EFgQUHbFRQa0C4+2f
+6Zl4wkuz0Szkk4UwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQ6i9KVO6e/lgk9Fx/37GR7tFUT
+TzBZBgNVHSAEUjBQME4GDCsGAQQBge0DAQkDATA+MBcGCCsGAQUFBwICMAsMCU9TX05ld18zWTAj
+BggrBgEFBQcCARYXaHR0cDovL3B1Yi5uZXdjYS52bi9ycGEwMgYDVR0fBCswKTAnoCWgI4YhaHR0
+cDovL2NybC5uZXdjYS52bi9uZXd0ZWwtY2EuY3JsMA4GA1UdDwEB/wQEAwIE8DA0BgNVHSUELTAr
+BggrBgEFBQcDAgYIKwYBBQUHAwQGCisGAQQBgjcKAwwGCSqGSIb3LwEBBTAiBgNVHREEGzAZgRdj
+aHVreXNvLnV2LmhuQGdtYWlsLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAcWNvX7csnGH3w1QqgwPX
+QBp2U57GswwzCf2l02bgXRU6mum44gAI8RF1eynTXy83cz4uXSCU5qIC+6qDE9+kJMczSKgI1Ltg
+uBlmcVtTubTR2rKMZKMVifW4/YXg06M2JVtlVeJKrnTgRWyPBBWmsrfFFBD5DHUYPZyU9k/8PIbY
++OqzpnF1tNdRMO3+hjRK0i9v51B5OeRSPZkJXDDQMOmXTNBsUdzcyPprdiVooQw7wG29YzRT3bWV
+dr2WQH/2YTqkvNEp0KAVppKzTKXCnO6m3GKUbkWzVMXoLyFVEDvNgtseudndRlbs5zZOPvOyl3Xe
+goaUBBzs1UabsHmlmg==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
